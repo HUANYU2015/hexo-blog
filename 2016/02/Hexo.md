@@ -343,7 +343,7 @@ tags: [Hexo,IntelliJ IDEA,Git,Github,Node.js]
 ```
 
 
-### 结束语
+## 结束语
 
 - 我希望从这一篇你也可以再一次了解到 IntelliJ IDEA 的美丽之处。
 - 最后，欢迎再次来到 IntelliJ IDEA 的世界！
