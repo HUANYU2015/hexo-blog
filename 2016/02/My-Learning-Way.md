@@ -4,16 +4,16 @@ date: 2016-03-07 20:50:25
 description: "以我的个人角度来看待学习这件长久的事，希望对你有帮助，也希望你能提一下你的意见"
 categories: [学习方法,Java]
 tags: [学习方法,Maven,Java]
--------------------
+---
 
 
 <!-- more -->
 
 ## 本文 Markdown 源文件地址
 
-- 转载请注明出处：<>
+- 转载请注明出处：<https://github.com/judasn/hexo-blog/blob/master/2016/02/My-Learning-Way.md>
 
-## 学习全新技术/东西
+## 当我们要学习新技术/东西
 
 - 在过去未被自己流程化的情况下，自己学习新的东西的时候一直是处理迷迷糊糊的状态，直到我看到这张思维导图，我瞬间就理清自己平时在学习东西时候那混乱的思维了。
 - 可能平时我们也是这样做的，可是我们从来没有认真思考过或是整理过这样的思绪。也许你认为这样不重要，但是对我而言，有记录的东西，代表可以被流程化，这可以帮助特定情况下的我。
@@ -28,19 +28,19 @@ tags: [学习方法,Maven,Java]
     - 百度百科定义：<http://baike.baidu.com/view/336103.htm>
     - 维基百科定义：<https://zh.wikipedia.org/wiki/Apache_Maven>
         - 在 Wiki 上还需要注意如下，这些有助于你站在更加宏观的角度看待它，但是可能需要积累：
-            - 参见
-            - 补充阅读
-            - 参考资料
-            - 外部链接
+            - `参见`
+            - `补充阅读`
+            - `参考资料`
+            - `外部链接`
 - 它的历史
-    - Google 搜索：'Maven History'
+    - Google 搜索：`Maven History`
     - Google 搜索：`Maven 区别`、`Maven difference`
         - 在 Google 搜索结果页最下面，看它提示的搜索关键字内容，看是否有版本上的区别。
 - 同类常见技术（按技术出现时间正序）
-    - Ant
-    - Gradle
+    - `Ant`
+    - `Gradle`
 - 同类技术比较：
-    - Google 搜索：'Ant Maven Gradle'
+    - Google 搜索：`Ant Maven Gradle`
     - 比如文章：<http://blog.csdn.net/napolunyishi/article/details/39345995>
 - 学习前提/依赖
     - 要有 Java 基础相关
@@ -65,15 +65,15 @@ tags: [学习方法,Maven,Java]
 - 看教程
     - 官网快速入门文档
         - 在官网中查看带有下面几个关键字的链接：
-            - 'Getting Started'
-            - 'Quick Start'
-            - 'Getting Started Guides'
-            - 'Tutorials'
-            - 'Guides'
-            - 'Development Guides'
-            - 'Documentation'
-            - 'Docs'
-            - 'Screencasts'
+            - `Getting Started`
+            - `Quick Start`
+            - `Getting Started Guides`
+            - `Tutorials`
+            - `Guides`
+            - `Development Guides`
+            - `Documentation`
+            - `Docs`
+            - `Screencasts`
     - 在极客学院搜索对应的教学视频（我是年 VIP）
     - Google 搜索：`Maven 视频 教程 百度云网盘`    
     - Google 搜索：`Maven 视频 教程`
