@@ -99,7 +99,6 @@ tags: [学习方法,Maven,Java]
 - 参考别人 Demo
     - Gtihub 搜索 Demo：<https://github.com/search/advanced>
     - Git@OSC 搜索 Demo：<http://git.oschina.net/>
-    - Git@OSC 搜索 Demo：<http://git.oschina.net/>
 - 项目场景模拟和应用
 - 遇到问题
     - Google
