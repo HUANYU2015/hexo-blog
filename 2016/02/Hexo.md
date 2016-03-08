@@ -1,5 +1,5 @@
 ---
-title: 使用Github空间搭建Hexo技术博客--安装篇（基于IntelliJ IDEA）
+title: 使用 Github 空间搭建 Hexo 技术博客--安装篇（基于 IntelliJ IDEA）
 date: 2016-02-28 17:58:27
 description: "本文将讲解基于 IntelliJ IDEA 如何使用 IDE 搭建 Hexo 博客、写博客！"
 categories: [Hexo,IntelliJ IDEA]

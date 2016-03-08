@@ -1,5 +1,5 @@
 ---
-title: 搭建Hexo博客--增强篇
+title: 搭建 Hexo 博客--增强篇
 date: 2016-02-29 23:43:30
 description: "本文将讲解 Hexo 博客的常用插件、站点 SEO 等内容！"
 categories: Hexo

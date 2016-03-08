@@ -12,7 +12,7 @@ tags: [学习方法,Maven,Java]
 ## 本文 Markdown 源文件地址
 
 - 转载请注明出处：<https://github.com/judasn/hexo-blog/blob/master/2016/02/My-Learning-Way.md>
-
+- 欢迎在我的基础上进行个性化定制！
 
 ## 本文初衷
 
@@ -78,6 +78,7 @@ tags: [学习方法,Maven,Java]
             - `Getting Started`
             - `Quick Start`
             - `Getting Started Guides`
+            - `usage page`
             - `Tutorials`
             - `Guides`
             - `Development Guides`
@@ -94,7 +95,7 @@ tags: [学习方法,Maven,Java]
     - 公众号-搜索相关内容：<http://weixin.sogou.com/>
     - 开发者头条-搜索相关内容：<http://toutiao.io/>
     - 京东-图书：<http://book.jd.com/>
-    - YouTube-搜索相关内容：<>
+    - YouTube-搜索相关内容：<http://youtube.com/>
 - 自己写 Demo
 - 参考别人 Demo
     - Gtihub 搜索 Demo：<https://github.com/search/advanced>
@@ -120,6 +121,7 @@ tags: [学习方法,Maven,Java]
     - 写博客
     - 分享到开发者头条
     - 分享到简书
+    - 分享到微信公众号
     - 系统整理 Demo 在 Github 上
 
 
