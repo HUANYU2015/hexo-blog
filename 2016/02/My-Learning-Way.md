@@ -13,15 +13,23 @@ tags: [学习方法,Maven,Java]
 
 - 转载请注明出处：<https://github.com/judasn/hexo-blog/blob/master/2016/02/My-Learning-Way.md>
 
+
+## 本文初衷
+
+- 把自己模板化
+- 以此篇为引，与同行沟通心得，所以在此严重要求如果你有对应的心得还请能回复下，真心感谢!（鞠躬）
+
+
 ## 当我们要学习新技术/东西
 
+- ![学习思路](http://img.youmeek.com/2016/My-Learning-Way.jpg)
+- 上图来源：<https://codingstyle.cn/topics/3>
 - 在过去未被自己流程化的情况下，自己学习新的东西的时候一直是处理迷迷糊糊的状态，直到我看到这张思维导图，我瞬间就理清自己平时在学习东西时候那混乱的思维了。
 - 可能平时我们也是这样做的，可是我们从来没有认真思考过或是整理过这样的思绪。也许你认为这样不重要，但是对我而言，有记录的东西，代表可以被流程化，这可以帮助特定情况下的我。
 - 下面跟着这张思维导图，我们一起来整理 Maven 的材料。
 
 
 ### 它是什么
-
 
 - 术语定义
     - Maven 官网定义：<http://maven.apache.org/>
@@ -45,6 +53,7 @@ tags: [学习方法,Maven,Java]
 - 学习前提/依赖
     - 要有 Java 基础相关
 
+
 ### 为什么会出现
 
 - Google 搜索：
@@ -59,6 +68,7 @@ tags: [学习方法,Maven,Java]
 - Google 搜索：
     - 关键字：`不用 maven`
     - 关键字：`Why I Don't Use Maven`
+
 
 ### 我要怎么做（按优先级从高到低排序）
 
@@ -84,8 +94,16 @@ tags: [学习方法,Maven,Java]
     - 公众号-搜索相关内容：<http://weixin.sogou.com/>
     - 开发者头条-搜索相关内容：<http://toutiao.io/>
     - 京东-图书：<http://book.jd.com/>
-- 写 Demo
+    - YouTube-搜索相关内容：<>
+- 自己写 Demo
+- 参考别人 Demo
+    - Gtihub 搜索 Demo：<https://github.com/search/advanced>
+    - Git@OSC 搜索 Demo：<http://git.oschina.net/>
+    - Git@OSC 搜索 Demo：<http://git.oschina.net/>
 - 项目场景模拟和应用
+- 遇到问题
+    - Google
+    - Stack Overflow：<http://stackoverflow.com/>
 
 
 ### 归纳整理并分享
@@ -102,6 +120,7 @@ tags: [学习方法,Maven,Java]
     - 写博客
     - 分享到开发者头条
     - 分享到简书
+    - 系统整理 Demo 在 Github 上
 
 
 ## 过程细节
