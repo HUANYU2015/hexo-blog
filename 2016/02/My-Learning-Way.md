@@ -110,10 +110,11 @@ tags: [学习方法,Maven,Java]
 - 整理
     - 为知笔记里面内容
     - 浏览器书签
-    - 简书中收藏
-    - 开发者头条中收藏
-    - 微博中收藏
-    - RSS 订阅
+    - 简书中收藏：<http://www.jianshu.com/bookmarks>
+    - 简书中喜欢：<http://www.jianshu.com/favourites>
+    - 开发者头条中收藏：<http://toutiao.io/favorites>
+    - 微博中收藏：<http://weibo.com/fav>
+    - RSS 订阅：<http://www.inoreader.com/>
         - 无法订阅的博客使用 Feed43 生成 RSS：<http://feed43.com/>
 - 分享
     - 写博客
