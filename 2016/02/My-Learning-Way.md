@@ -70,6 +70,15 @@ tags: [学习方法,Maven,Java]
     - 关键字：`Why I Don't Use Maven`
 
 
+### 为什么学习它
+
+- 老师让学的？
+- 解决工作问题？
+- 提高效率？
+- 知识储备？
+- 灵机一动？
+
+
 ### 我要怎么做（按优先级从高到低排序）
 
 - 看教程
@@ -100,8 +109,9 @@ tags: [学习方法,Maven,Java]
 - 参考别人 Demo
     - Gtihub 搜索 Demo：<https://github.com/search/advanced>
     - Git@OSC 搜索 Demo：<http://git.oschina.net/>
-- 项目场景模拟和应用
+- 项目场景模拟、提高
 - 遇到问题
+    - 找官网 FAQ：<https://maven.apache.org/general.html>
     - Google
     - Stack Overflow：<http://stackoverflow.com/>
 
@@ -137,3 +147,7 @@ tags: [学习方法,Maven,Java]
 ## 结束语
 
 - 我猜测你可能需要 VPN 或是 Shadowsocks
+
+## 感谢他们的建议
+
+- [牛背上的侯爷](http://www.jianshu.com/users/3ed6914f14af)
