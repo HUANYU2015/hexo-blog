@@ -1,23 +1,21 @@
 ---
-title: Maven-入门知识-系统整理
+title: 构建工具-Maven-相关知识-整理专题
 date: 2016-03-09 19:56:08
 description: "如果你是学习 Java 或是说 JVM 语言相关的内容的话，在实际使用中有一个东西你是绕不过去的，构建工具。等你到企业还有一个东西你也绕不过去，持续集成。"
 categories: [Java]
 tags: [Maven,Java,CI]
----------------------
+---
 
 
 <!-- more -->
 
 ## 本文初衷
 
+- ![Maven](http://img.youmeek.com/2016/maven.png)
 - 整理自己脑袋中、收藏中的那些资料，来一次清空，让自己重新开始。
 - 整理这篇的起点是本人已经会使用 Maven，并且已经使用了一年多，所以我个人觉得这篇文章对完全不懂 Maven 来讲是有压力的，但是对于刚刚入门 Maven 的人是有帮助的。
 - 如果你认为一篇文章就可以让你完全了解 Maven，那你是在鄙视官网帮助文档书写者。
 - 以此篇为引，希望可以得到你的建议，我只想成长，真心感谢!（鞠躬）
-
-
-## Maven 知识
 
 
 ## 先总结
@@ -47,6 +45,9 @@ tags: [Maven,Java,CI]
     - 在多模块的项目中，还是以一个电商项目为例，购物车模块肯定是会依赖 core 模块、Parent 模块等，而这些模块的开发者在不同城市或是不同部门。在协同开发中，不可能每次他们一有更新就得专门安排一个人来交付依赖，这种方式效率是非常低的。
     - 今天整理这个 Maven 材料其实是为了后面整理持续集成做的准备的，大家必须有这个基础才能说后面的持续集成，后续的持续集成会涉及到：TeamCity、Jenkins、Hudson
 
+
+## Maven 知识
+
 ### Maven 是什么
 
 - 术语定义
@@ -73,17 +74,16 @@ tags: [Maven,Java,CI]
             - ivy maven区别
             - maven maven2区别
                 - 通过这个搜索结果我们知道，现阶段我们要的是 Maven 3：
-                - <http://www.infoq.com/cn/news/2011/07/xxb-maven-10-time-to-update>
-                - <http://tech.it168.com/a2010/1108/1123/000001123274_all.shtml>
-                - <http://www.infoq.com/cn/news/2011/07/xxb-maven-10-time-to-update>
+                - [Maven实战（十）——Maven 3，是时候升级了](http://www.infoq.com/cn/news/2011/07/xxb-maven-10-time-to-update)
+                - [六年等一回 Maven 3的10大新特性详解](http://tech.it168.com/a2010/1108/1123/000001123274_all.shtml)
 - 同类常见技术（按技术出现时间正序）
     - `Ant`
     - `Gradle`
 - 同类技术比较：
     - Google 搜索：`Ant Maven Gradle`
         - 搜索结果：
-            - <http://blog.csdn.net/napolunyishi/article/details/39345995>
-            - <http://www.cnblogs.com/huang0925/p/5209563.html>
+            - [Java构建工具：Ant vs Maven vs Gradle](http://blog.csdn.net/napolunyishi/article/details/39345995)
+            - [Maven和Gradle对比](http://www.cnblogs.com/huang0925/p/5209563.html)
 - 学习前提/依赖
     - 要有 Java 基础相关（如果你完全没学过 Java，建议跳过，不适合你）
     - 最好有 Java Web 相关知识
@@ -185,23 +185,6 @@ tags: [Maven,Java,CI]
     - 开发者头条-搜索相关内容：<http://toutiao.io/>
     - 京东-图书：<http://book.jd.com/>
     - YouTube-搜索相关内容：<http://youtube.com/>
-    - Google 得到的学习资料：
-        - <https://segmentfault.com/a/1190000000640821>
-        - <http://mritd.me/2015/12/31/Maven-%E6%95%99%E7%A8%8B/#>
-        - <http://www.trinea.cn/android/maven/>
-        - <http://blog.csdn.net/sxyx2008/article/details/7975129>
-        - <http://blog.csdn.net/sxyx2008/article/details/8725220>
-        - <http://my.oschina.net/MyHeaven1987/blog/99781>
-        - <http://my.oschina.net/MyHeaven1987/blog/100704?fromerr=SWanTA4V>
-        - <http://www.cnblogs.com/bigtall/archive/2011/03/23/1993253.html>
-        - <http://www.cnblogs.com/zhaoyang/archive/2012/01/07/2315443.html>
-        - <http://www.cnblogs.com/haippy/archive/2012/07/05/2577233.html>
-        - <http://www.cnblogs.com/haippy/archive/2012/07/04/2576453.html>
-        - <http://blog.csdn.net/zht666/article/details/8673609>
-        - <http://www.cnblogs.com/iusmile/archive/2012/11/14/2770118.html>
-        - <http://drizzlewalk.blog.51cto.com/2203401/665590>
-        - <http://www.infoq.com/cn/news/2011/06/xxb-maven-9-package>
-        - <http://blog.csdn.net/sxyx2008/article/details/7959220>
 - 自己写 Demo
     - Maven 下载地址：<http://maven.apache.org/download.cgi>
     - 此时（2016-03-10）最新版本为：**Apache Maven 3.3.9**
@@ -238,28 +221,30 @@ tags: [Maven,Java,CI]
         - Nexus 库：<https://repository.sonatype.org/>
         - MVNRepository：<http://mvnrepository.com/>
 - 遇到问题
-    - 找官网 FAQ：<https://maven.apache.org/general.html>
+    - 官网 FAQ：<https://maven.apache.org/general.html>
     - Google
     - Stack Overflow：<http://stackoverflow.com/>
 
 
-### 归纳整理并分享
+### 资料整理
 
-- 整理
-    - 为知笔记里面内容
-    - 浏览器书签
-    - 简书中收藏：<http://www.jianshu.com/bookmarks>
-    - 简书中喜欢：<http://www.jianshu.com/favourites>
-    - 开发者头条中收藏：<http://toutiao.io/favorites>
-    - 微博中收藏：<http://weibo.com/fav>
-    - RSS 订阅：<http://www.inoreader.com/>
-        - 无法订阅的博客使用 Feed43 生成 RSS：<http://feed43.com/>
-- 分享
-    - 写博客
-    - 分享到开发者头条
-    - 分享到简书
-    - 分享到微信公众号
-    - 系统整理 Demo 在 Github 上
+- 来自 Google 过程中的资料（真心感谢这些作者）：
+    - [Maven重要概念及最佳实践](https://segmentfault.com/a/1190000000640821)
+    - [Maven 教程 ](http://mritd.me/2015/12/31/Maven-%E6%95%99%E7%A8%8B/#)
+    - [Maven介绍，包括作用、核心概念、用法、常用命令、扩展及配置](http://www.trinea.cn/android/maven/)
+    - [7天学会Maven（第一天——了解 Maven）](http://www.cnblogs.com/haippy/archive/2012/07/04/2576453.html)
+    - [7天学会Maven（第二天——Maven 标准目录结构）](http://www.cnblogs.com/haippy/archive/2012/07/05/2577233.html)
+    - [Maven 3 入门 -- 安装与配置](http://www.cnblogs.com/zhaoyang/archive/2012/01/07/2315443.html)
+    - [Maven之pom中文详解](http://blog.csdn.net/sxyx2008/article/details/8725220)
+    - [maven中的依赖机制简介](http://my.oschina.net/MyHeaven1987/blog/99781?fromerr=07XUhoR7)
+    - [maven中的仓库简介](http://my.oschina.net/MyHeaven1987/blog/100704?fromerr=SWanTA4V)
+    - [maven常见问题问答](http://www.cnblogs.com/bigtall/archive/2011/03/23/1993253.html)
+    - [maven scope含义的说明](http://drizzlewalk.blog.51cto.com/2203401/665590)
+    - [Maven实战（九）——打包的技巧](http://www.infoq.com/cn/news/2011/06/xxb-maven-9-package)
+    - [Maven仓库汇总](http://blog.csdn.net/sxyx2008/article/details/7959220)
+    - [Maven 的41种骨架功能介绍](http://www.cnblogs.com/iusmile/archive/2012/11/14/2770118.html)
+    - [IntelliJ IDEA 12创建Maven管理的Java Web项目（图解）](http://blog.csdn.net/zht666/article/details/8673609)
+    - [对maven私服配置的说明 ](http://blog.csdn.net/sxyx2008/article/details/7975129)
 
 
 ## 过程细节
@@ -270,4 +255,4 @@ tags: [Maven,Java,CI]
      
 ## 结束语
 
-- Maven 也许开始要过时了，但是即使 Gradle 的时代要到来了，你会害怕吗？我想你不会的，因为你会学习知识的方法。
+- Maven 也许开始要过时了，但是即使 Gradle 的时代要到来了，你会害怕吗？我想你不会的，因为你会学习知识的方法，更而且他们还差不多。
