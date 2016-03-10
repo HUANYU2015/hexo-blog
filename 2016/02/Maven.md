@@ -13,6 +13,7 @@ tags: [Maven,Java,CI]
 
 - 整理自己脑袋中、收藏中的那些资料，来一次清空，让自己重新开始。
 - 整理这篇的起点是本人已经会使用 Maven，并且已经使用了一年多，所以我个人觉得这篇文章对完全不懂 Maven 来讲是有压力的，但是对于刚刚入门 Maven 的人是有帮助的。
+- 如果你认为一篇文章就可以让你完全了解 Maven，那你是在鄙视官网帮助文档书写者。
 - 以此篇为引，希望可以得到你的建议，我只想成长，真心感谢!（鞠躬）
 
 
@@ -63,7 +64,7 @@ tags: [Maven,Java,CI]
         - 搜索结果：
             - 历史介绍：<http://maven.apache.org/background/history-of-maven.html>
             - 创始人：**jason van zyl**
-            - 创始人现在在：<http://takari.io/>
+            - 创始人现在：<http://takari.io/>
     - Google 搜索：`Maven 区别`、`Maven difference`
         - 搜索结果：
             - 人们在关注：
@@ -81,7 +82,8 @@ tags: [Maven,Java,CI]
 - 同类技术比较：
     - Google 搜索：`Ant Maven Gradle`
         - 搜索结果：
-            - 三者对比：<http://blog.csdn.net/napolunyishi/article/details/39345995>
+            - <http://blog.csdn.net/napolunyishi/article/details/39345995>
+            - <http://www.cnblogs.com/huang0925/p/5209563.html>
 - 学习前提/依赖
     - 要有 Java 基础相关（如果你完全没学过 Java，建议跳过，不适合你）
     - 最好有 Java Web 相关知识
@@ -105,7 +107,7 @@ tags: [Maven,Java,CI]
 
 ### 为什么学习它
 
-- 构建工具 是 Java Web 开发者绕不过去的一道坎
+- 构建工具是 Java Web 开发者绕不过去的一道坎
 
 ### 我要怎么做（按优先级从高到低排序）
 
@@ -123,10 +125,10 @@ tags: [Maven,Java,CI]
             - `Docs`
             - `Screencasts`
             - Maven 主页上得到字眼有：
-                - `documentation index`，地址：<http://maven.apache.org/guides/index.html>
+                - [documentation index](http://maven.apache.org/guides/index.html)
                 - 在子页面我们得到：
-                    - `Getting Started in 5 Minutes`，地址：<http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html>
-                    - `Getting Started in 30 Minutes`，地址：<http://maven.apache.org/guides/getting-started/index.html>
+                    - [Getting Started in 5 Minutes](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+                    - [Getting Started in 30 Minutes](http://maven.apache.org/guides/getting-started/index.html)
     - 在极客学院搜索对应的教学视频（我是年 VIP）
         - 极客学院对 Maven 的讲解比较到位，从初级到中级都涵盖（需要 VIP 权限）：
         - Maven 概述及安装，包含下面内容：
@@ -154,10 +156,10 @@ tags: [Maven,Java,CI]
             - `在 Eclipse 中使用 Maven 构建 Web 项目`
             - 地址：<http://www.jikexueyuan.com/course/908.html>
             - 地址：<http://www.jikexueyuan.com/course/951.html>
-         - 使用 Maven 构建多模块项目（本篇作者：感觉是不是要开始来到分布式的世界了？！）
+        - 使用 Maven 构建多模块项目
             - `多模块项目介绍`
             - `创建 helloweb 项目的骨架结构`
-            - `将 helloweb 项目导入 Eclipse`（本篇作者：后续我会讲解一篇基于 IntelliJ IDEA 的 Maven 多模块，科科，我的 IntelliJ IDEA 可不是盖的。）
+            - `将 helloweb 项目导入 Eclipse`
             - `使用 dependencyManagement 管理依赖`
             - `使用 pluginManagement 管理插件`
             - `定义项目属性及配置信息`
@@ -183,28 +185,42 @@ tags: [Maven,Java,CI]
     - 开发者头条-搜索相关内容：<http://toutiao.io/>
     - 京东-图书：<http://book.jd.com/>
     - YouTube-搜索相关内容：<http://youtube.com/>
-    - 参考的资料：
+    - Google 得到的学习资料：
+        - <https://segmentfault.com/a/1190000000640821>
+        - <http://mritd.me/2015/12/31/Maven-%E6%95%99%E7%A8%8B/#>
+        - <http://www.trinea.cn/android/maven/>
+        - <http://blog.csdn.net/sxyx2008/article/details/7975129>
+        - <http://blog.csdn.net/sxyx2008/article/details/8725220>
         - <http://my.oschina.net/MyHeaven1987/blog/99781>
         - <http://my.oschina.net/MyHeaven1987/blog/100704?fromerr=SWanTA4V>
-        - <>
-        - <>
-        - <>
-        - <>
+        - <http://www.cnblogs.com/bigtall/archive/2011/03/23/1993253.html>
+        - <http://www.cnblogs.com/zhaoyang/archive/2012/01/07/2315443.html>
+        - <http://www.cnblogs.com/haippy/archive/2012/07/05/2577233.html>
         - <http://www.cnblogs.com/haippy/archive/2012/07/04/2576453.html>
-        - <>
-        - <>
-        - <>
-        - <>
-        - <>
-        - <>
+        - <http://blog.csdn.net/zht666/article/details/8673609>
+        - <http://www.cnblogs.com/iusmile/archive/2012/11/14/2770118.html>
+        - <http://drizzlewalk.blog.51cto.com/2203401/665590>
+        - <http://www.infoq.com/cn/news/2011/06/xxb-maven-9-package>
+        - <http://blog.csdn.net/sxyx2008/article/details/7959220>
 - 自己写 Demo
     - Maven 下载地址：<http://maven.apache.org/download.cgi>
-    - 最新版本为：**Apache Maven 3.3.9**
-    - JDK 要求：Maven 3.3 要求 JDK 1.7 或是更新 
-    - 操作系统没要求：`No minimum requirement. Start up scripts are included as shell scripts and Windows batch files`
+    - 此时（2016-03-10）最新版本为：**Apache Maven 3.3.9**
+    - JDK 要求：Maven 3.3 要求 JDK 1.7 或是更新，其他版本无
+    - 操作系统没要求，官网原话：`No minimum requirement. Start up scripts are included as shell scripts and Windows batch files`
         - 但是，按系统常见压缩格式，我个人建议：
         - Windows 下载的文件：**apache-maven-版本号-bin.zip**
         - 类 Unix 下载的文件：**apache-maven-版本号-bin.tar.gz**
+    - 我这里以 Maven 3.1 进行安装为例（Windows 系统）：
+        - 安装：
+            - 我的 Maven 解压目录发在 D 盘根目录下
+            - 新增系统变量：`JAVA_HOME  ===  C:\Program Files\Java\jdk1.6.0_23`
+            - 新增系统变量：`M2_HOME  ===  D:\maven\maven3.1.1`
+                - 需要注意的是变量名就叫这个 `M2_HOME`，不要改其他的，因为 TeamCity 这类工具它会默认去找该变量一致的内容自动帮我们匹配构建环境的，所以我们就按官方约定来。
+            - 在系统变量 Path 中增加：`;%JAVA_HOME%\bin;%M2_HOME%\bin`
+        - 测试：
+            - 打开 cmd
+            - 输入：`java -version`，能显示 Java 版本信息即表示 JAVA_HOME 设置好了
+            - 输入：`mvn –v`，能显示 Maven 版本信息即表示 M2_HOME 设置好了
 - 参考别人 Demo
     - 通过上面的学习，我们知道，我们要学习别人的 Maven 配置，只要能看懂他们的 POM 文件配置即可，所以现在你需要做的是找一些开源项目，读懂他们的 POM
     - Gtihub 搜索 Demo：<https://github.com/search/advanced>
@@ -248,13 +264,10 @@ tags: [Maven,Java,CI]
 
 ## 过程细节
 
-- Google 搜索必备：
-    - `Maven site:www.youmeek.com`，表示搜索结果局限于在：www.youmeek.com 这个站点
-    - `Maven link:www.youmeek.com`，返回所有链接到 www.youmeek.com 的网页
-    - `related:www.qq.com`，查找类似 www.youmeek.com 的网站
-    - `cache:www.youmeek.com`，查找 www.youmeek.com 的历史快照
+- 过去 2014 年里，基本上关于 Maven 的知识都是在 Google 上搜索出来的。
+- 在 2015 年才看到极客学院上面有成套资料
      
      
 ## 结束语
 
-- 我猜测你可能需要 VPN 或是 Shadowsocks
+- Maven 也许开始要过时了，但是即使 Gradle 的时代要到来了，你会害怕吗？我想你不会的，因为你会学习知识的方法。
