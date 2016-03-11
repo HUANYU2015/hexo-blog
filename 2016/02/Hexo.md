@@ -65,15 +65,15 @@ tags: [Hexo,IntelliJ IDEA,Git,Github,Node.js]
 ### 文章前提
 
 - 如果你对上面要求的软件一个都不了解的话，建议你先看如下内容（只是让你们先了解下，当时别照着文章内容做）：
-    - <http://www.jianshu.com/p/05289a4bc8b2>
-    - <http://www.jianshu.com/p/858ecf233db9>
-    - <http://ibruce.info/2013/11/22/hexo-your-blog/>
-    - <http://www.jianshu.com/p/701b1095da11>
-    - <http://www.jianshu.com/p/05289a4bc8b2>
-    - <http://www.jianshu.com/p/e858a90d0a17>
-    - <http://www.jianshu.com/p/db7e64d86067>
-    - <http://mritd.me/2015/12/31/Github-%E6%90%AD%E5%BB%BA-Hexo-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/>
-    - <http://www.jianshu.com/p/e7413116e9d4>
+    - [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
+    - [通过Hexo在Github上搭建博客教程](http://www.jianshu.com/p/858ecf233db9)
+    - [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/)
+    - [手把手教你建github技术博客](http://www.jianshu.com/p/701b1095da11)
+    - [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
+    - [windows下搭建hexo博客并将其部署到GitCafe终极教程](http://www.jianshu.com/p/e858a90d0a17)
+    - [使用Hexo搭建博客（三），博客配置、主题和写作](http://www.jianshu.com/p/db7e64d86067)
+    - [Hexo搭建WiKi](http://www.jianshu.com/p/e7413116e9d4)
+    - [怎么用hexo上传一个README.md到github?](https://www.zhihu.com/question/28058973)
 
 
 ### 域名绑定

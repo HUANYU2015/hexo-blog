@@ -254,6 +254,7 @@ Sitemap: http://code.youmeek.com/baidusitemap.xml
 
 ### 插件的基本使用命令
 
+- 插件官网：<https://hexo.io/plugins/>
 - 安装插件：`npm install 插件名 --save`
 - 卸载插件：`npm uninstall 插件名`
 - 更新插件和博客框架（需要在 E:\git_work_space\hexo 目录下）：`npm update`
