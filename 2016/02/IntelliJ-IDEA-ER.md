@@ -1,9 +1,9 @@
 ---
 title: 为什么不尝试下 IntelliJ IDEA？我想劝说你
-date: 2016-03-11 17:53:17
-description: "以我的个人角度来看待学习这件长久的事，希望对你有帮助，也希望你能提一下你的意见"
-categories: [学习方法,Java]
-tags: [学习方法,Maven,Java]
+date: 2016-03-11 20:23:56
+description: "写这篇文章主要目的是想给你留下一个印象，关于一个沉浸式的 IDE"
+categories: [IntelliJ IDEA,Java]
+tags: [IntelliJ IDEA,Java]
 ---
 
 
