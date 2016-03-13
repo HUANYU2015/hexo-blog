@@ -84,12 +84,15 @@ tags: [学习方法,Maven,Java]
 
 ### 创建需要构建的项目
 
-### 创建需要构建的项目
+### 配置自动构建触发行为
 
 
 构建事件的触发机制讲解：
 https://confluence.jetbrains.com/display/TCD9/Configuring+Build+Triggers
 
+
+TeamCity 采用的 Cron 语法是 Quartz，具体你可以看：
+- [Quartz CronTrigger Tutorial](http://www.quartz-scheduler.org/documentation/quartz-1.x/tutorials/crontrigger#CronTriggersTutorial-Specialcharacters)
 
 
 TeamCity 的插件列表：
