@@ -10,6 +10,9 @@ tags: [学习方法,Maven,Java]
 <!-- more -->
 
 
+- ![TeamCity](http://img.youmeek.com/2016/TeamCity.jpg)
+
+
 ## 本文初衷
 
 - 让大家了解持续集成（CI），以及入门了解 JetBrains 家的 TeamCity 的一些简单实用。
@@ -18,14 +21,70 @@ tags: [学习方法,Maven,Java]
 - Docker 已经开始在引入到 CI、CD（持续交付）过程中，可以大大简化整体的过程，也许这是未来的一个方向，有兴趣的可以了解更多。
 
 
+## 它是什么
+
+- 官网定义（就一句话）：`Powerful Continuous Integration out of the box`
+- 官网特性总结：<https://www.jetbrains.com/teamcity/features/>
+- 百度百科：<http://baike.baidu.com/view/3703414.htm>
+- 官网文档：<https://confluence.jetbrains.com/display/TCD9/TeamCity+Documentation>
+- 支持的平台、环境如下图（看不懂也没关系，只要知道它最友好的是 Java 开发即可）：
+- ![TeamCity](http://img.youmeek.com/2016/TeamCity-Supported-Platforms-and-Environments.png)
+
+
+
 - 官网的介绍视频
 - 这个视频其实已经很清楚地说明了一个整理流程是怎样的，我今天只是做一个更加清晰的细节讲解而已
 需要穿越：<https://www.youtube.com/watch?v=J-iYMMG6jmc#action=share>
 
 
-其他产品：
+## 为什么会出现
 
-Bamboo 这个适合公司以 JIRA 推进的情况下最好，谁让他们是同一家公司的，整合起来肯定棒棒的。
+- TeamCity 的出现需要了解这个概念：持续集成（Continuous Integration）
+- 百科定义：<http://baike.baidu.com/view/5253255.htm>
+- 网络文章：<http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html>
+
+
+## 哪些人喜欢它
+
+- [持续集成学习笔记－入门篇（1）持续集成基本概念](http://blog.csdn.net/leijiantian/article/details/7916483)
+- [7 reasons why you should be using Continuous Integration](https://about.gitlab.com/2015/02/03/7-reasons-why-you-should-be-using-ci/)
+- [What is CI and why use it?](https://blog.rainforestqa.com/2014-07-17-what-is-CI-and-why-use-it/)
+
+
+## 哪些人不喜欢它
+
+- Google 搜索不到结果
+
+
+## 为什么学习它
+
+- 更好地包括团队项目质量
+
+
+## 同类工具
+
+- Jenkins：<http://jenkins-ci.org/>
+- Travis CI：<http://travis-ci.org/>
+- Bamboo：<http://www.atlassian.com/software/bamboo>
+- Hudson：<http://hudson-ci.org/>
+- QuickBuild：<http://www.pmease.com/>
+- 其他：<http://www.oschina.net/project/tag/344/ci?lang=0&os=0&sort=view&p=1>
+- 好的网络文章介绍：
+    - [持续集成工具的选择](http://cristal.iteye.com/blog/482658)
+
+
+## TeamCity 入门
+
+
+### TeamCity 部署（Linux 环境）
+
+
+### 首次进入
+
+
+### 创建需要构建的项目
+
+### 创建需要构建的项目
 
 
 构建事件的触发机制讲解：
