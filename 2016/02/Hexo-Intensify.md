@@ -236,7 +236,7 @@ github_widget: false
 - 新增一个 robot.txt 文件，把该文件放在：E:\git_work_space\hexo\source 目录下，如果你没有该文件可以到我的项目上找：<https://github.com/judasn/judasn.github.io>
 - robot 文件内容：
 
-```
+``` bash
 User-Agent: *
 Allow: /
 Disallow: /background
@@ -247,12 +247,12 @@ Disallow: /img
 Disallow: /js
 Sitemap: http://code.youmeek.com/sitemap.xml
 Sitemap: http://code.youmeek.com/baidusitemap.xml
-``` 
+```
 
 
-### 置顶文章
+### 置顶文章方法
 
-- [解决Hexo置顶问题](http://www.netcan666.com/2015/11/22/%E8%A7%A3%E5%86%B3Hexo%E7%BD%AE%E9%A1%B6%E9%97%AE%E9%A2%98/)
+- 参考：[解决Hexo置顶问题](http://www.netcan666.com/2015/11/22/%E8%A7%A3%E5%86%B3Hexo%E7%BD%AE%E9%A1%B6%E9%97%AE%E9%A2%98/)
 - 编辑这个文件：`node_modules/hexo-generator-index/lib/generator.js`
 - 覆盖原文件内容，采用下面内容：
 
