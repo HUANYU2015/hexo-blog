@@ -250,6 +250,52 @@ Sitemap: http://code.youmeek.com/baidusitemap.xml
 ``` 
 
 
+### 置顶文章
+
+- [解决Hexo置顶问题](http://www.netcan666.com/2015/11/22/%E8%A7%A3%E5%86%B3Hexo%E7%BD%AE%E9%A1%B6%E9%97%AE%E9%A2%98/)
+- 编辑这个文件：`node_modules/hexo-generator-index/lib/generator.js`
+- 覆盖原文件内容，采用下面内容：
+
+``` bash
+'use strict';
+
+var pagination = require('hexo-pagination');
+
+module.exports = function(locals){
+  var config = this.config;
+  var posts = locals.posts;
+
+    posts.data = posts.data.sort(function(a, b) {
+        if(a.top && b.top) { // 两篇文章top都有定义
+            if(a.top == b.top) return b.date - a.date; // 若top值一样则按照文章日期降序排
+            else return b.top - a.top; // 否则按照top值降序排
+        }
+        else if(a.top && !b.top) { // 以下是只有一篇文章top有定义，那么将有top的排在前面（这里用异或操作居然不行233）
+            return -1;
+        }
+        else if(!a.top && b.top) {
+            return 1;
+        }
+        else return b.date - a.date; // 都没定义按照文章日期降序排
+
+    });
+
+  var paginationDir = config.pagination_dir || 'page';
+
+  return pagination('', posts, {
+    perPage: config.index_generator.per_page,
+    layout: ['index', 'archive'],
+    format: paginationDir + '/%d/',
+    data: {
+      __index: true
+    }
+  });
+};
+```
+
+- 然后在文章头部的：Front-matter 位置加上一个：`top: 1000` 的内容。数值越大，越靠前
+
+
 ## 插件推荐
 
 ### 插件的基本使用命令

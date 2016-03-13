@@ -4,6 +4,7 @@ date: 2016-03-07 20:50:25
 description: "以我的个人角度来看待学习这件长久的事，希望对你有帮助，也希望你能提一下你的意见"
 categories: [学习方法,Java]
 tags: [学习方法,Maven,Java]
+top: 1000
 ---
 
 

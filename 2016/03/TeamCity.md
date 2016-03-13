@@ -1,9 +1,9 @@
 ---
-title: 我的学习、归纳方法（以学习 Maven 为例）
-date: 2016-03-07 20:50:25
-description: "以我的个人角度来看待学习这件长久的事，希望对你有帮助，也希望你能提一下你的意见"
-categories: [学习方法,Java]
-tags: [学习方法,Maven,Java]
+title: 持续集成工具推荐--TeamCity
+date: 2016-03-13 20:50:51
+description: "做 Java 开发绕不过去的一个问题：是否引入持续集成？"
+categories: [TeamCity,Java]
+tags: [TeamCity,Maven,Java,持续集成]
 ---
 
 
@@ -24,18 +24,13 @@ tags: [学习方法,Maven,Java]
 ## 它是什么
 
 - 官网定义（就一句话）：`Powerful Continuous Integration out of the box`
+- 官网首页：<https://www.jetbrains.com/teamcity/>
 - 官网特性总结：<https://www.jetbrains.com/teamcity/features/>
 - 百度百科：<http://baike.baidu.com/view/3703414.htm>
 - 官网文档：<https://confluence.jetbrains.com/display/TCD9/TeamCity+Documentation>
 - 支持的平台、环境如下图（看不懂也没关系，只要知道它最友好的是 Java 开发即可）：
 - ![TeamCity](http://img.youmeek.com/2016/TeamCity-Supported-Platforms-and-Environments.png)
-
-
-
-- 官网的介绍视频
-- 这个视频其实已经很清楚地说明了一个整理流程是怎样的，我今天只是做一个更加清晰的细节讲解而已
-需要穿越：<https://www.youtube.com/watch?v=J-iYMMG6jmc#action=share>
-
+- 对上图的具体讲解可以看（**很重要**）：<https://confluence.jetbrains.com/display/TCD9/Supported+Platforms+and+Environments>
 
 ## 为什么会出现
 
@@ -53,12 +48,12 @@ tags: [学习方法,Maven,Java]
 
 ## 哪些人不喜欢它
 
-- Google 搜索不到结果
+- Google 不到结果，应该是没人不喜欢，只是有些人用不惯
 
 
 ## 为什么学习它
 
-- 更好地包括团队项目质量
+- 更好地保证项目质量
 
 
 ## 同类工具
@@ -75,59 +70,74 @@ tags: [学习方法,Maven,Java]
 
 ## TeamCity 入门
 
+- 先来看一段官网的介绍视频
+- 这个视频其实已经很清楚地说明了一个整理流程是怎样的，我今天只是做一个更加清晰的细节讲解而已
+- 你需要穿越：<https://www.youtube.com/watch?v=J-iYMMG6jmc#action=share>
 
-### TeamCity 部署（Linux 环境）
+
+### TeamCity 安装部署（Linux 环境）
+
+- 在我讲之前，如果你英文还可以，就到官网这里看下：
+- [Installation Quick Start](https://confluence.jetbrains.com/display/TCD9/Installation+Quick+Start#InstallationQuickStart-onLinuxandOSX)
+- 安装环境要求：
+    - JDK 1.7 以上，如果你要使用的是 2016 最新的 TeamCity 9.1 的话，JDK 官网推荐的 1.8
+- 安装包下载：<https://www.jetbrains.com/teamcity/download/#section=linux-version>
+- 开始安装（eg：TeamCity-9.1.6.tar.gz）：
+    - 解压压缩包（解压速度有点慢）：`tar zxf TeamCity-9.1.6.tar.gz`
+    - 解压完的目录结构讲解：<https://confluence.jetbrains.com/display/TCD9/TeamCity+Home+Directory>
+    - 下载的 tar.gz 的本质是已经里面捆绑了一个 Tomcat，所以如果你会 Tomcat 的话，有些东西你可以自己改的。
+    - 按我个人习惯，把解压缩的目录放在 usr 目录下：`mv TeamCity/ /usr/program/`
+    - 进入解压目录：`cd /usr/program/TeamCity/`
+    - 启动程序：`bin/runAll.sh start`
+    - 停止程序：`bin/runAll.sh stop`
+    - 启动需要点时间，最好能给它一两分钟吧
+    
+
+
 
 
 ### 首次进入
 
+- 假设我们已经启动了 TeamCity
+- 访问（TeamCity 默认端口是：8111）：<http://192.168.1.113:8111/>
+- 如果访问不了，请先关闭防火墙：`service iptables stop`
+- 你也可以选择把端口加入白名单中：
+    - `sudo iptables -I INPUT -p tcp -m tcp --dport 8111 -j ACCEPT`
+    - `sudo /etc/rc.d/init.d/iptables save`
+    - `sudo service iptables restart`
+- 如果你要改变端口，找到下面这个 8111 位置：`vim /usr/program/TeamCity/conf/server.xml`
+
+``` bash
+<Connector port="8111" ...
+```
+
+- 在假设你已经可以访问的情况，我们开始进入 TeamCity 的设置向导：
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-a-1.jpg)
+    - 如上图英文所示，TeamCity 的一些软件安装的配置、服务的配置默认都会放在：`/root/.BuildServer`
+    - 如果你要了解更多 TeamCity Data Directory 目录，你可以看：<https://confluence.jetbrains.com/display/TCD9/TeamCity+Data+Directory>
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-a-2.jpg)
+    - 如上图英文所示，TeamCity 的一些构建历史、用户信息、构建结果等这类数据是需要放在关系型数据库上的，而默认它给我们内置了一个。
+    - 如果你要了解更多 TeamCity External Database，你可以看：<https://confluence.jetbrains.com/display/TCD9/Setting+up+an+External+Database>
+    - 首次使用，官网是建议使用默认的：`Internal(HSQLDB)`，这样我们无需在一开始使用的就考虑数据库迁移或安装的问题，我们只要好好感受 TeamCity 给我们的，等我们决定要使用了，后续再更换数据也是可以的。但是内置的有一个注意点：'TeamCity with the native MSSQL external database driver is not compatible with Oracle Java 6 Update 29, due to a bug in Java itself. You can use earlier or later versions of Oracle Java.'
+    - 假设我们就选 `Internal(HSQLDB)` ，则在创建初始化数据库的过程稍微需要点时间，我这边是几分钟。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-a-3.jpg)
+    - 如上图所示，接受下协议
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-b-1.jpg)
+    - 如上图所示，我们要创建一个顶级管理员账号，我个人习惯测试的账号是：`admin`，`123456`
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-b-2.jpg)
+    - 如上图所示，安装完首次进来地址：<http://192.168.1.113:8111/profile.html?tab=userGeneralSettings>
+    - 我们可以完善一些管理员信息和基础配置信息，这些配置不配置都无所谓了，只是完善了可以更加好用而已
+    - 如果你有 SMTP 的邮箱，你可以来这里开启邮件通知功能：<http://192.168.1.113:8111/admin/admin.html?item=email>
+    - 如果你要开启通知功能那肯定下一步就是考虑通知内容的模板要如何设定：<https://confluence.jetbrains.com/display/TCD9//Customizing+Notifications>
+    - 模板存放路径在：`/root/.BuildServer/config/_notifications`，用的是 FreeMarker 的语法
+
 
 ### 创建需要构建的项目
 
-### 配置自动构建触发行为
-
-
-构建事件的触发机制讲解：
-https://confluence.jetbrains.com/display/TCD9/Configuring+Build+Triggers
-
-
-TeamCity 采用的 Cron 语法是 Quartz，具体你可以看：
-- [Quartz CronTrigger Tutorial](http://www.quartz-scheduler.org/documentation/quartz-1.x/tutorials/crontrigger#CronTriggersTutorial-Specialcharacters)
-
-
-TeamCity 的插件列表：
-https://confluence.jetbrains.com/display/TW/TeamCity+Plugins
-
-
-对系统环境的要求：
-https://confluence.jetbrains.com/display/TCD9/Supported+Platforms+and+Environments
-https://confluence.jetbrains.com/display/TCD9/Supported+Platforms+and+Environments
-
-这里有一张TeamCity的体系统图，可以一眼看出一个情况出来
-https://confluence.jetbrains.com/display/TCD9/TeamCity+Documentation
-
-maven相关的配置
-https://confluence.jetbrains.com/display/TCD9/Maven
 
 
 
-https://confluence.jetbrains.com/display/TCD9/Installation+Quick+Start#InstallationQuickStart-onLinuxandOSX  
-TeamCity安装和启用
-Make sure you have JRE or JDK installed. Oracle Java 1.7 JDK, and since TeamCity 9.1 JDK 1.8, is recommended. 
-tar zxf TeamCity<version number>.tar.gz
 
-mv TeamCity/ /usr/program/
-
-cd /usr/program/TeamCity/
-
-启动：bin/runAll.sh start
-
-<TeamCity home>/bin
-
-启动：runAll.sh start
-停止：runAll.sh stop
-启动需要点时间，最好能给它一两分钟吧，然后在：
-访问：http://192.168.1.113:8111/
 
 项目管理地址：
 http://192.168.1.113:8111/admin/admin.html?item=projects  
@@ -137,50 +147,6 @@ http://192.168.1.113:8111/admin/admin.html?item=projects
     - Youshop-manage，输出pom
         - Youshop-pojo，输出jar
 
-
-
-如果访问不了，请先：service iptables stop
-应该是防火墙的问题，如果确实是，可以把端口加入白名单中：
-
-
-
-如果要改变端口：<TeamCity Home>/conf/server.xml，改这段：
-<Connector port="8111" ...
-
-如果你下载的是war包的方式，推荐的容器是： Apache Tomcat 7
-但是，官网推荐下载.tar.gz，里面捆绑了一个Tomcat
-
-解压完一个目录结构讲解：
-https://confluence.jetbrains.com/display/TCD9/TeamCity+Home+Directory
-简单地讲就是TeamCity的一些软件安装的配置，服务的配置都会放在这里。我这里用默认给我生成：`/root/.BuildServer`，它应该是知道我是 root 用户登录的。
-
-
-
-TeamCity Data Directory的目录讲解可以看：
-https://confluence.jetbrains.com/display/TCD9/TeamCity+Data+Directory
-
-External Database 的讲解可以看这里：
-https://confluence.jetbrains.com/display/TCD9/Setting+up+an+External+Database
-简单地讲就是：TeamCity 的一些构建历史、用户信息、构建结果等这类数据是需要放在关系型数据库上的，
-
-
-首次使用需要选择一个DB软件来存储以后他带来的数据。
-首次的话建议用：Internal，也就是默认的，这样我们无需在一开始使用的就需要考虑数据库迁移或安装的问题，我们只要好好感受 TeamCity 给我们的，等我们决定要使用了，后续再更换数据也是可以的。
-但是内置的有一个注意点：
-TeamCity with the native MSSQL external database driver is not compatible with Oracle Java 6 Update 29, due to a bug in Java itself. You can use earlier or later versions of Oracle Java.
-创建初始化数据库的过程稍微需要点时间，几分钟。
-
-安装完首次进来地址：
-http://192.168.1.113:8111/profile.html?tab=userGeneralSettings
-进行完善个人资料，当然你不完善也行
-
-如果你有SMTP的邮箱，你可以来这里开启邮件通知功能：
-http://192.168.1.113:8111/admin/admin.html?item=email
-
-如果你要开启通知功能那肯定下一步就是考虑通知内容的模板要如何设定：
-https://confluence.jetbrains.com/display/TCD9//Customizing+Notifications
-
-模板存放路径在： <TeamCity data directory>/config/_notifications/，用的是 FreeMarker 的语法
 
 现在让我们来创建项目：
 http://192.168.1.113:8111/overview.html
@@ -207,42 +173,62 @@ https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build
 链接有要求：https://confluence.jetbrains.com/display/TCD9/Guess+Settings+from+Repository+URL#GuessSettingsfromRepositoryURL-VCSURLFormat
 
 创建好之后，配置好build方式，
-开始第一次build：https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build 
-支持的Build：
-Ant 1.6-1.9 (TeamCity comes bundled with Ant 1.8.4, since TeamCity 9.1 - with Ant 1.9.6.)
-Maven versions 2.0.x, 2.x, 3.x (known at the moment of the TeamCity release). Java 1.5 and higher is supported. TeamCity comes bundled with Maven 2.2.1, 3.0.5, 3.1, 3.2.3 and since TeamCity 9.0.4 Maven 3.3.1.
-IntelliJ IDEA Project runner (requires Java 1.6+)
-Gradle (requires Gradle 0.9-rc-1 or higher)
-Java Inspections and Java Duplicates based on IntelliJ IDEA (requires Java 1.6+)
+开始第一次build：<https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build> 
+对 Build 的一些要求可以看文章上面官网的对环境要求的链接。
+
 
 TeamCity 默认对 Maven 项目的 Goals是：clean test，这两个单词其实是 Maven 的相关命令，如果你对 Maven 的命令不熟悉可以看我这篇文章：
 
 如果你已经懂了 Maven 的命令之后，我们这里就好办了，我们希望 TeamCity 帮我们做什么，你可以就写在这里，让它来帮我们做，一般我们都喜欢：clean install
 
-如果你的对你的 pom 设置：<packaging>war</packaging>，那 install 出来的 war 包会在：
-/usr/program/TeamCity/buildAgent/work/1a60958e5e8b4664/target/youshop.war
-/root/.m2/repository/com/youmeek/youshop/youshop/0.0.1-SNAPSHOT/youshop-0.0.1-SNAPSHOT.war
+Maven 相关的配置解释
+https://confluence.jetbrains.com/display/TCD9/Maven
+
+Gradle 相关的配置解释
+https://confluence.jetbrains.com/display/TCD9/Gradle
 
 
-支持的测试框架：
-JUnit 3.8.1+, 4.x
-NUnit 2.2.10, 2.4.x, 2.5.x, 2.6.x (dedicated build runner); since TeamCity 9.1 NUnit 3.0.x is supported.
-TestNG 5.3+
-MSTest 8.x, 9.x, 10.x, 11.x, 12.x.; since TeamCity 9.1 MSTest 2015 (14.0) is also supported. The dedicated build runner; requires appropriate Microsoft Visual Studio edition installed on the build agent. Since TeamCity 9.1 the MSTest runner is merged into the Visual Studio Tests runner.
-Visual Studio Tests runner, available since TeamCity 9.1, integrates MSTest runner and VSTest console runner formerly provided as an external plugin;  requires the appropriate Microsoft Visual Studio edition installed on the build agent.
-MSpec (requires MSpec installed on the build agent)
 
-版本控制要求：
-Subversion (server versions 1.4-1.7 and higher as long as the protocol is backward compatible). Check Subversion 1.8 compatibility with different TeamCity versions.
-Perforce (requires a Perforce client installed on the TeamCity server). Check compatibility issues.
-Git (requires a Git client installed on the TeamCity server).
-Mercurial (requires the Mercurial "hg" client v1.5.2+ installed on the server)
-Team Foundation Server 2005, 2008, 2010, 2012, 2013. Since TeamCity 9.1, TFS 2015 is supported as well. Requires Team Explorer installed on the TeamCity server (which should run under Windows).
-CVS
-IBM Rational ClearCase, Base and UCM modes (requires the ClearCase client installed and configured on the TeamCity server)
-SourceGear Vault 6 and 7 (requires the Vault command line client libraries installed on the TeamCity server)
-Microsoft Visual SourceSafe 6 and 2005 (requires a SourceSafe client installed on the TeamCity server, available only on Windows platforms)
-Borland StarTeam 6 and up (the StarTeam client application must be installed on the TeamCity server)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 配置自动构建触发行为
+
+
+
+构建事件的触发机制讲解：
+https://confluence.jetbrains.com/display/TCD9/Configuring+Build+Triggers
+
+
+TeamCity 采用的 Cron 语法是 Quartz，具体你可以看：
+- [Quartz CronTrigger Tutorial](http://www.quartz-scheduler.org/documentation/quartz-1.x/tutorials/crontrigger#CronTriggersTutorial-Specialcharacters)
+
+
+TeamCity 的插件列表：
+https://confluence.jetbrains.com/display/TW/TeamCity+Plugins
+
+
+
+
+
+
+
+
+
 
 集成到IntelliJ IDEA
 https://confluence.jetbrains.com/display/TCD9/IntelliJ+Platform+Plugin
