@@ -134,28 +134,38 @@ tags: [TeamCity,Maven,Java,持续集成]
 
 ### 创建需要构建的项目
 
+- 现在让我们开始创建一个项目进行构建
+- 项目管理地址：<http://192.168.1.113:8111/admin/admin.html?item=projects  >
+- 假设我现在有一个项目的结构是这样的：
+    - Youshop-Parent，输出是 pom
+        - Youshop-manage，输出是 pom
+            - Youshop-pojo，输出 jar
+- 我们现在以 Youshop-pojo 为例，让它自动构建并发布到 Nexus 中，其他项目道理是一样的，这里就不多说。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-1.jpg)
+- 如上图，由于目前只要是公司的项目都应该是在版本控制的，所以这里我们选择：**Create project from URL**
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-2.jpg)
+- 如上图，我们可以看出 TeamCity 也支持 HTTP、SVN、Git 等链接方式。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-3.jpg)
+- 输入你项目托管商的账号密码，我这里用的是 oschina 的。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-4.jpg)
+- 账号、密码验证通过，现在可以给这个项目配置一个项目基本信息。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-5.jpg)
+- 在从版本控制中下载文件和扫描文件
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-6.jpg)
+- TeamCity 自动扫描到我是用 Maven 构建的项目，所以把 POM 文件找出来了，如果你一个项目有多种构建方式，有对应的配置文件的话，这里都会显示出来的。
+- 我们勾选 Maven 前面的复选框，点击：`Use Selected`
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-7.jpg)
+- 由于我们的目标是构建完自动发布到 Nexus，所以我们的 **Maven Goals** 应该是：`clean install deploy`，这里我们应该点击：`Edit`，进行编辑。
+- 如果你不懂 **Maven Goals**，那你需要学习下，这个很重要。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-8.jpg)
+    - 如上图，这台服务器必须装有 Maven、JDK
+    - 如上图，`Goals` 我们的目标是 `clean install deploy`
+    - 如上图，`Maven Home` 我建议是自己自定义路径，这样肯定不会有问题。所以你服务器上的 Maven 安装路径是什么你就在这里填写上去。Maven 目前支持的最高版本是：3.2.5
+    - 如上图，`Java Parameters` 我建议也是自己自定义路径。
+    
 
 
 
-
-
-项目管理地址：
-http://192.168.1.113:8111/admin/admin.html?item=projects  
-
-一个这样的项目，分下面几个模块：
-- Youshop-Parent，输出pom
-    - Youshop-manage，输出pom
-        - Youshop-pojo，输出jar
-
-
-现在让我们来创建项目：
-http://192.168.1.113:8111/overview.html
-
-正常我们这里一般选择的都是：Create project from URL
-因为我们一般都是要配合版本控制系统使用的，公司内部一般也都是用版本控制的的。
-
-我这里使用远程的项目来做测试，你也可以使用服务器本机的或是公司局域网的，TeamCity 也支持 SVN，
-所以现在主流的 Git、SVN，TeamCity 都是可以很好的支持的。
 
 如上图，即使是远程的，只要你服务器能连上外网，TeamCity 一样可以支持的。
 
@@ -167,7 +177,7 @@ TeamCity 会自动识别你的 JAVA_HOME 和 M2_HOME
 只要这些都有了，构建项目的时候它会自动去读这些系统变量的，当然你也可以选择高级设置，自己在指定的下拉框来选择对应的版本。
 这里这里比较悲催的是：Maven 在 TeamCity 9.1 中最高支持的是：3.2.5，而我使用的是 3.3.9，所以我需要重新下载 3.2.5：<http://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/>
 
-https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build  
+https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build
 现在我们要创建一个项目：
 项目支持 Git 、SVN等
 链接有要求：https://confluence.jetbrains.com/display/TCD9/Guess+Settings+from+Repository+URL#GuessSettingsfromRepositoryURL-VCSURLFormat
