@@ -24,7 +24,7 @@ tags: [Java]
 ### Java 相关命名、规范
 
 - 命名：
-    - Java 类名命名
+    - Java 类名命名（用名词性单词组合）
         - **普通类名**：首字母大写，需要两个、多个单词表达的，使用大驼峰命名法进行命名，`eg：CategoryService`
         - **抽象类名**：在普通类名的基础上对其命名后加上 Abstract，`eg：CategoryAbstract`
         - **自定义异常类名**：在普通类名的基础上对其命名后加上 Exception，`eg：CategoryException`
@@ -44,7 +44,7 @@ tags: [Java]
         - `Set：categorySet`
     - **package 名**：所有单词全部小写，即使有多个单词组成，且不能使用下划线连接，或是其他任意字符连接，`eg：googlebook`
     - **方法参数名**：首字母小写，需要两个、多个单词表达的，使用小驼峰命名法进行命名，`eg：categoryName`
-    - 方法命名：
+    - 方法命名（用动词性单词开头）：
         - **数据库访问层方法名**
             - `saveCategory()`
             - `deleteCategoryByObject()`
