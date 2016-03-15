@@ -87,7 +87,7 @@ SubmitOrderInfo submitOrderInfo = getSubmitOrderInfo(orderId);
 - 行注释，用来解释
 
 ``` bash
-private int 1; // 1 是顶级分类的 ID
+private int categoryId = 1; // 1 是顶级分类的 ID
 ```
 
 
