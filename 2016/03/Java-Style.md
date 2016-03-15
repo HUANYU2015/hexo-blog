@@ -32,10 +32,10 @@ tags: [Java]
         - **后台任务类名**：在普通类名的基础上对其命名后加上 Task 或 Job，`eg：CategoryTask、CategoryJob`
         - **测试类名**：在普通类名的基础上对其命名后加上 Test，`eg：CategoryServiceTest`
         - **数据库访问层类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryDao`
-        - **业务层接口类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryService`
-        - **业务层实现类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryServiceImpl`
-        - **控制层类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryController、CategoryAction、CategoryActivity`
-        - **对象扩展类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryVO(Value Object)、CategoryDTO(Data Transfer Object)、CategoryPOJO(plain ordinary java object)`
+        - **业务层接口类名**：在普通类名的基础上对其命名后加上 Service，`eg：CategoryService`
+        - **业务层实现类名**：在普通类名的基础上对其命名后加上 ServiceImpl，`eg：CategoryServiceImpl`
+        - **控制层类名**：在普通类名的基础上对其命名后加上 Controller，`eg：CategoryController、CategoryAction、CategoryActivity`
+        - **对象扩展类名**：在普通类名的基础上对其命名后加上 VO，`eg：CategoryVO(Value Object)、CategoryDTO(Data Transfer Object)、CategoryPOJO(plain ordinary java object)`
     - **常量名**：全部字母大写，有多个单词用下划线分隔，`eg：MY_AGE`
     - **常规变量名**：首字母小写，需要两个、多个单词表达的，使用小驼峰命名法进行命名，`eg：categoryName`
     - **复数变量名**：首字母小写，需要两个、多个单词表达的，使用小驼峰命名法进行命名，eg：
