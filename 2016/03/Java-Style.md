@@ -30,8 +30,13 @@ tags: [Java]
         - **自定义异常类名**：在普通类名的基础上对其命名后加上 Exception，`eg：CategoryException`
         - **队列类名**：在普通类名的基础上对其命名后加上 Queue，`eg：CategoryQueue`
         - **后台任务类名**：在普通类名的基础上对其命名后加上 Task 或 Job，`eg：CategoryTask、CategoryJob`
+        - **Servlet 类名**：在普通类名的基础上对其命名后加上 Servlet，`eg：CategoryServlet`
+        - **Filter 类名**：在普通类名的基础上对其命名后加上 Filter，`eg：CategoryFilter`
+        - **工厂类名**：在普通类名的基础上对其命名后加上 Factory，`eg：CategoryFactory`
+        - **工具类名**：在普通类名的基础上对其命名后加上 Util，`eg：CategoryUtil`
         - **测试类名**：在普通类名的基础上对其命名后加上 Test，`eg：CategoryServiceTest`
-        - **数据库访问层类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryDao`
+        - **数据库访问层接口类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryDao`
+        - **数据库访问层实现类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryDaoImpl`
         - **业务层接口类名**：在普通类名的基础上对其命名后加上 Service，`eg：CategoryService`
         - **业务层实现类名**：在普通类名的基础上对其命名后加上 ServiceImpl，`eg：CategoryServiceImpl`
         - **控制层类名**：在普通类名的基础上对其命名后加上 Controller，`eg：CategoryController、CategoryAction、CategoryActivity`
@@ -61,6 +66,18 @@ tags: [Java]
             - `updateCategoryById()`
             - `findCategoryList()`
             - `findCategory()`
+            - `initCategory()`
+            - `openConnection()`
+            - `closeConnection()`
+            - `writeFile()`
+            - `readFile()`
+    - 视图层（JSP、FreeMarker 等）：
+        - `categoryList`
+        - `categoryAdd`
+        - `categoryUpdate`
+        - `categoryEdit`
+        - `categoryDetail`
+        - `categoryTree`
 - 规范：
     - 当一个类有多个构造函数，或是多个同名方法，这些函数 / 方法应该按顺序出现在一起，中间不要放进其它函数 / 方法
     - 导入包的时候，import 后面不要使用通配符 * 来代替有些包的导入
@@ -101,7 +118,7 @@ private int categoryId = 1; // 1 是顶级分类的 ID
     - `# 下面内容需要先执行`
     - `-- 下面内容需要先执行`
 
-- 快注释
+- 块注释
 
 ``` bash
 /*
@@ -138,3 +155,7 @@ private int categoryId = 1; // 1 是顶级分类的 ID
 
 - <https://github.com/google/styleguide>
 - <http://www.cnblogs.com/lanxuezaipiao/p/3534447.html>
+
+## 感谢
+
+- 感谢 Lindp 提供意见
