@@ -88,13 +88,10 @@ tags: [TeamCity,Maven,Java,持续集成]
     - 下载的 tar.gz 的本质是已经里面捆绑了一个 Tomcat，所以如果你会 Tomcat 的话，有些东西你可以自己改的。
     - 按我个人习惯，把解压缩的目录放在 usr 目录下：`mv TeamCity/ /usr/program/`
     - 进入解压目录：`cd /usr/program/TeamCity/`
-    - 启动程序：`bin/runAll.sh start`
-    - 停止程序：`bin/runAll.sh stop`
+    - 启动程序：`/usr/program/TeamCity/bin/runAll.sh start`
+    - 停止程序：`/usr/program/TeamCity/bin/runAll.sh stop`
     - 启动需要点时间，最好能给它一两分钟吧
     
-
-
-
 
 ### 首次进入
 
@@ -132,8 +129,9 @@ tags: [TeamCity,Maven,Java,持续集成]
     - 模板存放路径在：`/root/.BuildServer/config/_notifications`，用的是 FreeMarker 的语法
 
 
-### 创建需要构建的项目
+### 项目的构建、管理
 
+- 建议可以看下官网：<https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build>
 - 现在让我们开始创建一个项目进行构建
 - 项目管理地址：<http://192.168.1.113:8111/admin/admin.html?item=projects  >
 - 假设我现在有一个项目的结构是这样的：
@@ -157,101 +155,71 @@ tags: [TeamCity,Maven,Java,持续集成]
 - ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-7.jpg)
 - 由于我们的目标是构建完自动发布到 Nexus，所以我们的 **Maven Goals** 应该是：`clean install deploy`，这里我们应该点击：`Edit`，进行编辑。
 - 如果你不懂 **Maven Goals**，那你需要学习下，这个很重要。
+    - 官网：<http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html>
 - ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-8.jpg)
     - 如上图，这台服务器必须装有 Maven、JDK
     - 如上图，`Goals` 我们的目标是 `clean install deploy`
     - 如上图，`Maven Home` 我建议是自己自定义路径，这样肯定不会有问题。所以你服务器上的 Maven 安装路径是什么你就在这里填写上去。Maven 目前支持的最高版本是：3.2.5
-    - 如上图，`Java Parameters` 我建议也是自己自定义路径。
-    
-
-
-
-
-如上图，即使是远程的，只要你服务器能连上外网，TeamCity 一样可以支持的。
-
-TeamCity 自动识别到我这个项目中有 POM 文件，所以认定我可以使用 Maven 进行构建。
-
-我们这里勾选上 Maven 选项，然后下一步 TeamCity 就自动帮我们生成一个针对 Maven 的构建步骤，如果你对此不满意或是有内容想修改可以点击箭头上的 Edit。
-建议你还是要 Edit 一下的，因为有些信息还是需要改下的。
-TeamCity 会自动识别你的 JAVA_HOME 和 M2_HOME
-只要这些都有了，构建项目的时候它会自动去读这些系统变量的，当然你也可以选择高级设置，自己在指定的下拉框来选择对应的版本。
-这里这里比较悲催的是：Maven 在 TeamCity 9.1 中最高支持的是：3.2.5，而我使用的是 3.3.9，所以我需要重新下载 3.2.5：<http://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/>
-
-https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build
-现在我们要创建一个项目：
-项目支持 Git 、SVN等
-链接有要求：https://confluence.jetbrains.com/display/TCD9/Guess+Settings+from+Repository+URL#GuessSettingsfromRepositoryURL-VCSURLFormat
-
-创建好之后，配置好build方式，
-开始第一次build：<https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build> 
-对 Build 的一些要求可以看文章上面官网的对环境要求的链接。
-
-
-TeamCity 默认对 Maven 项目的 Goals是：clean test，这两个单词其实是 Maven 的相关命令，如果你对 Maven 的命令不熟悉可以看我这篇文章：
-
-如果你已经懂了 Maven 的命令之后，我们这里就好办了，我们希望 TeamCity 帮我们做什么，你可以就写在这里，让它来帮我们做，一般我们都喜欢：clean install
-
-Maven 相关的配置解释
-https://confluence.jetbrains.com/display/TCD9/Maven
-
-Gradle 相关的配置解释
-https://confluence.jetbrains.com/display/TCD9/Gradle
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        - 下载 Maven 3.2.5：<http://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/>
+    - 如上图，`Java Parameters` 我建议也是自己自定义路径，别选择其他选项。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-9.jpg)
+    - 如上图，点击 `run`，开始手动构建该项目
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-10.jpg)
+    - 如上图，我们看到简略的构建日志
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-11.jpg)
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-12.jpg)
+    - 如上 2 张图，我们看到详细的构建内容
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-d-1.jpg)
+    - 如上图，当我们版本控制中有提交的时候，TeamCity 会识别到记录
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-d-2.jpg)
+    - 如上图，我们可以看到提交的 Commit Message 信息。
+    - 如上图，右边红圈的三个按钮是用来处理这次提交的，常用的是第一次按钮，点击对此次版本进行构建
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-d-3.jpg)
+    - 如上图，如果你要看所有的提交记录，可以在 Change Log 看到并且指定版本构建
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-e-1.jpg)
+    - 如上图，如果在你不想要这个项目的时候可以进行删除
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-e-2.jpg)
+    - 如上图，因为 Goals 里面有 deploy 命令，所以构建完成会发布到 Nexus 中，这样团队的人就可以用到最新的代码了
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-e-3.gif)
+    - 如上 gif 图演示，项目常去的几个配置地方就是这样些了
 
 
 ### 配置自动构建触发行为
 
+- 官网提供的触发行为有：<https://confluence.jetbrains.com/display/TCD9/Configuring+Build+Triggers>
+- 下面我们举例说常见的：`VCS Trigger`、`Schedule Trigger`
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-f-1.jpg)
+    - 如上图，点击 `Add new trigger` 添加触发器
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-f-2.jpg)
+    - 如上图，常见的触发器就这些了
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-f-3.jpg)
+    - 如上图，配置好 `VCS Trigger` 效果是，当我们有代码提交的时候，TeamCity 检查到新版本之后自动构建，这个最常用 
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-f-4.jpg)
+    - 如上图，`Schedule Trigger` 的作用就是定时构建，除了常用的几个输入框设置定时外，TeamCity 还可以使用 Cron 语法进行设置
+    - TeamCity 采用的 Cron 语法是 Quartz，具体你可以看：[Quartz CronTrigger Tutorial](http://www.quartz-scheduler.org/documentation/quartz-1.x/tutorials/crontrigger#CronTriggersTutorial-Specialcharacters)
+    - 如果你不懂 Cron 语法那就算了，但是我想做 Java 这个应该要会的
 
 
-构建事件的触发机制讲解：
-https://confluence.jetbrains.com/display/TCD9/Configuring+Build+Triggers
+### 集成 IntelliJ IDEA
+
+- 安装 IntelliJ IDEA：<https://confluence.jetbrains.com/display/TCD9/IntelliJ+Platform+Plugin>
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-g-1.jpg)
+    - 如上图，我们可以直接连上 TeamCity 服务器，这里的用户名密码是 TeamCity 的账号系统。
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-g-2.jpg)
+    - 如上图，连上去的效果是这里会打钩
+- ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-g-3.jpg)
+    - 如上图，我们可以直接把别人提交的内容做 patch 直接用 IntelliJ IDEA 进行整合
+    - 还有其他很多结合玩法大家可以自己去尝试下
 
 
-TeamCity 采用的 Cron 语法是 Quartz，具体你可以看：
-- [Quartz CronTrigger Tutorial](http://www.quartz-scheduler.org/documentation/quartz-1.x/tutorials/crontrigger#CronTriggersTutorial-Specialcharacters)
+### 其他
 
-
-TeamCity 的插件列表：
-https://confluence.jetbrains.com/display/TW/TeamCity+Plugins
-
-
-
-
-
-
-
-
-
-
-集成到IntelliJ IDEA
-https://confluence.jetbrains.com/display/TCD9/IntelliJ+Platform+Plugin
-
-
-使用外部数据库：
-使用外部数据库：https://confluence.jetbrains.com/display/TCD9/Setting+up+an+External+Database
-迁移到外部数据库：https://confluence.jetbrains.com/display/TCD9/Migrating+to+an+External+Database 
-
-数据备份：
-https://confluence.jetbrains.com/display/TCD9/TeamCity+Data+Backup
-
-代码检查功能：
-https://confluence.jetbrains.com/display/TCD9/Code+Quality+Tools
-https://confluence.jetbrains.com/display/TCD9/Code+Quality+Tools#CodeQualityTools-IntelliJIDEA-poweredCodeAnalysisTools  
-https://confluence.jetbrains.com/pages/viewpage.action?pageId=74847276
+- TeamCity 的插件列表：<https://confluence.jetbrains.com/display/TW/TeamCity+Plugins>
+- 使用外部数据库：
+    - 使用外部数据库：>https://confluence.jetbrains.com/display/TCD9/Setting+up+an+External+Database>
+    - 迁移到外部数据库：>https://confluence.jetbrains.com/display/TCD9/Migrating+to+an+External+Database>
+- 数据备份：<https://confluence.jetbrains.com/display/TCD9/TeamCity+Data+Backup>
+- 代码检查功能：
+    - <https://confluence.jetbrains.com/display/TCD9/Code+Quality+Tools>
+    - <https://confluence.jetbrains.com/display/TCD9/Code+Quality+Tools#CodeQualityTools-IntelliJIDEA-poweredCodeAnalysisTools>  
+    - <https://confluence.jetbrains.com/pages/viewpage.action?pageId=74847276>
