@@ -115,6 +115,7 @@ top: 1000
     - 找官网 FAQ：<https://maven.apache.org/general.html>
     - Google
     - Stack Overflow：<http://stackoverflow.com/>
+    - QQ 群组讨论
 
 
 ### 归纳整理并分享
