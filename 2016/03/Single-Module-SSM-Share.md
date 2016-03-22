@@ -1,5 +1,5 @@
 ---
-title: 单模块 / 多模块 的 Spring MVC + Spring + Mybatis 项目讲解（基于 IntelliJ IDEA）
+title: Maven 的 单模块 / 多模块 之 Spring MVC + Spring + Mybatis 项目讲解（基于 IntelliJ IDEA）
 date: 2016-03-22 21:58:08
 description: "为了给一个叫做简的女孩子带来便利"
 categories: [IntelliJ IDEA,Java]
