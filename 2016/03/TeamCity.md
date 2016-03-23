@@ -1,6 +1,6 @@
 ---
-title: 持续集成工具推荐--TeamCity
-date: 2016-03-13 20:50:51
+title: 持续集成：TeamCity 的安装和使用
+date: 2016-03-23 20:48:31
 description: "做 Java 开发绕不过去的一个问题：是否引入持续集成？"
 categories: [TeamCity,Java]
 tags: [TeamCity,Maven,Java,持续集成]
@@ -133,11 +133,15 @@ tags: [TeamCity,Maven,Java,持续集成]
 
 - 建议可以看下官网：<https://confluence.jetbrains.com/display/TCD9/Configure+and+Run+Your+First+Build>
 - 现在让我们开始创建一个项目进行构建
-- 项目管理地址：<http://192.168.1.113:8111/admin/admin.html?item=projects  >
+- 项目管理地址：<http://192.168.1.113:8111/admin/admin.html?item=projects>
 - 假设我现在有一个项目的结构是这样的：
-    - Youshop-Parent，输出是 pom
-        - Youshop-manage，输出是 pom
-            - Youshop-pojo，输出 jar
+
+``` bash
+- Youshop-Parent，输出是 pom
+    - Youshop-manage，输出是 pom
+        - Youshop-pojo，输出 jar
+```
+
 - 我们现在以 Youshop-pojo 为例，让它自动构建并发布到 Nexus 中，其他项目道理是一样的，这里就不多说。
 - ![TeamCity 向导](http://img.youmeek.com/2016/TeamCity-guide-c-1.jpg)
 - 如上图，由于目前只要是公司的项目都应该是在版本控制的，所以这里我们选择：**Create project from URL**
