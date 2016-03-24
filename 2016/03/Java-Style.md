@@ -36,7 +36,7 @@ tags: [Java]
         - **工具类名**：在普通类名的基础上对其命名后加上 Util，`eg：CategoryUtil`
         - **测试类名**：在普通类名的基础上对其命名后加上 Test，`eg：CategoryServiceTest`
         - **数据库访问层接口类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryDao`
-        - **数据库访问层实现类名**：在普通类名的基础上对其命名后加上 Dao，`eg：CategoryDaoImpl`
+        - **数据库访问层实现类名**：在普通类名的基础上对其命名后加上 DaoImpl，`eg：CategoryDaoImpl`
         - **业务层接口类名**：在普通类名的基础上对其命名后加上 Service，`eg：CategoryService`
         - **业务层实现类名**：在普通类名的基础上对其命名后加上 ServiceImpl，`eg：CategoryServiceImpl`
         - **控制层类名**：在普通类名的基础上对其命名后加上 Controller，`eg：CategoryController、CategoryAction、CategoryActivity`
