@@ -98,12 +98,8 @@ top: 1000
     - 在极客学院搜索对应的教学视频（我是年 VIP）
     - Google 搜索：`Maven 视频 教程 百度云网盘`    
     - Google 搜索：`Maven 视频 教程`
-    - 简书-搜索相关内容：<http://www.jianshu.com/>
-    - 知乎-搜索相关内容：<http://www.zhihu.com/>
-    - Quora-搜索相关内容：<https://www.quora.com/>
     - 微博-搜索相关内容：<http://weibo.com>
     - 公众号-搜索相关内容：<http://weixin.sogou.com/>
-    - 开发者头条-搜索相关内容：<http://toutiao.io/>
     - 京东-图书：<http://book.jd.com/>
     - YouTube-搜索相关内容：<http://youtube.com/>
 - 自己写 Demo
@@ -113,9 +109,19 @@ top: 1000
 - 项目场景模拟、提高
 - 遇到问题
     - 找官网 FAQ：<https://maven.apache.org/general.html>
-    - Google
-    - Stack Overflow：<http://stackoverflow.com/>
     - QQ 群组讨论
+    - Google 搜索下面关键字方法：
+        - `Maven site:stackoverflow.com`
+        - `Maven site:quora.com`
+        - `Maven site:xitu.io`
+        - `Maven site:toutiao.io`
+        - `Maven site:segmentfault.com`
+        - `Maven site:jianshu.com`
+        - `Maven site:zhihu.com`
+        - `Maven site:blog.csdn.net`
+        - `Maven site:cnblogs.com`
+        - `Maven site:oschina.net`
+        - `Maven site:iteye.com`
 
 
 ### 归纳整理并分享
