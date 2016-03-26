@@ -22,7 +22,7 @@ tags: [Firefox]
 
 ### 整合
 
-- [YouMeek-Firefox-主题收藏集](https://addons.mozilla.org/zh-CN/firefox/collections/judasn/youmeek-firefox-%E6%89%A9%E5%B1%95%E6%94%B6%E8%97%8F%E9%9B%86/)
+- [YouMeek-Firefox-扩展收藏集](https://addons.mozilla.org/zh-CN/firefox/collections/judasn/youmeek-firefox-%E6%89%A9%E5%B1%95%E6%94%B6%E8%97%8F%E9%9B%86/)
 
 
 ### 具体
