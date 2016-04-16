@@ -120,6 +120,7 @@ top: 1000
         - `Maven site:zhihu.com`
         - `Maven site:blog.csdn.net`
         - `Maven site:cnblogs.com`
+        - `Maven site:blog.51cto.com`
         - `Maven site:oschina.net`
         - `Maven site:iteye.com`
         - `Maven site:importnew.com`
