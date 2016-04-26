@@ -95,6 +95,7 @@ top: 1000
             - `Documentation`
             - `Docs`
             - `Screencasts`
+            - `best practices`
     - 在极客学院搜索对应的教学视频（我是年 VIP）
     - Google 搜索：`Maven 视频 教程 百度云网盘`    
     - Google 搜索：`Maven 视频 教程`
