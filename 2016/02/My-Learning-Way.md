@@ -44,6 +44,10 @@ top: 1000
 - 它的历史
     - Google 搜索：`Maven History`
     - Google 搜索：`Maven 区别`、`Maven difference`
+    - Google 搜索：`Maven 使用场景`
+    - Google 搜索：`What is Maven`
+    - Google 搜索：`To use or not to use Maven`
+    - Google 搜索：`Maven use case`
         - 在 Google 搜索结果页最下面，看它提示的搜索关键字内容，看是否有版本上的区别。
 - 同类常见技术（按技术出现时间正序）
     - `Ant`
