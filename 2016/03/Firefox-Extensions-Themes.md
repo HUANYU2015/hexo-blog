@@ -66,6 +66,11 @@ tags: [Firefox]
 - **Copy Urls Expert**：<https://addons.mozilla.org/zh-CN/firefox/addon/copy-urls-expert/?src=api>
 
 
+### 关闭扩展签名校验
+
+- 在地址栏输入：`about:config`，找到：`xpinstall.signatures.required`，然后设置为 false
+
+
 ## 主题
 
 
