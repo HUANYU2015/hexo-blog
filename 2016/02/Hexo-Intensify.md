@@ -296,6 +296,26 @@ module.exports = function(locals){
 - 然后在文章头部的：Front-matter 位置加上一个：`top: 1000` 的内容。数值越大，越靠前
 
 
+## 添加一些不希望被渲染的文件到 hexo
+
+- 因为我们使用的是 Github 项目做空间，所以一般项目我们都要放一个 README.md 文件，而我们希望这个文件不被 hexo 渲染成 HTML 文件，我们需要这样做：
+	- 把 README.md 放在这个目录下：`hexo\source\README.md`
+	- 编辑这个配置文件：`hexo\_config.yml`，找到这个关键字：`skip_render`，然后这样写：
+	``` nginx
+	skip_render: 
+      - README.md
+	```
+- 有时候我们需要排除一整个目录，道理跟上面一样，比如你现在访问：<http://code.YouMeek.com/i>，你发现会跑到我的一个备份导航中，而我是通过这样配置来实现的：
+	- 这里的 `i` 是我的目录名称，因为我的真正导航地址是：<http://i.YouMeek.com>，所以取这样的目录名字方便记忆。
+	- 而 `i/**` 这里的后缀的两个星号表示这个目录下包括子目录，其所有文件都被忽略渲染。
+	- 对于一些 HTML 和 CSS、JS 这类也要注意，hexo 有一套自己的渲染方式，比如可能会对你的 JS 做一些特殊处理，所以可能会让你的 JS 失效，所以最好按我这种方式来排除掉。
+	``` nginx
+	skip_render: 
+	  - README.md
+	  - i/**
+	```
+
+
 ## 插件推荐
 
 ### 插件的基本使用命令
