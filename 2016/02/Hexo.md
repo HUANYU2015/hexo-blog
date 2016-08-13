@@ -98,7 +98,7 @@ tags: [Hexo,IntelliJ IDEA,Git,Github,Node.js]
 
 - 双击运行 **node-v5.7.0-x64.msi**，接下来一律下一步，不需要多余的选择。
 - 安装完之后，打开 Git Bash，输入：`npm -v`
-    - 如下图，如果出现：**3.6.0**，则表示 Node.js 安装成功
+    - 如下图，如果出现：**3.6.0**，则表示 Node.js 安装成功。如果你没有显示这个信息，我怀疑你需要重启电脑试试看，因为我在给我弟讲解这一步的时候发现有这个问题。
     - ![验证 node.js 安装](http://img.youmeek.com/2016/hexo-start-a-2.jpg)
 
 
