@@ -1,9 +1,9 @@
 ---
-title: VPS 是什么，可以做什么，如果使用
-date: 2016-08-19 21:10:16
+title: VPS + Shadowsocks 可以是什么，做什么，如果使用（详细图文）
+date: 2016-08-19 20:10:16
 description: "对于开发者而言，穿越这件事可能要做一辈子"
 categories: [开发工具]
-tags: [开发工具,VPS,Shadowsocks]
+tags: [开发工具,VPS,Shadowsocks,Vultr]
 ---
 
 
@@ -15,7 +15,8 @@ tags: [开发工具,VPS,Shadowsocks]
 - 帮助我弟弟，理解 VPS，理解服务器部署相关，最重要的是理解穿越这件事
 - 帮助更多的开发者或是求知者，勇于求知，丰富自己的精神世界
 - 以这篇文章作为回报，感谢鐡的指导
-- 写、修改这篇文章大概花了差不多 5 个小时，如果连同过去的一些素材积累，差不多 7 个小时，希望你懂得珍惜。
+- 写、修改这篇文章大概花了差不多 5 个小时，如果连同过去的一些素材积累，差不多 7 个小时，希望能帮助你。
+
 
 
 ## VPS 介绍
@@ -76,9 +77,8 @@ tags: [开发工具,VPS,Shadowsocks]
     - [Vultr 夏季特别推荐码](http://www.vultr.com/?ref=6959018-3B)
     - 点击链接上面，注册的按钮就在官网页面右上角，你自己去注册吧
 - 注册要点说明：
-> vultr 是禁止用户重复注册账号的，即如果你的支付信息有2个账号在使用，那么你的账户会被后台关闭的。简单的说就是一个账户的支付信息比如paypal 账号是对应唯一的一个的，如果你再次使用这个paypal支付另外一个新注册的账号的话，那么账户就会被关闭。所以，重复的注册账号是不可取的，试用到期效果好续费即可。
-> 来源：<https://www.bandwagong.com/vultrvps/>
-
+- > vultr 是禁止用户重复注册账号的，即如果你的支付信息有2个账号在使用，那么你的账户会被后台关闭的。简单的说就是一个账户的支付信息比如paypal 账号是对应唯一的一个的，如果你再次使用这个paypal支付另外一个新注册的账号的话，那么账户就会被关闭。所以，重复的注册账号是不可取的，试用到期效果好续费即可。
+- > 来源：<https://www.bandwagong.com/vultrvps/>
 - Vultr 的一些特性介绍：
     - Vultr 官网优点介绍集合：<https://www.vultr.com/features/>
     - 各个节点的下载速度测试：<https://www.vultr.com/faq/#downloadspeedtests>
@@ -246,7 +246,7 @@ Enjoy it!
 - 以 Windows 的 Shadowsocks 客户端为例进行说明：
     - Windows 的 Shadowsocks 是一个绿色版软件
     - 重要思维提醒：
-        - Shadowsocks 是一个代理工具，一启动该软件，即使你没有勾选：`启用系统代理`，也是同样可以用的，只是你需要利用浏览器扩展进行代理设置，本文下一个锚点会讲这个知识点
+        - （**重点**）Shadowsocks 是一个代理工具，一启动该软件，即使你没有勾选：`启用系统代理`，也是同样可以用的，只是你需要利用浏览器扩展进行代理设置，本文下一个锚点会讲这个知识点
     - 如果你想简单方便，不利用浏览器的扩展进行高级设置的话，那你也可以直接使用 Shadowsocks 自带功能，勾选：`启用系统代理`，然后在 `系统代理模式` 这个选项上选择对应模式
         - 对于系统代理模式有两个选项模式：
         - `PAC 模式`，我称作：自动模式。它有一个 PAC 文件，里面有一些网址的匹配规则，这些网址是历代国人整理出来的，帮你辨别一些有用网站需要使用它就自动代理。这里有一个衍生知识：[GFWList](https://github.com/gfwlist/gfwlist)
@@ -254,13 +254,13 @@ Enjoy it!
             - 最新的 GFWList 地址：<https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt>
         - `全局模式`，系统中所有支持 Socks 5 的软件都可以利用它代理，所以这里的要点是要用它代理必须是支持 Socks 5
             - 也因为 Shadowsocks 这个特点，所以如果你要真正的全局代理，建议还是用 VPN 工具，比如 OpenVPN
-    - 整体效果看下图 Gif：[Gif 图片太大，点击单独打开](http://img.youmeek.com/2016/VPS-Shadowsocks-settings.gif)
+    - （**重点**）整体效果看下图 Gif：[Gif 图片太大，点击单独打开](http://img.youmeek.com/2016/VPS-Shadowsocks-settings.gif)
 
 
 ### 浏览器扩展的使用
 
 - Firefox 扩展 FoxyProxy Standard：<https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/>
-    - 配置方法如下图 Gif 演示：[Gif 图片太大，点击单独打开](http://img.youmeek.com/2016/VPS-FoxyProxy-Standard-settings.gif)
+    - （**重点**）配置方法如下图 Gif 演示：[Gif 图片太大，点击单独打开](http://img.youmeek.com/2016/VPS-FoxyProxy-Standard-settings.gif)
     - 配置要点整理：
         - 新建代理服务器
         - 填写 Shadowsocks 默认的本地代理信息：主机或 IP 地址：127.0.0.1，端口：1080
@@ -269,7 +269,7 @@ Enjoy it!
         - 模式订阅增加 GFWList 地址：<https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt>
         - 快速添加功能的开启，这个是为了方便我们添加一些不在 GFWList 的站点进行代理的便捷操作。
 - Chrome 扩展 Proxy SwitchyOmega：<https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN> 
-    - 配置方法如下图 Gif 演示：[Gif 图片太大，点击单独打开](http://img.youmeek.com/2016/VPS-Proxy-SwitchyOmega-settings.gif)
+    - （**重点**）配置方法如下图 Gif 演示：[Gif 图片太大，点击单独打开](http://img.youmeek.com/2016/VPS-Proxy-SwitchyOmega-settings.gif)
     - 配置要点整理：
         - 编辑 proxy 设置，填写 Shadowsocks 默认的本地代理信息：主机或 IP 地址：127.0.0.1，端口：1080，选择 Socks 代理、Socks V5
         - 编辑 auto switch 设置
