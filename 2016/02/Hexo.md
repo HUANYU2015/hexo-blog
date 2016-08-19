@@ -313,7 +313,10 @@ deploy:
     - ![设置域名解析](http://img.youmeek.com/2016/hexo-start-e-3.jpg)
 - 设置好之后，等过几分钟域名解析好之后，我们访问：<http://code.youmeek.com>，效果如下：    
     - ![域名访问效果](http://img.youmeek.com/2016/hexo-start-e-4.jpg)
-
+	- 2016-08-19 更新：Github 提示，建议我们使用 CNAME 方式来指向，别用 IP，所以建议你这样配置，还是以我的为例：
+		- 主机记录：code
+		- 记录类型：CNAME
+		- 记录值：judasn.github.io.（后面的这个点别忘记了）
 
 ### 整合 IntelliJ IDEA 提高效率
 
