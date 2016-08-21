@@ -62,7 +62,8 @@ tags: [开发工具,VPS,Shadowsocks,Vultr]
 - 目前在国内，使用的主流外国 VPS 厂商有这些：
     - [Linode](http://www.linode.com/)，算是业界 Top，就是贵
     - [Vultr](http://www.vultr.com/?ref=6959017)，我现在用的，也是下文演示的 VPS
-        - [Vultr 夏季特别推荐码](http://www.vultr.com/?ref=6959018-3B)
+        - [我的 Vultr 夏季特别推荐码](http://www.vultr.com/?ref=6959018-3B)
+        - [来自我朋友：鐡的 Vultr 夏季特别推荐码](http://www.vultr.com/?ref=6958038-3B)
         - 使用这个注册我可以得到 30 美金，你可以得到 20 美金，这些钱提取不出来的，只能在里面消费。
     - [DigitalOcean（跟 Vultr 模式差不多）](https://www.digitalocean.com/)
     - [BandwagonHost（俗称：搬瓦工）](https://bandwagonhost.com/)
@@ -74,7 +75,8 @@ tags: [开发工具,VPS,Shadowsocks,Vultr]
 ### Vultr 注册账号
 
 - [Vultr](http://www.vultr.com/?ref=6959017)
-    - [Vultr 夏季特别推荐码](http://www.vultr.com/?ref=6959018-3B)
+	- [我的 Vultr 夏季特别推荐码](http://www.vultr.com/?ref=6959018-3B)
+	- [来自我朋友：鐡的 Vultr 夏季特别推荐码](http://www.vultr.com/?ref=6958038-3B)
     - 点击链接上面，注册的按钮就在官网页面右上角，你自己去注册吧
 - 注册要点说明：
 - > vultr 是禁止用户重复注册账号的，即如果你的支付信息有2个账号在使用，那么你的账户会被后台关闭的。简单的说就是一个账户的支付信息比如paypal 账号是对应唯一的一个的，如果你再次使用这个paypal支付另外一个新注册的账号的话，那么账户就会被关闭。所以，重复的注册账号是不可取的，试用到期效果好续费即可。
