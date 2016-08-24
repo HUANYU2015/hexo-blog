@@ -164,7 +164,7 @@ tags: [开发工具,VPS,Shadowsocks,Vultr]
         - `cd /opt`
         - `wget --no-check-certificate https://github.com/teddysun/across/raw/master/unixbench.sh`
         - `chmod +x unixbench.sh`
-        - `./unixbench.sh`，剩下就等结果，其他不用管了。
+        - `./unixbench.sh`，剩下就等结果，其他不用管了，执行的时间我这边大概是 30 min，所以还是有点长的。
         - 我最后的结果是：`System Benchmarks Index Score==1286.7`，简单粗暴地讲，如果是 1 个 CPU 的机子，如果你的结果值低于 500，那就是比较垃圾的 VPS 了，优秀的应该在 1000 左右，八九百算是普通（别人说的）。
 - 测试我们当前位置到 VPS 所在地址之间的网络请求响应能力
     - 线上 TraceRoute 工具：
