@@ -334,7 +334,7 @@ module.exports = function(locals){
 - HTML 压缩：`npm install hexo-html-minifier --save`
 - JavaScript 压缩：`npm install hexo-uglify --save`
 - CSS 压缩插件：`npm install hexo-clean-css --save`
-- SEO优化：`npm install hexo-generator-seo-friendly-sitemap`
+- SEO优化：`npm install hexo-generator-seo-friendly-sitemap --save`
 
 ## 结束语
 
