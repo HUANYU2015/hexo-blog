@@ -290,6 +290,8 @@ deploy:
         - ![提交成功](http://img.youmeek.com/2016/hexo-start-d-2.jpg)
     - 访问服务器地址进行检查：<http://judasn.github.io>，效果如下
         - ![服务器效果](http://img.youmeek.com/2016/hexo-start-d-3.jpg)
+    - 但是，也不排除你 deploy 不了到 Github，报这个错误：`Host key verification failed`，那解决办法如下：
+        - 还是在 Git Bash 界面中，输入如下命令：`ssh -T git@github.com`，根据界面提示，输入：`yes` 回车。之后你可以再试一下是否可以 deploy。
 - 通过上面几次流程我们也就可以总结：以后，每次发表新文章要部署都按这样的流程来：
     - `hexo clean`
     - `hexo generate`
