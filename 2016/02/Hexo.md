@@ -174,7 +174,7 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
     - 在 Git Bash 中，输入：`ssh-keygen -t rsa -C "你的邮箱地址"`，然后回车，回车，再回车，一共 3 次回车，具体含义自己 Google。
     - 比如我的：`ssh-keygen -t rsa -C "jn3.141592654@gmail.com"`，生成后效果如下图：
     - ![生成 ssh 密钥](http://img.youmeek.com/2016/hexo-start-c-2.jpg)
-    - 此时，生成密钥后，在你电脑目录：C:\Users\你的计算机用户名\.ssh 下，会生成两个文件：
+    - 此时，生成密钥后，在你电脑目录：C:\Users\你的计算机用户名\\.ssh 下，会生成两个文件：
         - 私钥：**id_rsa**
         - 公钥：**id_rsa.pub**
         - 如果生成的不是这样的文件，那删除掉这两个生成的，重新执行上面的命令，让它再一次生成。
@@ -280,7 +280,11 @@ deploy:
     - 先清除掉已经生成的旧文件：`hexo clean`
     - 再生成一次静态文件：`hexo generate`
     - 在本地预览下：`hexo server`
-    - 本地没问题之后，Ctrl + C 停掉本地预览，使用部署命令部署到 Github 上：`hexo deploy`，有弹出下面提示框，请输入：`yes`
+    - 本地没问题之后，Ctrl + C 停掉本地预览。
+    - 在部署到 Github 之前，需要先确定你是否已经用过 Git，如果你没用过，则此时你需要做如下设置，在 Git Bash 中依次输入下面两个命令：
+        - `git config --global user.email "你的 Github 注册邮箱地址"`
+        - `git config --global user.name "你的 Github 用户名"`
+    - 使用部署命令部署到 Github 上：`hexo deploy`，有弹出下面提示框，请输入：`yes`
         - ![确认提交](http://img.youmeek.com/2016/hexo-start-d-1.jpg)
     - 提交成功效果如下：
         - ![提交成功](http://img.youmeek.com/2016/hexo-start-d-2.jpg)
