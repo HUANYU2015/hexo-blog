@@ -321,6 +321,7 @@ deploy:
 		- 主机记录：code
 		- 记录类型：CNAME
 		- 记录值：judasn.github.io.（后面的这个点别忘记了）
+		- 还有，要记得把 CNAME 那个文件再 deploy 到 Github 哦，不然还是访问不了的。
 
 ### 整合 IntelliJ IDEA 提高效率
 
