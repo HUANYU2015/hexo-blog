@@ -33,6 +33,7 @@ tags: [Firefox]
 - **Xmarks**：<https://addons.mozilla.org/zh-CN/firefox/addon/xmarks-sync>
 - **Add Bookmark Here ²**：<https://addons.mozilla.org/zh-CN/firefox/addon/add-bookmark-here-2>
 - **Google search link fix**：<https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/>
+- **FoxyProxy Standard**：<https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/>
 - **FindBar Tweak**：<https://addons.mozilla.org/zh-CN/firefox/addon/findbar-tweak>
 - **Firebug**：<https://addons.mozilla.org/zh-CN/firefox/addon/firebug>
 - **iMacros for Firefox**：<https://addons.mozilla.org/zh-CN/firefox/addon/imacros-for-firefox>
