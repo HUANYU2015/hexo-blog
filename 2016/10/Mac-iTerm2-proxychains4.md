@@ -30,7 +30,6 @@ tags: [Mac,终端]
     - Maven 官网对自己的定义：<http://maven.apache.org/what-is-maven.html>
     - 百度百科定义：<http://baike.baidu.com/view/336103.htm>
     - 维基百科定义：<https://zh.wikipedia.org/wiki/Apache_Maven>
-    - 我的理解：类似 Ubuntu 的 apt-get，CentOS 的 yum。
 - 它的历史
     - Google 搜索：`Maven History`
         - 搜索结果：
@@ -78,60 +77,24 @@ tags: [Mac,终端]
 
 ### 为什么学习它
 
-- 构建工具是 Java Web 开发者绕不过去的一道坎
+- Mac 下的 Homebrew 默认源在境外，有时候速度非常慢，国内源有时候也不好用，所以就想着直接穿越了，反正我那边有一个 vps 服务器。
 
 ### 我要怎么做
 
-- 官网项目：<https://github.com/Homebrew/brew>
-- 安装
-    - 先安装 Xcode command line tools（一般系统默认会有，如果没有再装）：`xcode-select --install `
-    - 打开终端，复制该命令：`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-        - 根据提示，按回车键
-        - 根据提示，输入当前用户的密码
-        - 终端中提示正在下载和安装 Homebrew，这个时间根据你网速的快慢来决定时间，反正我是很慢，还出现了下载速度 0kb 的状况，然后重新运行了一次就成功。
-- 测试
-    - 打开终端，复制该命令：`brew doctor`
-        - 如果输出：`Your system is ready to brew.`，则表示安装成功。
-- 卸载
-    - 打开终端，复制该命令：`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"`
-    - 删除目录：`sudo rm -rf /usr/local/Homebrew`
-- Homebrew 基本使用
-    - 安装指定软件包：`brew install 软件包名称`，安装过程的讲解可以看这篇文章：<https://www.zybuluo.com/phper/note/87055>
-    - 卸载指定软件包：`brew uninstall 软件包名称`
-    - 更新指定软件包：`brew upgrade 软件包名称`
-    - 搜索是否存在对应的软件包：`brew search 软件包名称`
-    - 查看对应软件包的信息：`brew info 软件包名称`
-    - 更新 Homebrew 在服务器端上的包目录：`brew update`
-    - 清理旧版本的包缓存时：`brew cleanup`
-    - 查看你安装过的包列表：`brew list`
-    - 更新 Homebrew 在服务器端上的包目录：`brew update`
-    - 查看那些已安装的程序需要更新：`brew outdated`
-    
-    
-    
-- 使用国内源
-    - 默认的源实在速度有够慢的
-- USTC 的源：<https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git>
-    - 方法：
-        - `cd "$(brew --repo)"`
-        - `git remote set-url origin git://mirrors.ustc.edu.cn/brew.git`
-
+- 安装：`brew install proxychains-ng`
+- 修改配置文件：`vim /usr/local/etc/proxychains.conf`
+    - 在配置文件中找到：`[ProxyList]`，在其下面一行新增一条：`socks5  127.0.0.1 1080 # my vps`
+- 测试：`proxychains4 curl google.com`，如果显示的命令行信息中，前缀都带有：`[proxychains]`，则表示成功了。以后只要在命令前面加个：proxychains4，即可。
+- 修改终端配置，让命令更加简洁：
+    - 如果你是 zsh 终端，配置修改：`vim ~/.zshrc`，添加一行：`alias pc='proxychains4'`
+    - 如果你是 bash 终端，配置修改：`vim ~/.bash_profile`，添加一行：`alias pc='proxychains4'`
+    - 修改之后，以后要用 proxychains4 执行命令的话，那就可以这样写：`pc curl google.com`
 
 
 ### 资料整理
 
 - 来自 Google 过程中的资料（真心感谢这些作者）：
-    - <https://aaaaaashu.gitbooks.io/mac-dev-setup/content/Homebrew/index.html>
-    - <http://mac-osx-for-newbie-book.kejyun.com/software/SoftwareManageHomebrew.html>
-    - <http://www.cnblogs.com/TankXiao/p/3247113.html>
-    - <http://brew.sh/index_zh-cn.html>
-    - <https://www.zybuluo.com/phper/note/87055>
-    - <http://www.udpwork.com/item/11775.html>
-    - <http://www.zhihu.com/question/22624898>
-    - <http://wiki.jikexueyuan.com/project/mac-dev-setup/homebrew.html>
-    - <http://blog.devtang.com/2014/02/26/the-introduction-of-homebrew-and-brewcask/>
-    - <>
-    - <>
+    - <http://yanghui.name/blog/2015/07/19/make-all-command-through-proxy/>
     - <>
     - <>
     - <>
