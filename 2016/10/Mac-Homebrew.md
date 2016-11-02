@@ -1,9 +1,9 @@
 ---
-title: Mac-iTerm2 使用说明
+title: Mac 系统下的好用包管理器：Homebrew
 date: 2016-10-31 22:23:10
-description: "很多人说它是 Mac 下最好的终端，试试也无妨。"
+description: "据我所知，Mac 系统下目前大家都是用它做包管理"
 categories: [Mac]
-tags: [Mac,终端]
+tags: [Mac,Homebrew,终端]
 ---
 
 
@@ -18,71 +18,42 @@ tags: [Mac,终端]
 
 ## 先总结
 
-- 比默认的终端好用，配合 zsh 确实很便捷
+- 有 Homebrew 配置，安装/维护一些开发包/组件会方便很多，提供开发者效率，仅此而已。
 - 如果不是开发者，一般人就不用折腾这个，一般来讲是浪费时间
 
-## iTerm2 知识
+## Homebrew 知识
 
-### iTerm2 是什么
+### Homebrew 是什么
 
 - 术语定义
-    - iTerm2 官网：<http://maven.apache.org/>
-    - Maven 官网对自己的定义：<http://maven.apache.org/what-is-maven.html>
-    - 百度百科定义：<http://baike.baidu.com/view/336103.htm>
-    - 维基百科定义：<https://zh.wikipedia.org/wiki/Apache_Maven>
+    - Homebrew 官网：<http://brew.sh/index_zh-cn.html>
+    - 维基百科定义：<https://weiji.ga/zh-hans/Homebrew>
     - 我的理解：类似 Ubuntu 的 apt-get，CentOS 的 yum。
-- 它的历史
-    - Google 搜索：`Maven History`
-        - 搜索结果：
-            - 历史介绍：<http://maven.apache.org/background/history-of-maven.html>
-            - 创始人：**jason van zyl**
-            - 创始人现在：<http://takari.io/>
-    - Google 搜索：`Maven 区别`、`Maven difference`
-        - 搜索结果：
-            - 人们在关注：
-            - gradle maven区别
-            - ant maven区别
-            - ivy maven区别
-            - maven maven2区别
-                - 通过这个搜索结果我们知道，现阶段我们要的是 Maven 3：
-                - [Maven实战（十）——Maven 3，是时候升级了](http://www.infoq.com/cn/news/2011/07/xxb-maven-10-time-to-update)
-                - [六年等一回 Maven 3的10大新特性详解](http://tech.it168.com/a2010/1108/1123/000001123274_all.shtml)
-- 同类常见技术（按技术出现时间正序）
-    - `terminal`
-    - `tmux`
+- 同类常见技术
+    - `Fink`
+    - `MacPorts`
 - 同类技术比较：
-    - Google 搜索：`Ant Maven Gradle`
-        - 搜索结果：
-            - [Java构建工具：Ant vs Maven vs Gradle](http://blog.csdn.net/napolunyishi/article/details/39345995)
-            - [Maven和Gradle对比](http://www.cnblogs.com/huang0925/p/5209563.html)
+    - [Homebrew 和 Fink、MacPort 相比有什么优势？](http://www.zhihu.com/question/19862108)
 - 学习前提/依赖
-    - 要有 Java 基础相关（如果你完全没学过 Java，建议跳过，不适合你）
-    - 最好有 Java Web 相关知识
-    - 不需要会 Ant 或是 Maven 早期版本的内容
+    - 一点英文
+    - 一点 Unix/Linux 系统的思想
+    - 一点 shell 概念
 
 ### 为什么会出现
 
-- Google 搜索：（这些一般都是一些故事，你自己来判断，别人的坎坷是你成长的基石）
-    - 关键字：`为什么用 maven`
-    - 关键字：`why use maven`
-    - 关键字：`What does Maven do`
-    - 关键字：`Why do we need Maven`
-    - 关键字：`Why should we use Maven`
+- 有些操作，命令行或者说脚本的方式效率是远高于 GUI 界面操作的，这个概念需要用过 Unix/Linux 做过开发的人会懂，特别是搞运维的。如果你不理解，可以找一些运维的视频教程来看看，会有很多事情的处理都是搞脚本的做的。所以在维护一些开发包/组件的时候，懂一些包管理工具的话会帮你提高工作效率，仅此而已。
 
 ### 哪些人不喜欢它
 
-- Google 搜索：（这些一般都是一些故事，你自己来判断，别人的坎坷是你成长的基石）
-    - 关键字：`不用 maven`
-    - 关键字：`Why I Don't Use Maven`
+- 不需要用到终端的用户
 
 
 ### 为什么学习它
 
-- 构建工具是 Java Web 开发者绕不过去的一道坎
+- 方便安装开发包/组件，便于管理这些东西
 
 ### 我要怎么做
 
-- 官网项目：<https://github.com/Homebrew/brew>
 - 安装
     - 先安装 Xcode command line tools（一般系统默认会有，如果没有再装）：`xcode-select --install `
     - 打开终端，复制该命令：`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
@@ -106,19 +77,16 @@ tags: [Mac,终端]
     - 查看你安装过的包列表：`brew list`
     - 更新 Homebrew 在服务器端上的包目录：`brew update`
     - 查看那些已安装的程序需要更新：`brew outdated`
-    
-    
-    
 - 使用国内源
     - 默认的源实在速度有够慢的
-- USTC 的源：<https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git>
-    - 方法：
-        - `cd "$(brew --repo)"`
-        - `git remote set-url origin git://mirrors.ustc.edu.cn/brew.git`
+    - USTC 的源：<https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git>
+        - 方法：
+            - `cd "$(brew --repo)"`
+            - `git remote set-url origin git://mirrors.ustc.edu.cn/brew.git`
 
 
 
-### 资料整理
+## 资料整理
 
 - 来自 Google 过程中的资料（真心感谢这些作者）：
     - <https://aaaaaashu.gitbooks.io/mac-dev-setup/content/Homebrew/index.html>
@@ -130,19 +98,11 @@ tags: [Mac,终端]
     - <http://www.zhihu.com/question/22624898>
     - <http://wiki.jikexueyuan.com/project/mac-dev-setup/homebrew.html>
     - <http://blog.devtang.com/2014/02/26/the-introduction-of-homebrew-and-brewcask/>
-    - <>
-    - <>
-    - <>
-    - <>
-    - <>
 
 
 ## 过程细节
 
-- 过去 2014 年里，基本上关于 Maven 的知识都是在 Google 上搜索出来的。
-- 在 2015 年才看到极客学院上面有成套资料
-     
      
 ## 结束语
 
-- Maven 也许开始要过时了，但是即使 Gradle 的时代要到来了，你会害怕吗？我想你不会的，因为你会学习知识的方法，更而且他们还差不多。
+- 如果你需要它就你就好好学习，如果你的职业现在完全用不到，那就把这篇文章加收藏，有需要再打开，不希望你花时间多做一些没有太大意义的事情。
