@@ -78,6 +78,7 @@ tags: [Mac,快捷键]
 |Control + Shift + 电源按钮|将显示器置于睡眠状态|
 |Command + Control + 空格键|显示“字符显示程序”弹出窗口，可以插入表情|
 |Command + Control + 电源按钮|强制 Mac 重新启动|
+|Command + Option + H|置顶当前焦点所在的这个窗口，隐藏后面的其他所有窗口。这个很有用的，方便使用桌面的内容|
 |Command + Option + Esc|强制退出：选择要强制退出的 app。或者，按住 Command-Shift-Option-Esc 3 秒钟来仅强制最前面的 app 退出|
 |Command + Option + Shift + Q|立即注销您的 macOS 用户帐户，且系统不提示您确认。|
 |Command + Option + Control + 电源按钮|退出所有 app，然后关闭 Mac。如果任何打开的文稿有未存储的更改，系统将询问您是否要存储这些更改|
