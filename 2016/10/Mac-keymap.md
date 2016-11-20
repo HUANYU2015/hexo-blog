@@ -56,7 +56,7 @@ tags: [Mac,快捷键]
 |:---------|:---------|
 |Delete|文本编辑中：向前删除|
 |Fn + Delete|文本编辑中：向后删除|
-|Command + H|隐藏最前面的 app 的窗口。要留下最前面的 app 但隐藏所有其他 app，请按 Command-Option-H|
+|Command + H|隐藏最前面的 app 的窗口|
 |Command + M|将最前面的窗口最小化至 Dock。要最小化最前面的 app 的所有窗口，请按 Command-Option-M|
 |Command + S|保存|
 |Command + W|关闭最前面的窗口。要关闭该 app 的所有窗口，请按 Command-Option-W|
