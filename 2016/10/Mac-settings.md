@@ -1,84 +1,94 @@
 ---
-title: Mac 系统下的好用包管理器：Homebrew
-date: 2016-10-31 22:23:10
-description: "据我所知，Mac 系统下目前大家都是用它做包管理"
+title: 一个Java程序员眼中的Mac OS（系列二：系统使用）
+date: 2016-11-20 23:07:02
+description: "是软件撑起一个系统的易用性，所以用好软件就是用好系统。"
 categories: [Mac]
-tags: [Mac,Homebrew,终端]
+tags: [Mac]
 ---
 
 
 <!-- more -->
 
+- ![YouMeek 公众号](http://img.youmeek.com/2016/Mac-System-Settings.jpg)
+
 ## 本文初衷
 
-- ![Maven](http://img.youmeek.com/2016/maven.png)
+
 - 整理自己脑袋中、收藏中的那些资料，来一次清空，让自己重新开始。
 - 帮助 Mac 后来者，减少他/她入门成本
 
 
 ## 先总结
 
-- 有 Homebrew 配置，安装/维护一些开发包/组件会方便很多，提供开发者效率，仅此而已。
-- 如果不是开发者，一般人就不用折腾这个，一般来讲是浪费时间
-
-## Homebrew 知识
-
-### Homebrew 是什么
-
-- 术语定义
-    - Homebrew 官网：<http://brew.sh/index_zh-cn.html>
-    - 维基百科定义：<https://weiji.ga/zh-hans/Homebrew>
-    - 我的理解：类似 Ubuntu 的 apt-get，CentOS 的 yum。
-- 同类常见技术
-    - `Fink`
-    - `MacPorts`
-- 同类技术比较：
-    - [Homebrew 和 Fink、MacPort 相比有什么优势？](http://www.zhihu.com/question/19862108)
-- 学习前提/依赖
-    - 一点英文
-    - 一点 Unix/Linux 系统的思想
-    - 一点 shell 概念
-
-### 为什么会出现
-
-- 有些操作，命令行或者说脚本的方式效率是远高于 GUI 界面操作的，这个概念需要用过 Unix/Linux 做过开发的人会懂，特别是搞运维的。如果你不理解，可以找一些运维的视频教程来看看，会有很多事情的处理都是搞脚本的做的。所以在维护一些开发包/组件的时候，懂一些包管理工具的话会帮你提高工作效率，仅此而已。
-
-### 哪些人不喜欢它
-
-- 不需要用到终端的用户
+- Mac 系统你值得拥有。
+- 本文所有的链接都是指向我写在简书上的文章，这里是做章节目录，方便你查阅。
 
 
-### 为什么学习它
+## 教程环境
 
-- 方便安装开发包/组件，便于管理这些东西
-
-### 我要怎么做
-
-- Mission Control
-     - 可以你用鼠标的其他键来控制一些功能，比如我是雷蛇的xxx鼠标，左侧有多了两个键，我用来显示桌面和显示Control的。
-- Dock 
-    - 背景色的修改
-    - 显示图标的大小修改
-    - 显示的位置
-    
-
-## 资料整理
-
-- 来自 Google 过程中的资料（真心感谢这些作者）：
-    - <https://aaaaaashu.gitbooks.io/mac-dev-setup/content/Homebrew/index.html>
-    - <http://mac-osx-for-newbie-book.kejyun.com/software/SoftwareManageHomebrew.html>
-    - <http://www.cnblogs.com/TankXiao/p/3247113.html>
-    - <http://brew.sh/index_zh-cn.html>
-    - <https://www.zybuluo.com/phper/note/87055>
-    - <http://www.udpwork.com/item/11775.html>
-    - <http://www.zhihu.com/question/22624898>
-    - <http://wiki.jikexueyuan.com/project/mac-dev-setup/homebrew.html>
-    - <http://blog.devtang.com/2014/02/26/the-introduction-of-homebrew-and-brewcask/>
+- 硬件：2015 款 MacBook Pro
+- 系统：macOS Sierra 10.12.1
+- 语言：简体中文
 
 
-## 过程细节
+## Mac 必懂概念
+
+- [Mac 没有 `我的电脑`，有 `Finder`]()
+- [Mac 没有 `控制面板`，有 `系统偏好设置`]()
+- [Mac 没有 `回收站`，有 `废纸篓`]()
+- [Mac 的常用压缩格式 dmg 文件，类似 Windows 的 ISO 文件格式]()
+- [认识 Mission Control 的概念]()
+- [认识 Launchpad 的概念]()
+- [认识 Mac 的工具栏位置]()
+- [认识 Mac 的 Spotlight 全能搜索工具]()
+
+## 系统功能点
+
+- [如何连接有线网络/WiFi网络]()
+- [查看本地 IP 地址]()
+- [改变鼠标/触摸板滚轮滑动方向]()
+- [触摸板的使用]()
+- [调整鼠标大小]()
+- [调整音量]()
+- [调整屏幕亮度]()
+- [修改无操作多少分钟后自动关闭屏幕]()
+- [修改壁纸]()
+- [如何修改分辨率]()
+- [设置桌面四边角触摸事件]()
+- [设置外置鼠标多键控制]()
+- [新建记事本]()
+- [如何删除文件]()
+- [如何复制/剪切/粘贴文件]()
+- [修改安全性，允许任何来源的软件都可以安装]()
+- [如何退出/推出U盘]()
+- [如何更新系统/官方应用]()
+- [Mac 和 Windows 之间如何共享文件]()
+- [强制结束应用]()
+- [活动监视器，查看正在运行的软件情况]()
+- [多桌面使用/切换]()
+- [使用自带的定时关机]()
+- [系统备份和还原]()
+- [设置某个文件默认打开方式]()
+- [设置某个文件类型默认打开方式]()
+- [Mac 软件下载站推荐]()
+- [压缩/解压文件]()
+- [如何安装/卸载软件]()
+- [把软件图标放送到Dock栏上]()
+- [中文输入法的使用]()
+- [如何高效地进行窗口管理]()
+- [如何截图]()
+- [调整 Launchpad 应用图标大小/软件图标合并]()
+- [设置开机自启动运行某些软件]()
+- [多开 QQ]()
+- [如何录制视频]()
+- [如何安装字体]()
+- [如何关闭自动检查更新]()
+- [硬盘维护/格式化硬盘]()
+- [外接显示器设置]()
+
 
      
 ## 结束语
 
-- 如果你需要它就你就好好学习，如果你的职业现在完全用不到，那就把这篇文章加收藏，有需要再打开，不希望你花时间多做一些没有太大意义的事情。
+- 整个系列会在以后不断地完善，请关注这个系列教程，系列入口有：YouMeek 博客，YouMeek 公众号。
+- ![YouMeek 公众号](http://img.youmeek.com/YouMeek-WX.jpg)
