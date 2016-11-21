@@ -1,25 +1,26 @@
 ---
-title: Mac 系统下的快捷键
-date: 2016-11-03 10:11:20
+title: 一个Java程序员眼中的Mac OS（系列三：常用快捷键）
+date: 2016-11-21 21:27:53
 description: "试着去背这些快捷键吧，可以加快很多事情"
 categories: [Mac]
-tags: [Mac,快捷键]
+tags: [Mac]
 ---
 
 
 <!-- more -->
 
+- ![封面图](http://img.youmeek.com/2016/Mac-keymap.jpg)
+
 ## 本文初衷
 
-- ![Maven](http://img.youmeek.com/2016/maven.png)
+
 - 整理自己脑袋中、收藏中的那些资料，来一次清空，让自己重新开始。
 - 帮助 Mac 后来者，减少他/她入门成本
-- 如果你不是后台开发者，一般不需要用到这个东西，可以不用学的。如果你要学，那你可以认为你在接触 Unix 系统的一些思想，做好这个准备，对你很重要。
 
 ## 先总结
 
-- 不管哪个系统，快捷键都很多，Mac 也不少，感觉上比 Windows 还多一些。
-- 对于 Windows 转过来的人，下面的符号是最需要搞懂的。
+- 不管哪个系统，快捷键都很多，Mac 也不少。
+- 对于 Windows 转过来的人，下面的符号是最需要搞懂的，说句良心话，我讨厌这个符号，因为每次看到这些符号我的脑袋也是把他们转换成对应的英文单词，还为什么有些人不直接写单词就好了?
 
 
 ## Mac 特殊按键讲解
@@ -27,6 +28,7 @@ tags: [Mac,快捷键]
 - Mac 系统的功能按键跟 Windows 还是有点差别，需要做一下特殊记忆。
     - `⌘` == `Command`
     - `⇧` == `Shift`
+    - `⇪` == `Caps Lock`
     - `⌥` == `Option`
     - `⌃` == `Control`
     - `↩` == `Return/Enter`
@@ -44,45 +46,57 @@ tags: [Mac,快捷键]
     - `⇤` == `左制表符（Shift+Tab）`
     - `⎋` == `Escape (Esc)`
     - `⏏` == `电源开关键`
+- 不同描述法词汇
+	- app 指的是一个应用程序
+	- 窗口指的是一个 app 里面可以多开的窗口。一个 app 是可以打开多个窗口的。
 
-## 我个人必备快捷键
 
-- app 指的是一个应用程序
-- 窗口指的是一个 app 里面多开的几个窗口。一个 app 是可以打开多个窗口的。
+## 必备快捷键
+
 
 ### 普通 app / 系统 共有快捷键
 
 |快捷键|介绍|
 |:---------|:---------|
+|电源按钮|轻点可打开 Mac 或将 Mac 从睡眠状态唤醒。 当 Mac 处于唤醒状态时，按住此按钮 1.5 秒钟会显示一个对话框，询问您是要重新启动、睡眠还是关机。如果您不想等待 1.5 秒钟，请按下 Control + 电源按钮。如果按住此按钮 5 秒钟会强制 Mac 关机。|
 |Delete|文本编辑中：向前删除|
 |Fn + Delete|文本编辑中：向后删除|
+|Control + 空格|切换输入法|
+|Control + Shift + 电源按钮|将显示器置于睡眠状态|
 |Command + H|隐藏最前面的 app 的窗口|
-|Command + M|将最前面的窗口最小化至 Dock。要最小化最前面的 app 的所有窗口，请按 Command-Option-M|
+|Command + M|将最前面的窗口最小化至 Dock|
 |Command + S|保存|
-|Command + W|关闭最前面的窗口。要关闭该 app 的所有窗口，请按 Command-Option-W|
-|Command + Q|退出 app|
+|Command + W|关闭最前面的窗口。|
+|Command + Q|退出当前使用的 app|
 |Command + A|选择全部|
 |Command + F|打开“查找”窗口|
 |Command + G|再次查找：查找之前所找到项目出现的下一个位置。要查找出现的上一个位置，请按 Command + Shift + G|
 |Command + X|剪切|
 |Command + C|复制|
 |Command + V|粘贴|
-|Command + Z|撤销，如果需要反向撤销可以按：Command + Shift + Z|
+|Command + Z|撤销|
 |Command + Tab|切换 app|
-|Command + Delete|删除|
+|Command + Delete|删除文件|
 |Command + 空格键|Spotlight：显示或隐藏 Spotlight 搜索栏。要从 Finder 窗口执行 Spotlight 搜索，请按 Command–Option–空格键|
+|Command + 上方向键|跳转到页头|
+|Command + 下方向键|跳转到页尾|
+|Command + 左方向键|跳转当前行头|
+|Command + 右方向键|跳转当前行尾|
+|Command + 鼠标单击|间隔多选，类 Win 下的：Ctrl + 鼠标单击|
 |Command + 逗号 (,)|偏好设置：打开最前面的 app 的偏好设置|
+|Command + Shift + 3|截图整个桌面图片保存到桌面，默认是 PNG 格式|
+|Command + Shift + 4|截图区域图片保存到桌面，默认是 PNG 格式|
 |Command + Shift + Y|对选中的文字生成便签|
 |Command + Shift + Q|注销您的 macOS 用户帐户。系统将提示您确认|
 |Command + Shift + 波浪号 (~)|切换窗口：切换到最前端应用中下一个最近使用的窗口|
-|Control + Shift + 电源按钮|将显示器置于睡眠状态|
 |Command + Control + 空格键|显示“字符显示程序”弹出窗口，可以插入表情|
 |Command + Control + 电源按钮|强制 Mac 重新启动|
 |Command + Option + H|置顶当前焦点所在的这个窗口，隐藏后面的其他所有窗口。这个很有用的，方便使用桌面的内容|
-|Command + Option + Esc|强制退出：选择要强制退出的 app。或者，按住 Command-Shift-Option-Esc 3 秒钟来仅强制最前面的 app 退出|
+|Command + Option + W|关闭当前 app 的所有窗口，请按 Command-Option-W|
+|Command + Option + M|最小化最前面的 app 的所有窗口|
+|Command + Option + Esc|弹出强制退出管理界面。或者，按住 Command-Shift-Option-Esc 3 秒钟来仅强制最前面的 app 退出|
 |Command + Option + Shift + Q|立即注销您的 macOS 用户帐户，且系统不提示您确认。|
 |Command + Option + Control + 电源按钮|退出所有 app，然后关闭 Mac。如果任何打开的文稿有未存储的更改，系统将询问您是否要存储这些更改|
-|电源按钮|轻点可打开 Mac 或将 Mac 从睡眠状态唤醒。 当 Mac 处于唤醒状态时，按住此按钮 1.5 秒钟会显示一个对话框，询问您是要重新启动、睡眠还是关机。如果您不想等待 1.5 秒钟，请按下 Control + 电源按钮。如果按住此按钮 5 秒钟会强制 Mac 关机。|
 
 
 ### Finder 文件管理器快捷键
@@ -159,4 +173,5 @@ tags: [Mac,快捷键]
 ## 结束语
 
 - 我懂背快捷键是个麻烦事，但是你不背，你怎么知道有这些东西？
-- 好运
+- 整个系列会在以后不断地完善，请关注这个系列教程，系列入口有：YouMeek 博客，YouMeek 公众号。
+- ![YouMeek 公众号](http://img.youmeek.com/YouMeek-WX.jpg)
