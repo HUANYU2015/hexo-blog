@@ -1,6 +1,6 @@
 ---
 title: 一个Java程序员眼中的Mac OS（系列三：常用快捷键）
-date: 2016-11-21 21:27:53
+date: 2016-11-21 22:56:53
 description: "试着去背这些快捷键吧，可以加快很多事情"
 categories: [Mac]
 tags: [Mac]
@@ -83,7 +83,7 @@ tags: [Mac]
 |Command + 左方向键|跳转当前行头|
 |Command + 右方向键|跳转当前行尾|
 |Command + 鼠标单击|间隔多选，类 Win 下的：Ctrl + 鼠标单击|
-|Command + 逗号 (,)|偏好设置：打开最前面的 app 的偏好设置|
+|Command + 逗号|偏好设置：打开最前面的 app 的偏好设置|
 |Command + Shift + 3|截图整个桌面图片保存到桌面，默认是 PNG 格式|
 |Command + Shift + 4|截图区域图片保存到桌面，默认是 PNG 格式|
 |Command + Shift + Y|对选中的文字生成便签|
