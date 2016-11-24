@@ -54,14 +54,13 @@ ikbc-f-rgb
 
 ## 时光机效果演示
 
-- ![时间倒数效果](http://img.youmeek.com/2016/ikbc-f-rgb-1.gif)
+![时间倒数效果](http://img.youmeek.com/2016/ikbc-f-rgb-1.gif)
 - 上面图片为设置时间后的倒数效果，可设置的时间最长是 129 分钟（隐约是这个数）。
-- ![时间倒数结束后闪烁的效果](http://img.youmeek.com/2016/ikbc-f-rgb-2.gif)
+![时间倒数结束后闪烁的效果](http://img.youmeek.com/2016/ikbc-f-rgb-2.gif)
 - 上面图片为时间倒数结束后闪烁的效果
 
 
 ## 京东自营购买链接
-http://search.jd.com/Search?keyword=ikbc%20f-87%20黑色&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=42d6467e24ec4da4885ae3323a74c4fe-p_276666007&abt=3
 
 - [ikbc f-87 黑色 RGB](http://search.jd.com/Search?keyword=ikbc%20f-87%20黑色%20RGB&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=14bb78b625014c8eaf99e9d495ae62d0-p_276666007&abt=3)
 - [ikbc f-87 白色 RGB](http://search.jd.com/Search?keyword=ikbc%20f-87%20白色%20RGB&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=7ac32d7b5089413ea383b448f835d731-p_276666007&abt=3)
@@ -79,4 +78,4 @@ http://search.jd.com/Search?keyword=ikbc%20f-87%20黑色&enc=utf-8&cu=true&utm_s
 - 如果你非要折腾一个非常特别机械键盘，那我推荐你在淘宝搜索：GH60，自己玩一下。
 - ikbc 真的很适合我这种有闹铃要求的普通人
 - YouMeek 公众号，鞠躬
-- ![YouMeek 公众号](http://img.youmeek.com/YouMeek-WX.jpg)
+![YouMeek 公众号](http://img.youmeek.com/YouMeek-WX.jpg)
