@@ -61,15 +61,16 @@ ikbc-f-rgb
 
 
 ## 京东自营购买链接
+http://search.jd.com/Search?keyword=ikbc%20f-87%20黑色&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=42d6467e24ec4da4885ae3323a74c4fe-p_276666007&abt=3
 
-- [ikbc f-87 黑色]()
-- [ikbc f-87 白色]()
-- [ikbc f-108 黑色]()
-- [ikbc f-108 白色]()
-- [ikbc f-87 黑色 RGB]()
-- [ikbc f-87 白色 RGB]()
-- [ikbc f-108 黑色 RGB]()
-- [ikbc f-108 白色 RGB]()
+- [ikbc f-87 黑色 RGB](http://search.jd.com/Search?keyword=ikbc%20f-87%20黑色%20RGB&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=14bb78b625014c8eaf99e9d495ae62d0-p_276666007&abt=3)
+- [ikbc f-87 白色 RGB](http://search.jd.com/Search?keyword=ikbc%20f-87%20白色%20RGB&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=7ac32d7b5089413ea383b448f835d731-p_276666007&abt=3)
+- [ikbc f-108 黑色 RGB](http://search.jd.com/Search?keyword=ikbc%20f-108%20黑色%20RGB&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=d64c36a2980c4a7b99c6d5ef1c12479c-p_276666007&abt=3)
+- [ikbc f-108 白色 RGB](http://search.jd.com/Search?keyword=ikbc%20f-108%20白色%20RGB&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=1b1cc2a711834ebdacd8999c95c04b62-p_276666007&abt=3)
+- [ikbc f-87 黑色](http://search.jd.com/Search?keyword=ikbc%20f-87%20黑色&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=42d6467e24ec4da4885ae3323a74c4fe-p_276666007&abt=3)
+- [ikbc f-87 白色](http://search.jd.com/Search?keyword=ikbc%20f-87%20白色&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=be1d5523410f46aaba561e6ccdf13c72-p_276666007&abt=3)
+- [ikbc f-108 黑色](http://search.jd.com/Search?keyword=ikbc%20f-108%20黑色&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=ef8e4ed85a8144208a780e662bd35bfc-p_276666007&abt=3)
+- [ikbc f-108 白色](http://search.jd.com/Search?keyword=ikbc%20f-108%20白色&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=af0e5215959547948705e5d41f328044-p_276666007&abt=3)
 
 ## 结束语
 
