@@ -1,13 +1,15 @@
 ---
-title: 一个Java程序员眼中的Mac OS（系列五：包管理Homebrew）
+title: 一个Java程序员眼中的Mac OS（系列五：包管理工具）
 date: 2016-10-31 22:23:10
-description: "据我所知，Mac 系统下目前大家都是用它做包管理"
+description: "Homebrew 是 Mac 系统下，目前最主流的包管理工具"
 categories: [Mac]
 tags: [Mac,Homebrew,终端]
 ---
 
 
 <!-- more -->
+
+- ![YouMeek 公众号](http://img.youmeek.com/2016/Homebrew.jpg)
 
 ## 本文初衷
 
@@ -40,7 +42,8 @@ tags: [Mac,Homebrew,终端]
 
 ### 为什么会出现
 
-- 有些操作，命令行或者说脚本的方式效率是远高于 GUI 界面操作的，这个概念需要用过 Unix/Linux 做过开发的人会懂，特别是搞运维的。如果你不理解，可以找一些运维的视频教程来看看，会有很多事情的处理都是搞脚本的做的。所以在维护一些开发包/组件的时候，懂一些包管理工具的话会帮你提高工作效率，仅此而已。
+- 有些操作，命令行或者说脚本的方式效率是远高于 GUI 界面操作的，这个概念需要用过 Unix/Linux 做过开发的人会懂，特别是搞运维的。
+- 如果你不理解，可以找一些运维的视频教程来看看，会有很多事情的处理都是搞脚本的做的。所以在维护一些开发包/组件的时候，懂一些包管理工具的话会帮你提高工作效率，仅此而已。
 
 ### 哪些人不喜欢它
 
@@ -84,17 +87,18 @@ tags: [Mac,Homebrew,终端]
         - `cd "$(brew --repo)"`
         - `git remote set-url origin git://mirrors.ustc.edu.cn/brew.git`
 
-### Proxychains4
+### Proxychains4 为终端做代理
 
-- Mac 下的 Homebrew 默认源在境外，有时候速度非常慢，国内源有时候也不好用，所以就想着直接穿越了，反正我那边有一个 vps 服务器。
-- 安装：`brew install proxychains-ng`
+- 保证你本地有一个 socks5 到代理工具，不然下面的方法你无法使用。我这里的工具是：Shadowsocks
+	- 如果你不懂 Shadowsocks 相关，可以看：<http://code.youmeek.com/2016/08/19/2016/08/VPS/>
+- 安装 Proxychains4，输入命令：`brew install proxychains-ng`
 - 修改配置文件：`vim /usr/local/etc/proxychains.conf`
     - 在配置文件中找到：`[ProxyList]`，在其下面一行新增一条：`socks5  127.0.0.1 1080 # my vps`
 - 测试：`proxychains4 curl google.com`，如果显示的命令行信息中，前缀都带有：`[proxychains]`，则表示成功了。以后只要在命令前面加个：proxychains4，即可。
 - 修改终端配置，让命令更加简洁：
     - 如果你是 zsh 终端，配置修改：`vim ~/.zshrc`，添加一行：`alias pc='proxychains4'`
     - 如果你是 bash 终端，配置修改：`vim ~/.bash_profile`，添加一行：`alias pc='proxychains4'`
-    - 修改之后，以后要用 proxychains4 执行命令的话，那就可以这样写：`pc curl google.com`
+    - 修改之后，以后要用 proxychains4 执行穿墙命令的话，那就可以这样写：`pc curl google.com`
 
 ## 资料整理
 
