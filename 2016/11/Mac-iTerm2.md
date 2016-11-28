@@ -60,18 +60,25 @@ tags: [Mac,终端]
 - 安装 iTerm 2
     - 官网下载下来是一个 zip 压缩包，解压出来有一个 `.app` 文件，双击运行即可安装。
     - 其他安装方式不说
+        
+    - 设置配色方案为 solarized，我记得 iTerm2 默认是有带的，如果没有则访问：https://github.com/altercation/solarized
+    如果你使用的是 Terminal 的话，在 solarized/osx-terminal.app-colors-solarized 下双击 Solarized Dark ansi.terminal 和 Solarized Light ansi.terminal 就会自动导入两种配色方案 Dark 和 Light 到 Terminal.app 里。
+    如果你使用的是 iTerm2 的话，到 solarized/iterm2-colors-solarized 下双击 Solarized Dark.itermcolors 和 Solarized Light.itermcolors 两个文件就可以把配置文件导入到 iTerm 里。
+    最终效果如下图：已经截图了。然后再切换到 Text 标签，把 Draw bold text in bold font 的勾去掉。
+    
 - 安装 Zsh + oh-my-Zsh
     - 默认的 shell 是 bash，一般人都觉得不好用，一般人也都喜欢 Zsh，所以这里就用 Zsh。
     - 为了简化安装、配置 Zsh，我们这里选择 oh-my-Zsh 这个插件。
+	- 不区分大小写智能提示。我是不喜欢大小写区分的那种人，所以用了 zsh
     - 在终端，先安装 git（已经安装的跳过该步骤），输入命令：`brew install git`
     - 在终端，安装 wget 工具，输入命令：`brew install wget`
     - 在终端，安装 Zsh：`brew install Zsh`
     - 在终端，安装 oh-my-Zsh：`sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-Zsh/master/tools/install.sh -O -)"`
         - 下载完后，会提示你输入当前登录系统的用户密码，输入完成之后就会从 bash 切换到 Zsh，如果你没有输入密码直接跳过了，可以运行该命令进行手动切换：`chsh -s /bin/Zsh 你当前系统用户名`
         - 切换完成之后，关掉终端，重新打开
-    - 特别出名的配色方案：http://ethanschoonover.com/solarized
+        - 修改 oh-my-Zsh 的主题，具体可以看我过去整理的这篇文章：https://github.com/judasn/Linux-Tutorial/blob/master/Zsh.md
+    
 - iTerm2 软件特色
-	- 不区分大小写智能提示。我是不喜欢大小写区分的那种人，所以用了 zsh
 	- 智能选中
 	    - 在 iTerm2 中，双击选中，三击选中整行，四击智能选中（智能规则可配置），可以识别网址，引号引起的字符串，邮箱地址等。（很多时候双击的选中就已经很智能了）
 	- 在 iTerm2 中，选中即复制。即任何选中状态的字符串都被放到了系统剪切板中。
@@ -127,7 +134,7 @@ tags: [Mac,终端]
 	    - ⌘ + enter : 全屏
 	    
 	    
-
+这个非常好用，默认是没有设置，需要自己设置下。
 Hotkey Window (快速调出窗口)
 实际使用时我们经常会遇到这种场景： 有时候只是执行几行命令，然后就不再使用它。可是我们还是必须要打开Terminal，然后使用后关闭它。在这种情况下借住iTerm的Hotkey Window 功能我们将会得到前所未有的体验。
 Hotkey Window支持一键调出iTerm 它将以半透明的形式 覆盖在屏幕上方，配置如下：
@@ -187,11 +194,12 @@ https://github.com/tmux-plugins/tpm
 安装窗口保持插件：
 http://zhaozhiming.github.io/blog/2015/11/22/save-and-restore-your-tmux/
 
-也有人帮帮你做好了一个配置文件，用它的就可以啦：
+也有人帮帮你做好了一个配置文件，用它的就可以啦：http://cenalulu.github.io/linux/tmux/
+
 关于powerline，你可以先看下这篇文章：
 http://cenalulu.github.io/linux/mac-powerline/
 如果乱码，安装这个补丁：https://gist.github.com/qrush/1595572/raw/417a3fa36e35ca91d6d23ac961071094c26e5fad/Menlo-Powerline.otf
-http://cenalulu.github.io/linux/tmux/
+
 
 tmux的手册非常详尽，请输入man tmux后阅读。 
 
