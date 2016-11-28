@@ -93,12 +93,12 @@ tags: [Mac,Homebrew,终端]
 	- 如果你不懂 Shadowsocks 相关，可以看：<http://code.youmeek.com/2016/08/19/2016/08/VPS/>
 - 安装 Proxychains4，输入命令：`brew install proxychains-ng`
 - 修改配置文件：`vim /usr/local/etc/proxychains.conf`
-    - 在配置文件中找到：`[ProxyList]`，在其下面一行新增一条：`socks5  127.0.0.1 1080 # my vps`
-- 测试：`proxychains4 curl google.com`，如果显示的命令行信息中，前缀都带有：`[proxychains]`，则表示成功了。以后只要在命令前面加个：proxychains4，即可。
+    - 在配置文件中找到：`[ProxyList]`（也就是第 111 行的地方），在其下面一行新增一条：`socks5  127.0.0.1 1080 # my vps`
+- 测试：`proxychains4 wget www.google.com`，如果你能正常下载到 Google 页面，则表示成功了。以后只要在命令前面加个：proxychains4，即可。
 - 修改终端配置，让命令更加简洁：
     - 如果你是 zsh 终端，配置修改：`vim ~/.zshrc`，添加一行：`alias pc='proxychains4'`
     - 如果你是 bash 终端，配置修改：`vim ~/.bash_profile`，添加一行：`alias pc='proxychains4'`
-    - 修改之后，以后要用 proxychains4 执行穿墙命令的话，那就可以这样写：`pc curl google.com`
+    - 修改之后，以后要用 proxychains4 执行穿墙命令的话，那就可以这样写：`pc wget google.com`
 
 ## 资料整理
 
