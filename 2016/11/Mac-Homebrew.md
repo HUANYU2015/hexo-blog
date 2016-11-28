@@ -1,6 +1,6 @@
 ---
 title: 一个Java程序员眼中的Mac OS（系列五：包管理工具）
-date: 2016-10-31 22:23:10
+date: 2016-11-27 22:23:10
 description: "Homebrew 是 Mac 系统下，目前最主流的包管理工具"
 categories: [Mac]
 tags: [Mac,Homebrew,终端]
