@@ -1,5 +1,5 @@
 ---
-title: Mac 系统下的好用包管理器：Homebrew
+title: 一个Java程序员眼中的Mac OS（系列五：包管理Homebrew）
 date: 2016-10-31 22:23:10
 description: "据我所知，Mac 系统下目前大家都是用它做包管理"
 categories: [Mac]
@@ -11,7 +11,6 @@ tags: [Mac,Homebrew,终端]
 
 ## 本文初衷
 
-- ![Maven](http://img.youmeek.com/2016/maven.png)
 - 整理自己脑袋中、收藏中的那些资料，来一次清空，让自己重新开始。
 - 帮助 Mac 后来者，减少他/她入门成本
 
@@ -19,7 +18,7 @@ tags: [Mac,Homebrew,终端]
 ## 先总结
 
 - 有 Homebrew 配置，安装/维护一些开发包/组件会方便很多，提供开发者效率，仅此而已。
-- 如果不是开发者，一般人就不用折腾这个，一般来讲是浪费时间
+- 如果不是开发者，一般人就不用折腾这个，浪费时间
 
 ## Homebrew 知识
 
@@ -55,7 +54,8 @@ tags: [Mac,Homebrew,终端]
 ### 我要怎么做
 
 - 安装
-    - 先安装 Xcode command line tools（一般系统默认会有，如果没有再装）：`xcode-select --install `
+    - 先安装 Xcode command line tools：
+        - 打开终端，输入：`xcode-select --install `，如果提示已经安装过了那就不用管了。
     - 打开终端，复制该命令：`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
         - 根据提示，按回车键
         - 根据提示，输入当前用户的密码
@@ -81,10 +81,20 @@ tags: [Mac,Homebrew,终端]
     - 默认的源实在速度有够慢的
     - USTC 的源：<https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git>
         - 方法：
-            - `cd "$(brew --repo)"`
-            - `git remote set-url origin git://mirrors.ustc.edu.cn/brew.git`
+        - `cd "$(brew --repo)"`
+        - `git remote set-url origin git://mirrors.ustc.edu.cn/brew.git`
 
+### Proxychains4
 
+- Mac 下的 Homebrew 默认源在境外，有时候速度非常慢，国内源有时候也不好用，所以就想着直接穿越了，反正我那边有一个 vps 服务器。
+- 安装：`brew install proxychains-ng`
+- 修改配置文件：`vim /usr/local/etc/proxychains.conf`
+    - 在配置文件中找到：`[ProxyList]`，在其下面一行新增一条：`socks5  127.0.0.1 1080 # my vps`
+- 测试：`proxychains4 curl google.com`，如果显示的命令行信息中，前缀都带有：`[proxychains]`，则表示成功了。以后只要在命令前面加个：proxychains4，即可。
+- 修改终端配置，让命令更加简洁：
+    - 如果你是 zsh 终端，配置修改：`vim ~/.zshrc`，添加一行：`alias pc='proxychains4'`
+    - 如果你是 bash 终端，配置修改：`vim ~/.bash_profile`，添加一行：`alias pc='proxychains4'`
+    - 修改之后，以后要用 proxychains4 执行命令的话，那就可以这样写：`pc curl google.com`
 
 ## 资料整理
 
@@ -100,9 +110,6 @@ tags: [Mac,Homebrew,终端]
     - <http://blog.devtang.com/2014/02/26/the-introduction-of-homebrew-and-brewcask/>
 
 
-## 过程细节
-
-     
 ## 结束语
 
 - 如果你需要它就你就好好学习，如果你的职业现在完全用不到，那就把这篇文章加收藏，有需要再打开，不希望你花时间多做一些没有太大意义的事情。
