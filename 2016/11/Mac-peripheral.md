@@ -19,38 +19,75 @@ tags: [Mac,终端]
 
 - 量力而行，确认你自己是必须要这个东西再决定购买。
 
-## 各类转接线
+## 各类外设/配件
 
+- 官网配件地址：<http://www.apple.com/cn/shop/mac/mac-accessories>
 
-## 触摸板
+### 各类转接线
+
+苹果Thunderbolt以太网适配器
+http://www.apple.com/cn/shop/mac/mac-accessories/power-cables
+
+### 触摸板
 
 Magic Trackpad
 
-## 鼠标
+### 鼠标
 
 Magic Mouse
 
-## 键盘
+### 键盘
 
 Wireless Keyboard
 
-## 硬盘盒
+### 硬盘盒
 
-## 散热器
+### 硬盘/移动硬盘
+
+### U盘
+
+### 外置光驱
+
+### 蓝牙音箱
+
+
+### 散热器
 
 zefyr2 散热器
 mStand 支架
 
-## 电脑包
+### 内胆包
 
-## 鼠标垫
+- 如果你经常背着笔记本出门，那最好买一个内胆包，起到一个防震，防碰撞的作用。
+- Incase 内胆包
+
+### 电脑包
+
+### 鼠标垫
 
 Zowie 鼠标垫
 
-## USB 扩展
+### USB 扩展
 
-## 电源适配器
+### 电源适配器
+
+### 手写板/绘画板
+
+### 显示器/支架
+
+- 可调式壁挂支架
+- 桌面支架
+
+
+## 资料整理
+
+- 来自 Google 过程中的资料（真心感谢这些作者）：
+    - <https://github.com/hzlzh/Best-App/blob/master/Best-Accessories-Apple.md>
+
 
 ## 结束语
 
 - 坑爹货。
+
+##
+
