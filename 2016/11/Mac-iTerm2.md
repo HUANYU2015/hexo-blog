@@ -82,16 +82,15 @@ export LANG=en_US.UTF-8
 - iTerm2 常用快捷键
     选中终端中的内容即复制，鼠标中键粘贴
     输入的命令开头字符 + Command + ; 根据历史记录自动补全
-    Command + enter 进入与返回全屏模式
-    Command + 鼠标单击：可以打开文件，文件夹和链接
-    Command + n：新建窗口（对吗?）
-    command + p/n: 上一条/下一条命令，相当于方向键上和下。（对吗?）
+    Command + enter 进入全屏模式，再按一次返回
+    Command + 鼠标单击：可以打开文件，文件夹和链接（iTerm2 是可以对显示的内容进行点击的哦）
+    Command + n：新建窗口
     Command + t：新建标签页
     Command + w：关闭当前页
     Command + 方向键：切换标签页
     Command + d：竖直分屏
     Command + r：清屏
-    Command + /：显示光标位置
+    Command + /：按完之后，整个屏幕变成白茫茫的，而光标位置是一个小圆圈清除显示出来
     Command + 数字 ： 各 tab 标签切换
     Command + f ： 查找 ，所查找的内容会被自动复制 ,输入查找的部分字符，找到匹配的值按tab，即可复制
     Command + d ： 横着分屏 
