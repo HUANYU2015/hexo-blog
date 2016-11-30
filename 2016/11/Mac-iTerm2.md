@@ -64,7 +64,7 @@ tags: [Mac,终端]
     - 目前大家喜欢设置的配色方案为 solarized，iTerm2 默认是有带的，如果没有则访问：<https://github.com/altercation/solarized>
         - 在项目中找到 solarized/iterm2-colors-solarized 目录，下面有两个文件：Solarized Dark.itermcolors 和 Solarized Light.itermcolors，双击这两个文件就可以把配置文件导入到 iTerm 里了。
     - 更改后的配色最终效果如下图：已经截图了。同时还要再切换到 Text 标签，把 `Draw bold text in bold font` 的勾去掉。
-    - ![YouMeek 公众号](http://img.youmeek.com/2016/Homebrew.jpg)
+    - ![iTerm2介绍](http://img.youmeek.com/2016/Mac-iTerm2-1.jpg)
 
 ### iTerm2 软件特色
 
@@ -74,6 +74,9 @@ tags: [Mac,终端]
 - Hotkey Window (快速调出窗口)
 	- 这个非常好用，默认是没有设置，需要自己设置下。
 	- 实际使用时我们经常会遇到这种场景：有时候只是执行几行命令，然后就不再使用它。可是我们还是必须要打开终端，使用完成后关闭它。但是用 iTerm2 这个功能只要按快捷键，出来虚化的终端，输入命令，然后再把光标放在其他地方自动就消息了。
+	- 设置和效果如下图：
+	    - ![iTerm2介绍](http://img.youmeek.com/2016/Mac-iTerm2-2.jpg)
+	    - ![iTerm2介绍](http://img.youmeek.com/2016/Mac-iTerm2-3.jpg)
 - iTerm2 常用快捷键
 	- 这篇文章配了很多图，如果你想更加具体地了解可以看这篇文章，我不想截图了：<http://swiftcafe.io/2015/07/25/iterm/>
 
@@ -146,7 +149,8 @@ tags: [Mac,终端]
 - zsh 的目录跳转很智能，你无需输入 cd 就可直接输入路径即可。比如：`..` 表示后退一级目录，`../../` 表示后退两级，依次类推。
 - 在命令窗口中输入：`d`，将列出当前 session 访问过的所有目录，再按提示的数字即可进入相应目录。
 - 给 man 命令增加结果高亮显示：
-	- 编辑配置文件：`vim ~/.zshrc`
+	- 编辑配置文件：`vim ~/.zshrc`，增加下面内容：
+
 ``` bash
 # man context highlight
 export LESS_TERMCAP_mb=$'\E[01;31m'       # begin blinking
@@ -157,7 +161,8 @@ export LESS_TERMCAP_so=$'\E[38;5;246m'    # begin standout-mode - info box
 export LESS_TERMCAP_ue=$'\E[0m'           # end underline
 export LESS_TERMCAP_us=$'\E[04;38;5;146m' # begin underline
 ```
-- 刷新配置文件：`source ~/.zshrc`
+
+- 刷新配置文件：`source ~/.zshrc`，重新查看 man 的命令就可以有高亮了。
 
 ### 关于搭配上 tmux
 
