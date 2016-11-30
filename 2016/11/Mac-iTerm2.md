@@ -1,7 +1,7 @@
 ---
 title: 一个Java程序员眼中的Mac OS（系列六：终端方案iTerm2 + Zsh）
-date: 2016-11-28 22:23:10
-description: "很多人说 iTerm2 是 Mac 下最好的终端，试试也无妨"
+date: 2016-11-29 22:23:10
+description: "大家都说 iTerm2 是 Mac 下最好的终端，试试也无妨"
 categories: [Mac]
 tags: [Mac,终端]
 ---
@@ -17,7 +17,7 @@ tags: [Mac,终端]
 
 ## 先总结
 
-- 比 Mac 默认的 Terminal 终端好用，配合 Zsh 确实更加得体
+- iTerm2 比 Mac 默认的 Terminal 终端好用，配合 Zsh 确实更加得体
 - **牢记：** 装了 zsh 之后，修改终端配置就变成了：`vim ~/.zshrc`，而不是：`vim ~/.bash_profile`，所以以后看到别人的文章中需要：`vim ~/.bash_profile`，那你自己要变通思想过来。
 - 同时更新修改后的配置文件也从：`source ~/.bash_profile`，变成了：`source ~/.zshrc`，当然还有其他取取巧方式，这里不谈。
 
@@ -73,9 +73,7 @@ tags: [Mac,终端]
 	- 在 iTerm2 中，选中即复制。即任何选中状态的字符串都被放到了系统剪切板中。
 - Hotkey Window (快速调出窗口)
 	- 这个非常好用，默认是没有设置，需要自己设置下。
-	- 实际使用时我们经常会遇到这种场景： 有时候只是执行几行命令，然后就不再使用它。可是我们还是必须要打开Terminal，然后使用后关闭它。在这种情况下借住iTerm的Hotkey Window 功能我们将会得到前所未有的体验。
-	- Hotkey Window支持一键调出iTerm 它将以半透明的形式 覆盖在屏幕上方，配置如下：
-	- http://hujiandong.com/2016/09/11/iterm2/
+	- 实际使用时我们经常会遇到这种场景：有时候只是执行几行命令，然后就不再使用它。可是我们还是必须要打开终端，使用完成后关闭它。但是用 iTerm2 这个功能只要按快捷键，出来虚化的终端，输入命令，然后再把光标放在其他地方自动就消息了。
 - iTerm2 常用快捷键
 	- 这篇文章配了很多图，如果你想更加具体地了解可以看这篇文章，我不想截图了：<http://swiftcafe.io/2015/07/25/iterm/>
 
