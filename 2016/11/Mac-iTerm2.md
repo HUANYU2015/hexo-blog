@@ -80,6 +80,7 @@ export LANG=en_US.UTF-8
     - 在 iTerm2 中，双击选中，三击选中整行，四击智能选中（智能规则可配置），可以识别网址，引号引起的字符串，邮箱地址等。（很多时候双击的选中就已经很智能了）
 	- 在 iTerm2 中，选中即复制。即任何选中状态的字符串都被放到了系统剪切板中。
 - iTerm2 常用快捷键
+	- 这篇文章配了很多图，如果你想更加具体地了解可以看这篇文章，我不想截图了：<http://swiftcafe.io/2015/07/25/iterm/>
     选中终端中的内容即复制，鼠标中键粘贴
     输入的命令开头字符 + Command + ; 根据输入的前缀历史记录自动补全
     Command + ; 根据历史记录自动补全
@@ -96,10 +97,11 @@ export LANG=en_US.UTF-8
     Command + 数字 ： 切换到指定数字标签页
     Command + f ： 查找 ，所查找的内容会被自动复制 ,输入查找的部分字符，找到匹配的值按tab，即可复制，然后用 tab 和 ⇧ + tab 可以向右和向左补全，补全之后的内容会被自动复制， 还可以用 ⌥ + enter 将查找结果输入终端
     Command + option + e,全屏并排展示所有已经打开的标签页，带有可以搜索。
-    Command + Option + b：历史回放，iTerm2 有一个类似视频录像的东西，有记录你最近时间内的操作。按完这个快捷键有一个类似播放器的进度条可以拖动查看你做了什么
+    Command + Option + b：历史回放，iTerm2 有一个类似视频录像的东西，有记录你最近时间内的操作。按完这个快捷键有一个类似播放器的进度条可以拖动查看你做了什么。按Esc退出。即时回放可以记录终端输出的状态，让你“穿越时间”查看终端内容。默认每个会话最多储存4MB的内容，可以在设置中更改（Preferences -> Genernal -> Instant Replay）。
     Command + Option + 数字：切换 Window 窗口
     Command + shift + d ： 水平分屏
     command + shift + h，查看剪贴板历史，在光标位置下方会出现一列你输入过的历史记录
+    Command + Shift + m，可以保存当前位置，之后可以按Command + Shift + j跳回这个位置。
     command + shift + alt + w，关闭所有窗口
     Control + u ：清空当前行，无论光标在什么位置
     Control + a：移动到行首
@@ -188,6 +190,7 @@ export LESS_TERMCAP_us=$'\E[04;38;5;146m' # begin underline
     - <http://wulfric.me/2015/08/zsh/>
     - <http://hujiandong.com/2016/09/11/iterm2/>
     - <http://www.jianshu.com/p/68ef9d2e1653>
+    - <http://swiftcafe.io/2015/07/25/iterm/>
 
 
 ## 结束语
