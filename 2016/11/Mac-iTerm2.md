@@ -66,7 +66,7 @@ tags: [Mac,终端]
     - 更改后的配色最终效果如下图：已经截图了。同时还要再切换到 Text 标签，把 `Draw bold text in bold font` 的勾去掉。
     - ![YouMeek 公众号](http://img.youmeek.com/2016/Homebrew.jpg)
 - 如果中文乱码
-	- 确保Preferences->Profiles->Terminal->Terminal Emulation中的字符编码为UTF-8。
+	- 确保Preferences->Profiles->Terminal->Terminal Emulation中的字符编码为UTF-8。一般默认都应该是
 	- 修改：`vim ~/.zshrc`，把这一行改为 UTF-8：
 ``` bash
 # You may need to manually set your language environment
@@ -81,46 +81,40 @@ export LANG=en_US.UTF-8
 	- 在 iTerm2 中，选中即复制。即任何选中状态的字符串都被放到了系统剪切板中。
 - iTerm2 常用快捷键
     选中终端中的内容即复制，鼠标中键粘贴
-    输入的命令开头字符 + Command + ; 根据历史记录自动补全
+    输入的命令开头字符 + Command + ; 根据输入的前缀历史记录自动补全
+    Command + ; 根据历史记录自动补全
+    command + [ 或 command + ]，切换屏幕
     Command + enter 进入全屏模式，再按一次返回
     Command + 鼠标单击：可以打开文件，文件夹和链接（iTerm2 是可以对显示的内容进行点击的哦）
-    Command + n：新建窗口
+    Command + n：新建新的 Window 窗口
     Command + t：新建标签页
-    Command + w：关闭当前页
-    Command + 方向键：切换标签页
+    Command + w：关闭当前标签或是窗口
     Command + d：竖直分屏
     Command + r：清屏
     Command + /：按完之后，整个屏幕变成白茫茫的，而光标位置是一个小圆圈清除显示出来
-    Command + 数字 ： 各 tab 标签切换
-    Command + f ： 查找 ，所查找的内容会被自动复制 ,输入查找的部分字符，找到匹配的值按tab，即可复制
-    Command + d ： 横着分屏 
-    Command + r ： 换到新一屏
-    Command + enter：切换全屏
-    Command + 方向键左 / Command + 方向键右 : 到一行命令最左边/最右边 
-    Command + option + e,全屏展示所有的 tab，可以搜索。
-    Command + Option + e：查找所有来定位某个标签页
-    Command + Option + b：历史回放
-    Command + Option + 数字：切换窗口
-    Command + shift + h：iterm2将自动列出剪切板的历史记录
+    Command + 方向键：切换标签页
+    Command + 数字 ： 切换到指定数字标签页
+    Command + f ： 查找 ，所查找的内容会被自动复制 ,输入查找的部分字符，找到匹配的值按tab，即可复制，然后用 tab 和 ⇧ + tab 可以向右和向左补全，补全之后的内容会被自动复制， 还可以用 ⌥ + enter 将查找结果输入终端
+    Command + option + e,全屏并排展示所有已经打开的标签页，带有可以搜索。
+    Command + Option + b：历史回放，iTerm2 有一个类似视频录像的东西，有记录你最近时间内的操作。按完这个快捷键有一个类似播放器的进度条可以拖动查看你做了什么
+    Command + Option + 数字：切换 Window 窗口
     Command + shift + d ： 水平分屏
-    Command + Shift + d：上下分屏
-    Command + Shift + h：自动补全剪贴板历史
-    Command + shift + h ： 会列出剪切板历史
-    Command + f：查找，然后用 tab 和 ⇧ + tab 可以向右和向左补全，补全之后的内容会被自动复制， 还可以用 ⌥ + enter 将查找结果输入终端
+    command + shift + h，查看剪贴板历史，在光标位置下方会出现一列你输入过的历史记录
+    command + shift + alt + w，关闭所有窗口
     Control + u ：清空当前行，无论光标在什么位置
-    Control + u：清空当前行
     Control + a：移动到行首
     Control + e：移动到行尾
-    Control + f：向前移动
-    Control + b：向后移动
-    Control + p：上一条命令
-    Control + n：下一条命令
+    Control + f：向前移动，相当于方向键右
+    Control + b：向后移动，相当于方向键左
+    Control + p：上一条命令，相当于方向键上
+    Control + n：下一条命令，相当于方向键下
     Control + r：搜索历史命令
     Control + y：召回最近用命令删除的文字
     Control + h：删除光标之前的字符
-    Control + d：删除光标所指的字符
+    Control + d：删除光标所在位置的字符
     Control + w：删除光标之前的单词
     Control + k：删除从光标到行尾的内容
+    Control + c：结束当前状态，另起一行
     Control + t：交换光标和之前的字符
 - Hotkey Window (快速调出窗口)
 	- 这个非常好用，默认是没有设置，需要自己设置下。
