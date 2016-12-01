@@ -9,6 +9,9 @@ tags: [Mac,Java]
 
 <!-- more -->
 
+![Java 开发环境](http://img.youmeek.com/2016/Mac-Java.gif)
+
+
 ## 本文初衷
 
 - 整理自己脑袋中、收藏中的那些资料，来一次清空，让自己重新开始。
@@ -17,6 +20,7 @@ tags: [Mac,Java]
 
 ## 先总结
 
+- 本篇文章没有细到一步一步截图的地步，需要有 Windows 下 Java 开发经验，以及 Linux 部署 Java 环境为基础。
 - 其实 Java 相关的开发环境，不管是 Windows、Mac、Linux 其实本质都一样的，都是改路径，改系统变量，如果你还用 IntelliJ IDEA 这种 IDE，有些压根就不需要系统变量了。
 - 各系统的路径差异说明：
 	- Windows 的路径结构是这样的：`D:\360Downloads\HotFix`
@@ -31,10 +35,21 @@ tags: [Mac,Java]
 - Java 开发环境理论上一般都是这个优先安装的。
 - 安装过程和 Windows 没啥区别，都是下一步下一步，只是比 Windows 简单，连安装路径都不需要改而已，所以这里不截图了。
 - 我这边不管是 Windows、Mac、Linux，只要开发环境，JAVA_HOME 我都是 JDK8，同时还装有 JDK6、JDK7，在使用 IntelliJ IDEA 的时候，我可以同时使用三个版本的 JDK。
-- JDK 的环境变量是要添加的，我这边可以贴一下：
+- JDK 的环境变量是要添加的，我这边可以贴一下。
+- 在本系列前面的章节中我已经说明了，我这边是 Zsh 环境，所以我需要编辑这个配置文件：`vim ~/.zshrc`
+- 如果你是 bash，你需要编辑的是这个：`vim ~/.bash_profile`
+- 修改后之后刷新配置文件我是：`source ~/.zshrc`
 
 ``` bash
-
+# JDK 1.8
+JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home
+JRE_HOME=$JAVA_HOME/jre
+PATH=$PATH:$JAVA_HOME/bin
+CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+export JAVA_HOME
+export JRE_HOME
+export PATH
+export CLASSPATH
 ```
 
 ## IntelliJ IDEA
@@ -57,7 +72,10 @@ tags: [Mac,Java]
 - Maven 的环境变量是要添加的，我这边可以贴一下：
 
 ``` bash
-
+MAVEN_HOME=/Users/youmeek/my_software/work_software/maven3.3.9
+PATH=$PATH:$MAVEN_HOME/bin
+export MAVEN_HOME
+export PATH
 ```
 
 ## Tomcat
