@@ -9,6 +9,8 @@ tags: [Mac]
 
 <!-- more -->
 
+![外设/配件介绍](http://img.youmeek.com/2016/Mac-peripheral.jpg)
+
 ## 本文初衷
 
 - 整理自己脑袋中、收藏中的那些资料，来一次清空，让自己重新开始。
