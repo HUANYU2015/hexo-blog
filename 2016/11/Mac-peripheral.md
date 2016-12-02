@@ -1,7 +1,7 @@
 ---
 title: 一个Java程序员眼中的Mac OS（系列八：外设/配件介绍）
 date: 2016-12-01 22:23:10
-description: "Mac 好单纯，好不做作：我就是要让你多买点配件"
+description: "Apple 好单纯，好不做作：我就是要让你多买点配件"
 categories: [Mac]
 tags: [Mac]
 ---
