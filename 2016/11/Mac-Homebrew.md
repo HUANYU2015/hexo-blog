@@ -117,3 +117,4 @@ tags: [Mac,Homebrew,终端]
 ## 结束语
 
 - 如果你需要它就你就好好学习，如果你的职业现在完全用不到，那就把这篇文章加收藏，有需要再打开，不希望你花时间多做一些没有太大意义的事情。
+- ![YouMeek 公众号](http://img.youmeek.com/YouMeek-WX.jpg)

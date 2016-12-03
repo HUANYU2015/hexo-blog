@@ -100,3 +100,4 @@ export PATH
 ## 结束语
 
 - 感谢 JetBrains 这样的公司存在，让我省去很多麻烦。
+- ![YouMeek 公众号](http://img.youmeek.com/YouMeek-WX.jpg)

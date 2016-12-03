@@ -93,3 +93,4 @@ tags: [Mac]
 - 买 Mac 设备装双系统我觉得没必要，如果你就一台机，那我就只建议你专心用 Mac OS 或专心用 Windows，如果只是时不时用到 Windows 那就装个虚拟机。如果只习惯 Windows，那就专心买 Dell XPS，Surface Book。
 - 如果你打算认真从事开发行业，那就等手里有钱之后，按我刚刚说的，笔记本用 Retina MacBook Pro，台式机组装用 Windows 或 黑苹果。我是三个系统都喜欢的，所以我三个系统也同时都使用。
 - **下期预告：一个 Java 程序员眼中的 Mac OS（系列二：Mac OS 系统细节设置）**
+- ![YouMeek 公众号](http://img.youmeek.com/YouMeek-WX.jpg)
