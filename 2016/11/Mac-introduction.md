@@ -21,7 +21,7 @@ top: 1000
 - 本系列有 **7 大篇，N 多小篇**，7 大篇目前已经都整理完成，分别是：
     - **[一个Java程序员眼中的Mac OS（系列二：系统使用）](http://code.youmeek.com/2016/11/20/2016/11/Mac-settings/)**
     - **[一个Java程序员眼中的Mac OS（系列三：常用快捷键）](http://code.youmeek.com/2016/11/21/2016/11/Mac-keymap/)**
-    - **[一个Java程序员眼中的Mac OS（系列四：常用软件）](http://code.youmeek.com/2016/11/26/2016/11/Mac-software/)**
+    - **[一个Java程序员眼中的Mac OS（系列四：常用软件）](http://code.youmeek.com/2016/11/24/2016/11/Mac-software/)**
     - **[一个Java程序员眼中的Mac OS（系列五：包管理工具）](http://code.youmeek.com/2016/11/27/2016/11/Mac-Homebrew/)**
     - **[一个Java程序员眼中的Mac OS（系列六：终端方案iTerm2 + Zsh）](http://code.youmeek.com/2016/11/29/2016/11/Mac-iTerm2/)**
     - **[一个Java程序员眼中的Mac OS（系列七：Java 开发环境）](http://code.youmeek.com/2016/11/30/2016/11/Mac-Java/)**
