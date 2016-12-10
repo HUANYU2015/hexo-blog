@@ -335,6 +335,7 @@ module.exports = function(locals){
 - JavaScript 压缩：`npm install hexo-uglify --save`
 - CSS 压缩插件：`npm install hexo-clean-css --save`
 - SEO优化：`npm install hexo-generator-seo-friendly-sitemap --save`
+- 搜索支持，需要主题有对应的设置：`npm install hexo-generator-search --save`
 
 ## 结束语
 
