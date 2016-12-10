@@ -85,7 +85,7 @@ tags: [Mac]
 - [如何关闭自动检查更新](http://www.jianshu.com/p/b31e938bbeb7)
 - [硬盘维护/格式化硬盘](http://www.jianshu.com/p/5c36f49e45d2)
 - [外接显示器设置](http://www.jianshu.com/p/e461b630108c)
-
+- [启用/禁用root-修改root密码](http://www.jianshu.com/p/eac6d1d38755)
 
 
 ## 结束语
