@@ -3,8 +3,8 @@
 @YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）
 
 <p>
-	<a href="http://img.youmeek.com/2016/judasn-mymusic-2016-10-A.jpg">
-	<img src="http://img.youmeek.com/2016/judasn-mymusic-2016-10-A.jpg" title="@微信朋友圈音乐收集2016-10合集(全)打包下载(配目录图)" alt="@微信朋友圈音乐收集2016-10合集(全)打包下载(配目录图)">
+	<a href="http://img.youmeek.com/2016/i-love-google-and-idea.jpg">
+	<img src="http://img.youmeek.com/2016/i-love-google-and-idea.jpg" title="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）" alt="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）">
 	</a> 
 </p>
 
@@ -21,6 +21,7 @@
     - 针对你目前的个人情况，学习进度，聊聊我所知道的知识。
 - 其他内容暂时都不沟通：
     - 很多内容，比如 Java、运维，单独一个就是一个大的知识系统，我还很难去还原别人的问题环境，并去思考，如果要去做，肯定也要花很多时间，那捐赠的那点钱真的不值得我花大量时间这样去做，并且这个没有固定性，我没办法积累起来作为后面跟别人沟通的材料。
+    - 等以后我在其他方向上我觉得有所系统地了解和整理，我愿意也跟别人分享我所知道的。
 - 捐赠费用：99元起。
 - 参加活动方式：
     - 只能通过加我微信发红包的方式来，不然我没办法联系到你。我的微信号看本篇文章最底下。
@@ -34,15 +35,15 @@
 - 因为最近有很多支持我的朋友，用我博客上的京东购物链接进去，所以我这两个月平均就京东的推广就有一百多，我想拿出来购买 VPS，给博客活动，让更多的人用上 Google，我对 Google 是真爱，对我的读者也是。
 - 我的微信号：
 <p>
-	<a href="http://img.youmeek.com/2016/judasn-mymusic-2016-10-A.jpg">
-	<img src="http://img.youmeek.com/2016/judasn-mymusic-2016-10-A.jpg" title="@微信朋友圈音乐收集2016-10合集(全)打包下载(配目录图)" alt="@微信朋友圈音乐收集2016-10合集(全)打包下载(配目录图)">
+	<a href="http://img.youmeek.com/2016/MyWeiXin.jpg">
+	<img src="http://img.youmeek.com/2016/MyWeiXin.jpg" title="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）" alt="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）">
 	</a> 
 </p>
 
 - 我的公众号：
 <p>
-	<a href="http://img.youmeek.com/2016/judasn-mymusic-2016-10-A.jpg">
-	<img src="http://img.youmeek.com/2016/judasn-mymusic-2016-10-A.jpg" title="@微信朋友圈音乐收集2016-10合集(全)打包下载(配目录图)" alt="@微信朋友圈音乐收集2016-10合集(全)打包下载(配目录图)">
+	<a href="http://img.youmeek.com/2016/MyWeiXin2.jpg">
+	<img src="http://img.youmeek.com/2016/MyWeiXin2.jpg" title="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）" alt="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）">
 	</a> 
 </p>
 
