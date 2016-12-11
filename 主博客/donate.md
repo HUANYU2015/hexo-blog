@@ -1,15 +1,10 @@
----
-title: YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）
-date: 2016-12-11 18:26:04
-description: "别人对我好，我得回报别人，也想间接促进让我自己变得更好、了解更多人、传播更多我自己喜欢并且在做的内容，也带来一点额外靠知识得到的收入，仅此而已。"
-categories: [IntelliJ IDEA]
-tags: [IntelliJ IDEA]
----
 
 
-<!-- more -->
+@YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）
 
-![YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）](http://img.youmeek.com/2016/i-love-google-and-idea.jpg)
+
+<p><a href="http://img.youmeek.com/2016/i-love-google-and-idea.jpg"><img src="http://img.youmeek.com/2016/i-love-google-and-idea.jpg" title="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）" alt="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）"></a></p>
+
 
 -------------------
 
@@ -44,13 +39,12 @@ tags: [IntelliJ IDEA]
 -------------------
 
 - **我的微信号：**
-- ![YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）](http://img.youmeek.com/2016/MyWeiXin.jpg)
+<p> <a href="http://img.youmeek.com/2016/MyWeiXin.jpg"> <img src="http://img.youmeek.com/2016/MyWeiXin.jpg" title="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）" alt="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）"> </a> </p>
 
 -------------------
 
 - **我的公众号：**
-- ![YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）](http://img.youmeek.com/2016/MyWeiXin2.jpg)
-
+<p> <a href="http://img.youmeek.com/2016/MyWeiXin2.jpg"> <img src="http://img.youmeek.com/2016/MyWeiXin2.jpg" title="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）" alt="YouMeek开展捐赠陪聊服务（希望对 IntelliJ IDEA 新人有所帮助）"> </a> </p>
 
 
 
