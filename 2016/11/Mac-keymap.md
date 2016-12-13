@@ -89,6 +89,7 @@ tags: [Mac]
 |Command + Shift + Y|对选中的文字生成便签|
 |Command + Shift + Q|注销您的 macOS 用户帐户。系统将提示您确认|
 |Command + Shift + 波浪号 (~)|切换窗口：切换到最前端应用中下一个最近使用的窗口|
+|Command + Shift + 点号|显示隐藏文件夹/文件，再按一次则隐藏|
 |Command + Control + 空格键|显示“字符显示程序”弹出窗口，可以插入表情|
 |Command + Control + 电源按钮|强制 Mac 重新启动|
 |Command + Option + H|置顶当前焦点所在的这个窗口，隐藏后面的其他所有窗口。这个很有用的，方便使用桌面的内容|
