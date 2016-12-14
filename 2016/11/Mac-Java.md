@@ -58,6 +58,12 @@ export CLASSPATH
 - 最优秀的 IDE，没有之一，我所有的生产力硬件设备都是为了支持它而购买的，所以内存一定要够大。
 - 下面的 Maven、Tomcat 都是依赖于 IntelliJ IDEA 运行的，所以本质上我只要搞定 IntelliJ IDEA，其他的 Java 开发环境 IntelliJ IDEA 都会帮我们解决。
 - 关于 IntelliJ IDEA Mac 下安装/配置等相关，请看我写的这个系列，里面有详细说明：[IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+- 在 IntelliJ IDEA 有几个特别的地方我单独拿出来讲讲吧：
+	- 如果启动 Tomcat 的时候报：`Permission denied`，你则可以：打开终端，进入 Tomcat\bin 目录，然后执行：`chmod 777 *.sh`
+	- 如果启动 Tomcat 之后，控制台乱码了，并且你确认你在 IntelliJ IDEA 的 Preferences 中设置的控制台字体是支持中文的，那你可以尝试下在 Tomcat VM 参数上加上：`-Dfile.encoding=UTF-8`
+	- Git 的路径配置：`Preferences -- Version Control -- Git -- Path to Git executable` 的值是：`/usr/local/git/bin/git`
+	- 如果你已经看过前面的：[一个Java程序员眼中的Mac OS（系列六：终端方案iTerm2 + Zsh）](http://code.youmeek.com/2016/11/29/2016/11/Mac-iTerm2/)，假设你也已经安装了 zsh
+		- 那你的 IntelliJ IDEA 终端路径可以改成 zsh 的，配置方法在 `Preferences -- Tools -- Terminal -- Shell path` 的值改为是：`/bin/zsh`
 
 ## Maven
 
