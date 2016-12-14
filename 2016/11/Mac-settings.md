@@ -63,6 +63,7 @@ tags: [Mac]
 - [如何复制/剪切/粘贴文件](http://www.jianshu.com/p/d0842fb78bd3)
 - [修改安全性，允许任何来源的软件都可以安装](http://www.jianshu.com/p/488eccedd2b3)
 - [如何退出/推出U盘](http://www.jianshu.com/p/945e98a8cf8b)
+- [如何锁屏](http://www.jianshu.com/p/6babf13b3903)
 - [如何更新系统/官方应用](http://www.jianshu.com/p/091dfefc5143)
 - [Mac 和 Windows 之间如何共享文件](http://www.jianshu.com/p/3e6f685f4d75)
 - [强制结束应用](http://www.jianshu.com/p/ee2cfacc4457)
