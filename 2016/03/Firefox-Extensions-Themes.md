@@ -35,6 +35,7 @@ tags: [Firefox]
 - **Google search link fix**：<https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/>
 - **FoxyProxy Standard**：<https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/>
 - **FindBar Tweak**：<https://addons.mozilla.org/zh-CN/firefox/addon/findbar-tweak>
+- **Tab Mix Plus**：<https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus>
 - **Firebug**：<https://addons.mozilla.org/zh-CN/firefox/addon/firebug>
 - **iMacros for Firefox**：<https://addons.mozilla.org/zh-CN/firefox/addon/imacros-for-firefox>
 - **Tab Mix Plus**：<https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus>
