@@ -48,6 +48,7 @@ tags: [Mac]
 - [查看本地 IP 地址](http://www.jianshu.com/p/149b984e3c43)
 - [改变鼠标/触摸板滚轮滑动方向](http://www.jianshu.com/p/005bfba5c080)
 - [触摸板的使用](http://www.jianshu.com/p/7a4fb9b084dc)
+- [修改F区键盘键为常规F1~F12键效果](http://www.jianshu.com/p/ceb873c3759d)
 - [调整鼠标大小](http://www.jianshu.com/p/ae920595c641)
 - [调整音量](http://www.jianshu.com/p/abcb0e5c1f5b)
 - [调整屏幕亮度](http://www.jianshu.com/p/f0126e7db78a)
