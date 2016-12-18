@@ -101,11 +101,17 @@ export PATH
 - 官网下载 MySQL 5.6：<http://dev.mysql.com/downloads/mysql/5.6.html#downloads>
 - 官网下载 MySQL 5.7：<http://dev.mysql.com/downloads/mysql/>
 - MySQL 官网提供的 Mac 系统的安装包，是下一步下一步安装类型的，没啥难度，大家自己试一下。
-- 有个点需要注意的是：如何重置 root 密码：
-	- 打开：`系统偏好设置 -- 底部的 MySQL -- 点击：Stop MySQL Server`，根据提示输入你的 Mac 用户密码。
-	- 打开终端，输入命令：`sudo /usr/local/mysql/bin/mysqld_safe --skip-grant-tables`，根据提示输入你的 Mac 用户密码，然后这个终端就这样放着，别动
-	- 再打开一个新的终端，输入命令：`sudo /usr/local/mysql/bin/mysql -u root`，根据提示输入你的 Mac 用户密码，密码如果无误的话，此时就进入：`mysql >` 这种状态下。
-	- 在：`mysql >` 这种状态下输入命令：`UPDATE user SET authentication_string=PASSWORD('123456') WHERE User='root';FLUSH PRIVILEGES;`，我把密码重置为：`123456` 了。
+- 有几个点需要注意的是：
+	- 如何重置 root 密码：
+		- 打开：`系统偏好设置 -- 底部的 MySQL -- 点击：Stop MySQL Server`，根据提示输入你的 Mac 用户密码。
+		- 打开终端，输入命令：`sudo /usr/local/mysql/bin/mysqld_safe --skip-grant-tables`，根据提示输入你的 Mac 用户密码，然后这个终端就这样放着，别动
+		- 再打开一个新的终端，输入命令：`sudo /usr/local/mysql/bin/mysql -u root`，根据提示输入你的 Mac 用户密码，密码如果无误的话，此时就进入：`mysql >` 这种状态下。
+		- 在：`mysql >` 这种状态下输入命令：`UPDATE user SET authentication_string=PASSWORD('123456') WHERE User='root';FLUSH PRIVILEGES;`，我把密码重置为：`123456` 了。
+	- MySQL 配置文件设置
+		- Mac 下的 MySQL 默认是没有 my.ini 或是 my.cnf 文件的，需要我们自己复制一个出来。
+		- 通过终端进入这个目录：`cd /usr/local/mysql/support-files/`，从该目录下随便找一个 `.cnf` 的文件，复制命名为：`my.cnf`，然后按照 MySQL 的配置规则配置这个文件。
+		- 然后把这个 `my.cnf` 的文件复制到 `/etc` 目录下
+		- 重启 MySQL 服务即可
 
 ## Git
 
