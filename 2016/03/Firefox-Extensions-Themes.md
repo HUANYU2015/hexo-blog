@@ -38,7 +38,6 @@ tags: [Firefox]
 - **Tab Mix Plus**：<https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus>
 - **Firebug**：<https://addons.mozilla.org/zh-CN/firefox/addon/firebug>
 - **iMacros for Firefox**：<https://addons.mozilla.org/zh-CN/firefox/addon/imacros-for-firefox>
-- **Tab Mix Plus**：<https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus>
 - **Tile Tabs**：<https://addons.mozilla.org/zh-CN/firefox/addon/tile-tabs>
 - **Add to Search Bar**：<https://addons.mozilla.org/zh-CN/firefox/addon/add-to-search-bar>
 - **Text Link**：<https://addons.mozilla.org/zh-CN/firefox/addon/text-link>
