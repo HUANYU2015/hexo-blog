@@ -31,6 +31,7 @@ tags: [Firefox]
 - **Adblock Plus**：<https://addons.mozilla.org/zh-CN/firefox/addon/adblock-plus>
 - **LastPass**：<https://addons.mozilla.org/zh-CN/firefox/addon/lastpass-password-manager>
 - **Xmarks**：<https://addons.mozilla.org/zh-CN/firefox/addon/xmarks-sync>
+- **Flashblock**：<https://addons.mozilla.org/zh-CN/firefox/addon/flashblock/>
 - **Add Bookmark Here ²**：<https://addons.mozilla.org/zh-CN/firefox/addon/add-bookmark-here-2>
 - **Google search link fix**：<https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/>
 - **FoxyProxy Standard**：<https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/>
