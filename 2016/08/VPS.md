@@ -241,6 +241,13 @@ Enjoy it!
     - 360 云盘（密码：30d3）：<https://yunpan.cn/cMZLSPzTeUWJp>
 - Linux 客户端：<https://github.com/shadowsocks/shadowsocks-gui>
 - OS X 客户端：<https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help>
+- iOS 客户端（在 App Store 中搜索下面名字）：
+	- 这类软件都很友好，配置都是很简单的，跟 PC 客户端类型，填上 SS 的相应信息即可。
+	- Shadowrocket，收费，我正在用的
+	- Surge，收费
+	- Wingy，免费
+	- Potatso，收费
+	- A.BIG.T，收费
 - Android 客户端：<https://github.com/shadowsocks/shadowsocks-android/releases>
 - 别人整理的客户端列表：<https://shadowsocks.com/client.html>
 - 以 Windows 的 Shadowsocks 客户端为例进行说明：
@@ -277,6 +284,12 @@ Enjoy it!
         - 规则列表规则选择：proxy
         - 浏览器工作模式选择：auto switch
         - 其他人文章参考：<http://www.ihacksoft.com/chrome-switchyomega.html>
+
+## Shadowsocks 的同类
+
+- SpechtLite：<https://github.com/zhuhaow/SpechtLite/releases>
+- ShadowsocksX：<https://github.com/RobertYan/ShadowsocksX/releases>
+- ShadowsocksX-R：<https://github.com/yichengchen/ShadowsocksX-R/releases>
 
 
 ## 资料整理
