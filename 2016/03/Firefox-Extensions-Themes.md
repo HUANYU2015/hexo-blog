@@ -34,6 +34,7 @@ tags: [Firefox]
 - **Flashblock**：<https://addons.mozilla.org/zh-CN/firefox/addon/flashblock/>
 - **Add Bookmark Here ²**：<https://addons.mozilla.org/zh-CN/firefox/addon/add-bookmark-here-2>
 - **Google search link fix**：<https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/>
+- **QrCodeR**：<https://addons.mozilla.org/zh-CN/firefox/addon/qrcoder/?src=search>
 - **FoxyProxy Standard**：<https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/>
 - **FindBar Tweak**：<https://addons.mozilla.org/zh-CN/firefox/addon/findbar-tweak>
 - **Tab Mix Plus**：<https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus>
@@ -63,7 +64,6 @@ tags: [Firefox]
 - [购物党全网自动比价工具](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/)
 - **Multifox**：<https://addons.mozilla.org/zh-CN/firefox/addon/multifox/?src=cb-dl-featured>
 - **FireQuery**：<https://addons.mozilla.org/zh-CN/firefox/addon/firequery/?src=api>
-- **QrCodeR**：<https://addons.mozilla.org/zh-CN/firefox/addon/qrcoder/?src=search>
 - **RESTer**：<https://addons.mozilla.org/zh-CN/firefox/addon/rester/?src=search>
 - **Copy Urls Expert**：<https://addons.mozilla.org/zh-CN/firefox/addon/copy-urls-expert/?src=api>
 
