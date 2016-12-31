@@ -1,7 +1,7 @@
 ---
-title: 一个Java程序员眼中的Mac OS（系列一：总纲领）
+title: 一个 Java 程序员眼中的 Mac OS（系列一：总纲领）
 date: 2016-11-05 17:13:59
-description: "站在开发者角度来谈Mac设备和Mac OS 。认真生活的非果粉用户。"
+description: "站在开发者角度来谈 Mac 设备和 Mac OS 。认真生活的非果粉用户。"
 categories: [Mac]
 tags: [Mac]
 top: 1000
@@ -18,14 +18,14 @@ top: 1000
 ## 系列教程总结
 
 
-- 本系列有 **7 大篇，N 多小篇**，7 大篇目前已经都整理完成，分别是：
-    - **[一个Java程序员眼中的Mac OS（系列二：系统使用）](http://code.youmeek.com/2016/11/20/2016/11/Mac-settings/)**
-    - **[一个Java程序员眼中的Mac OS（系列三：常用快捷键）](http://code.youmeek.com/2016/11/21/2016/11/Mac-keymap/)**
-    - **[一个Java程序员眼中的Mac OS（系列四：常用软件）](http://code.youmeek.com/2016/11/24/2016/11/Mac-software/)**
-    - **[一个Java程序员眼中的Mac OS（系列五：包管理工具）](http://code.youmeek.com/2016/11/27/2016/11/Mac-Homebrew/)**
-    - **[一个Java程序员眼中的Mac OS（系列六：终端方案iTerm2 + Zsh）](http://code.youmeek.com/2016/11/29/2016/11/Mac-iTerm2/)**
-    - **[一个Java程序员眼中的Mac OS（系列七：Java 开发环境）](http://code.youmeek.com/2016/11/30/2016/11/Mac-Java/)**
-    - **[一个Java程序员眼中的Mac OS（系列八：外设/配件介绍）](http://code.youmeek.com/2016/12/01/2016/11/Mac-peripheral/)**
+- 本系列有 **7 大篇，N 多小篇 **，7 大篇目前已经都整理完成，分别是：
+    - **[一个 Java 程序员眼中的 Mac OS（系列二：系统使用）](http://code.youmeek.com/2016/11/20/2016/11/Mac-settings/)**
+    - **[一个 Java 程序员眼中的 Mac OS（系列三：常用快捷键）](http://code.youmeek.com/2016/11/21/2016/11/Mac-keymap/)**
+    - **[一个 Java 程序员眼中的 Mac OS（系列四：常用软件）](http://code.youmeek.com/2016/11/24/2016/11/Mac-software/)**
+    - **[一个 Java 程序员眼中的 Mac OS（系列五：包管理工具）](http://code.youmeek.com/2016/11/27/2016/11/Mac-Homebrew/)**
+    - **[一个 Java 程序员眼中的 Mac OS（系列六：终端方案 iTerm2 + Zsh）](http://code.youmeek.com/2016/11/29/2016/11/Mac-iTerm2/)**
+    - **[一个 Java 程序员眼中的 Mac OS（系列七：Java 开发环境）](http://code.youmeek.com/2016/11/30/2016/11/Mac-Java/)**
+    - **[一个 Java 程序员眼中的 Mac OS（系列八：外设 / 配件介绍）](http://code.youmeek.com/2016/12/01/2016/11/Mac-peripheral/)**
 
 ------------
 
