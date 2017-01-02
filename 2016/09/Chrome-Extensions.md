@@ -34,6 +34,7 @@ tags: [Chrome]
     - **Ghostery**：<https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij>
     - **为什么你们就是不能加个空格呢**：<https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd>
     - **SimpleUndoClose**：<https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj>
+    - **diigo**：<https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh>
     - **Context**：<https://chrome.google.com/webstore/detail/context/aalnjolghjkkogicompabhhbbkljnlka>
     - **OneTab**：<https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall>
     - **Linkclump**：<https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj>
