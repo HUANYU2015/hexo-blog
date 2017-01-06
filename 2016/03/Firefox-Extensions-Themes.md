@@ -67,6 +67,8 @@ tags: [Firefox]
 - **FireQuery**：<https://addons.mozilla.org/zh-CN/firefox/addon/firequery/?src=api>
 - **RESTer**：<https://addons.mozilla.org/zh-CN/firefox/addon/rester/?src=search>
 - **Copy Urls Expert**：<https://addons.mozilla.org/zh-CN/firefox/addon/copy-urls-expert/?src=api>
+- **User-Agent Switcher**：<https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-switcher-firefox>
+- **Cookies Manager+**：<https://addons.mozilla.org/zh-CN/firefox/addon/cookies-manager-plus/?src=search>
 
 
 ### 关闭扩展签名校验
