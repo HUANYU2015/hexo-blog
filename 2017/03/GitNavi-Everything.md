@@ -9,7 +9,7 @@ tags: [GitNavi]
 
 <!-- more -->
 
-- ![封面图](http://img.youmeek.com/2017/gitnavi-front-1.jpg)
+![GitNavi 首页](http://img.youmeek.com/2017/gitnavi-front-1.jpg)
 
 ## GitNavi 总结
 
@@ -22,14 +22,14 @@ tags: [GitNavi]
 - 还有移动 Web 端，只希望能随时随刻帮到你。
 - 更多细节欢迎到 GitNavi.com 亲自体验下，有专门的！
 
-![封面图](http://img.youmeek.com/2017/gitnavi-front-2.jpg)
-![封面图](http://img.youmeek.com/2017/gitnavi-front-3.jpg)
-![封面图](http://img.youmeek.com/2017/gitnavi-front-4.jpg)
-![封面图](http://img.youmeek.com/2017/gitnavi-front-5.jpg)
-![封面图](http://img.youmeek.com/2017/gitnavi-front-6.jpg)
-![封面图](http://img.youmeek.com/2017/gitnavi-wap-1.png)
-![封面图](http://img.youmeek.com/2017/gitnavi-wap-2.png)
-![封面图](http://img.youmeek.com/2017/gitnavi-admin-1.jpg)
+![GitNavi 首页](http://img.youmeek.com/2017/gitnavi-front-2.jpg)
+![GitNavi 高级搜索类型一](http://img.youmeek.com/2017/gitnavi-front-3.jpg)
+![GitNavi 高级搜索类型二](http://img.youmeek.com/2017/gitnavi-front-4.jpg)
+![GitNavi 404](http://img.youmeek.com/2017/gitnavi-front-5.jpg)
+![GitNavi 指导手册](http://img.youmeek.com/2017/gitnavi-front-6.jpg)
+![GitNavi 移动 Web](http://img.youmeek.com/2017/gitnavi-wap-1.png)
+![GitNavi 移动 Web](http://img.youmeek.com/2017/gitnavi-wap-2.png)
+![GitNavi 用户链接管理](http://img.youmeek.com/2017/gitnavi-admin-1.jpg)
 
 ## 感谢为程序员服务的网站
 
@@ -46,5 +46,5 @@ tags: [GitNavi]
 - 2.今年换了一下新东家，做地铁要接近一个小时，一线城市的高峰期基本你很难有座位了，而我不想浪费时间在路上无所事事，所以我又找了这个：十八纸折叠凳。拿在手里像一本书不大不小，可以找个空地坐下来看手机或是 kindle 也行。
 - 希望今年的 CR-V、CX-5 能靠谱点，如果可以就入手一辆。买不起房就不买了，小孩子我自己教还不行嘛。
 
-![封面图](http://img.youmeek.com/2017/gitnavi-philips.jpg)
-![封面图](http://img.youmeek.com/2017/gitnavi-shibazhi.jpg)
+![人人必备-飞利浦电动牙刷](http://img.youmeek.com/2017/gitnavi-philips.jpg)
+![十八纸](http://img.youmeek.com/2017/gitnavi-shibazhi.jpg)
