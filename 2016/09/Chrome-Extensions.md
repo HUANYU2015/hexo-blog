@@ -50,6 +50,7 @@ tags: [Chrome]
     - **二维码生成器**：<https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/ajaomcmkalmeeahjfdklkcjbljhbokjl>
     - **阅读模式**：<https://chrome.google.com/webstore/detail/reader-view/iibolhpkjjmoepndefdmdlmbpfhlgjpl>
     - **惠惠购物助手**：<https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb>
+    - **划词翻译**：<https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad>
     - **Enable Copy**：<https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio>
     - [购物党全网自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E5%85%A8%E7%BD%91%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E7%BE%8E%E4%BA%9A%E6%97%A5%E4%BA%9A%E6%AF%94%E4%BB%B7%E3%80%8118/jgphnjokjhjlcnnajmfjlacjnjkhleah)
 - 开发相关：
@@ -57,3 +58,4 @@ tags: [Chrome]
     - **JSONView**：<https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc>
     - **Octotree**：<https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc>
     - **Postman**：<https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop>
+    - **EditThisCookie**：<https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?utm_source=chrome-ntp-icon>

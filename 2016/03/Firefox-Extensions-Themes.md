@@ -69,6 +69,7 @@ tags: [Firefox]
 - **Copy Urls Expert**：<https://addons.mozilla.org/zh-CN/firefox/addon/copy-urls-expert/?src=api>
 - **User-Agent Switcher**：<https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-switcher-firefox>
 - **Cookies Manager+**：<https://addons.mozilla.org/zh-CN/firefox/addon/cookies-manager-plus/?src=search>
+- **HttpRequester**：<https://addons.mozilla.org/zh-CN/firefox/addon/httprequester>
 
 
 ### 关闭扩展签名校验
