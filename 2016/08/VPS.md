@@ -291,6 +291,27 @@ Enjoy it!
 - ShadowsocksX：<https://github.com/RobertYan/ShadowsocksX/releases>
 - ShadowsocksX-R：<https://github.com/yichengchen/ShadowsocksX-R/releases>
 
+## 对 VPS 上的 Shadowsocks 进行加速
+
+- CentOS 6 下安装锐速
+- 资料来源：<https://github.com/91yun/serverspeeder>
+- 先确保虚拟化技术，Openvz 的机子无法安装：`wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/code/master/vm_check.sh && bash vm_check.sh`
+- 更改 CentOS 内核为 kernel-2.6.32-504.el6：
+	- 64 位系统：
+		- `wget https://liujihong.com/download/linux/kernel-2.6.32-504.el6.x86_64.rpm` 
+		- `rpm -ivh kernel-2.6.32-504.el6.x86_64.rpm --force` 
+	- 32 位系统：
+		- `whttps://liujihong.com/download/linux/kernel-2.6.32-504.el6.i686.rpm` 
+		- `rpm -ivh kernel-2.6.32-504.el6.i686.rpm --force` 
+	- 重启服务器：`reboot`
+	- 如果上面地址失效，可以查看这里：<https://github.com/1265578519/kernel/tree/master/6.5>
+- 开始安装锐速：`wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master/serverspeeder.sh && bash serverspeeder.sh`
+
+## 全局代理
+
+- 利用软件 Proxifier：<https://www.proxifier.com/>
+- 学习材料：<http://www.jianshu.com/p/a84fc3d6bbe6>
+
 
 ## 资料整理
 
