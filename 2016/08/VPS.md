@@ -156,6 +156,26 @@ tags: [开发工具,VPS,Shadowsocks,Vultr]
     - 把上面记下的：IP 地址，用户名，密码在 Xshell 里进行配置
 
 
+### 判断 VPS 属于哪种虚拟化方案
+
+- 常见的方案有：Xen、OpenVZ、Xen HVM、KVM
+- 安装 virt-what 软件
+
+``` shell
+wget http://people.redhat.com/~rjones/virt-what/files/virt-what-1.15.tar.gz
+
+tar zxvf virt-what-1.15.tar.gz
+
+cd virt-what-1.15/
+
+./configure
+
+make && make install
+```
+
+
+- 运行命令：`virt-what`，脚本就会判断出当前环境所使用的虚拟技术。Vultr 的结果是：kvm
+
 ### 测试 VPS 性能
 
 - 下面内容建立在你已经 SSH 连上服务器的基础上
