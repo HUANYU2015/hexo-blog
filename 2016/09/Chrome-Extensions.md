@@ -25,7 +25,6 @@ tags: [Chrome]
 - **官网**：<https://chrome.google.com/webstore/category/extensions>
 - 生活相关：
     - **LastPass**：<https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd>
-    - **Xmarks**：<https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla>
     - **Proxy SwitchyOmega**：<https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif>
     - **Adblock Plus**：<https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb>
     - **Ghostery**：<https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij>
@@ -58,3 +57,4 @@ tags: [Chrome]
     - **Enable Copy**：<https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio>
     - **Linkclump**：<https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj>
     - **Easy Auto Refresh**：<https://chrome.google.com/webstore/detail/easy-auto-refresh/aabcgdmkeabbnleenpncegpcngjpnjkc>
+    - **Xmarks**：<https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla>
