@@ -1,5 +1,5 @@
 ---
-title: 2016年双十一购物指南系列（日用篇）
+title: 2017 年双十一购物指南系列（日用篇）
 date: 2016-11-15 16:38:42
 description: "给别人推荐的时候，其实也是在做自我整理。我们需要生活，生活需要物品，仅此而已！"
 categories: [购物]
@@ -16,6 +16,8 @@ tags: [购物,生活物品]
 - 后续会继续更新。
 
 
+
+
 ## 厨卫清洁
 
 - [纸巾](http://search.jd.com/Search?keyword=纸巾&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=73b59c15c73842d59581830b28553923-p_276666007&abt=3)
@@ -26,8 +28,7 @@ tags: [购物,生活物品]
     - [心相印 茶语 手帕纸](http://search.jd.com/Search?keyword=心相印%20茶语%20手帕纸&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=5a8d1d78c31a47089fe1596d66d44393-p_276666007&abt=3)
     - [维达 湿纸巾](http://search.jd.com/Search?keyword=维达%20湿纸巾&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=92bd16aa105c4c7b8f049bf388bb33f3-p_276666007&abt=3)
 - [衣物洗护](http://search.jd.com/Search?keyword=衣物洗护&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=a9e3ba663364410c992cd63a42a04b12-p_276666007&abt=3)
-    - [威露士 洗衣液](http://search.jd.com/Search?keyword=威露士%20洗衣液&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=eac92c7f1f6a418489f86378348d093e-p_276666007&abt=3)
-    - [威露士 皂液](http://search.jd.com/Search?keyword=威露士%20皂液&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=b6a53d95023b4e0296cc60e28e79d7f6-p_276666007&abt=3)
+    - [汰渍 洗衣液](http://search.jd.com/Search?keyword=威露士%20洗衣液&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=eac92c7f1f6a418489f86378348d093e-p_276666007&abt=3)
     - [金纺 衣服护理剂](http://search.jd.com/Search?keyword=金纺%20衣服护理剂&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=78cdb00d138b48d1b005c127fd80ea83-p_276666007&abt=3)
     - [威露士 衣物除菌液](http://search.jd.com/Search?keyword=威露士%20衣物除菌液&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=1f39565b858048b1be5bd8cc8176c94b-p_276666007&abt=3)
     - [滴露 衣物除菌液](http://search.jd.com/Search?keyword=滴露%20衣物除菌液&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=5b96092791ce4a60ba435320c74c05ac-p_276666007&abt=3)
@@ -102,10 +103,6 @@ tags: [购物,生活物品]
 
 ## 家居家纺
 
-- 相对于玻璃而言，塑料的更加难清洗，易油腻，所以塑料的尽量不要跟油脂沾边。
-- 有时候出门，比如做火车，可以用塑料保鲜盒装一些切片的水果，或是不油腻食物。
-- 玻璃的保鲜盒对于放一些需要蒸的东西可以直接蒸，省得换个碟子，反正能省力就不费力，这是我的原则!
-- 家居的很多东西都可以考虑去宜家逛逛
 - [居家日常](http://search.jd.com/Search?keyword=居家日常&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=d0febd98b21d4edb932a48c8561ae8d9-p_276666007&abt=3)
     - [3M 口罩](http://search.jd.com/Search?keyword=3M%20口罩&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=2c322feef40245e6b3a08a327cde42f7-p_276666007&abt=3)
     - [Bananaumbrella 雨伞](http://search.jd.com/Search?keyword=Bananaumbrella%20雨伞&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=65259c0470514b9fae3ea68d822aa570-p_276666007&abt=3)
@@ -113,6 +110,7 @@ tags: [购物,生活物品]
     - [活性炭包](http://search.jd.com/Search?keyword=活性炭包&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=deba1df9672844b398e6263c4a6d01ee-p_276666007&abt=3)
     - [电热宝](http://search.jd.com/Search?keyword=电热宝&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=93e53d2263d342dab3b3797597823b4b-p_276666007&abt=3)
     - [午休床](http://search.jd.com/Search?keyword=午休床&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=4363e15f399f4275a96a1e83be614cde-p_276666007&abt=3)
+    - [鞋拔子塑料穿鞋器提鞋器鞋用具懒人鞋油鞋蜡擦鞋布鞋溜子包邮]()
 - [床上用品](http://search.jd.com/Search?keyword=床上用品&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=6c83c01f65d54f7a811be7b3cc3dda91-p_276666007&abt=3)
     - [宜家 四件套](http://search.jd.com/Search?keyword=宜家%20四件套&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=1473ed6736454665988cb2fccb8c3029-p_276666007&abt=3)
     - [蚕丝被](http://search.jd.com/Search?keyword=蚕丝被&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=fec7667508544614895d94b9e5d6d484-p_276666007&abt=3)
@@ -135,6 +133,8 @@ tags: [购物,生活物品]
     - [乐扣乐扣 保鲜盒](http://search.jd.com/Search?keyword=乐扣乐扣%20保鲜盒&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=63e3becf826e4df68a5eb72482ef7f74-p_276666007&abt=3)
     - [GlassLock 保鲜盒](http://search.jd.com/Search?keyword=GlassLock%20保鲜盒&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=6e4f509395c040f0990c6beb6b0de7e8-p_276666007&abt=3)
     - [透明玻璃茶壶 花茶](http://search.jd.com/Search?keyword=透明玻璃茶壶%20花茶&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=62e266eeb6a34e289a380331dc0311f2-p_276666007&abt=3)
+    - [安扣茶色奶粉罐 密封罐防潮便携/奶粉存储罐/奶粉盒密封罐/奶粉桶]()
+    - [HARIO 冷水壶 日本原装进口冷水壶耐热玻璃杯壶 凉水壶 玻璃水瓶大容量果汁壶1.4L 柠檬]()
 - [厨具锅具](http://search.jd.com/Search?keyword=厨具锅具&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=c0614e6a83d74422b110e08dee9865d6-p_276666007&abt=3)
     - [铸铁锅](http://search.jd.com/Search?keyword=铸铁锅&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=2a8e3f64f16344ea8abdd6881be4227e-p_276666007&abt=3)
     - [炒锅](http://search.jd.com/Search?keyword=炒锅&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=49f3d0fe0c344412bbcb89ea269e2573-p_276666007&abt=3)
@@ -159,6 +159,8 @@ tags: [购物,生活物品]
     - [封口夹](http://search.jd.com/Search?keyword=封口夹&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=eaa3a9a7f8bc498280615fb29931540a-p_276666007&abt=3)
     - [开瓶器](http://search.jd.com/Search?keyword=开瓶器&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=f64e010f18a547b397980d20104a7433-p_276666007&abt=3)
     - [多功能削皮器](http://search.jd.com/Search?keyword=多功能削皮器&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=088eaa634acd4a32ba26a8d4b7f575b2-p_276666007&abt=3)
+    - [享嘉吃蟹工具蟹钳夹三件套装蟹针大闸蟹钳 吃螃蟹剪不锈钢蟹八件]()
+    - [尚烤佳烧烤点火枪引火器点燃器打火枪野外打火机煤气灶点火器]()
 - [收纳洗晒](http://search.jd.com/Search?keyword=收纳洗晒&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=31ec9a59590f4c13a51c4d7a06a2f80b-p_276666007&abt=3)
     - [门后挂钩](http://search.jd.com/Search?keyword=门后挂钩&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=a12c9f7932304965ad460383940c41eb-p_276666007&abt=3)
     - [厨房收纳架](http://search.jd.com/Search?keyword=厨房收纳架&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=9001579abf314e9ab8667f6f2a2391a3-p_276666007&abt=3)
@@ -167,21 +169,29 @@ tags: [购物,生活物品]
     - [防滑衣架](http://search.jd.com/Search?keyword=防滑衣架&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=0dfdc9ccc84f49808754b428a1358c2f-p_276666007&abt=3)
     - [洗护袋](http://search.jd.com/Search?keyword=洗护袋&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=2fd88217a1fd473b9c40076c42af7d60-p_276666007&abt=3)
     - [晒衣架](http://search.jd.com/Search?keyword=晒衣架&enc=utf-8&cu=true&utm_source=ads.union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=77bdb78da1fe4051a183df417a52335a-p_276666007&abt=3)
-- [出差出行]()
-	- [行李箱]()
-	- [MUJI U型枕]()
-	- [MUJI 分装容器系列]()
-	- [360 WIFI]()
-	- [3M 口罩]()
-	- [U 盘]()
-	- [保温杯]()
-	- [降噪耳机]()
-	- [充电宝]()
-	- [剃须刀]()
-	- [雨伞]()
-	- [眼罩]()
+	- [包邮8*150mm可松式尼龙带结束环保阻燃可反复使用束线扎带100根足]()
+	- [电线收纳集线管电脑束线管开口包线管缠绕管理线器理线管电源防咬]()
+- [出差出行](http://search.jd.com/Search?keyword=%E5%87%BA%E5%B7%AE%E5%87%BA%E8%A1%8C&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=196fb8e34efa47a4b2a77fce572cb97d-p_669693165&abt=3)
+	- [行李箱](http://search.jd.com/Search?keyword=%E8%A1%8C%E6%9D%8E%E7%AE%B1&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=6e3c0a1c33fe4dcda5c94ab47b152ead-p_669693165&abt=3)
+	- [MUJI U型枕](http://search.jd.com/Search?keyword=MUJI%20U%E5%9E%8B%E6%9E%95&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=692995bda5a64078a869cd3a848d1799-p_669693165&abt=3)
+	- [MUJI 分装容器系列](http://search.jd.com/Search?keyword=MUJI%20%E5%88%86%E8%A3%85%E5%AE%B9%E5%99%A8%E7%B3%BB%E5%88%97&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=4cbe43c9939e4c0abd32eb5dd6d74604-p_669693165&abt=3)
+	- [360 WIFI](http://search.jd.com/Search?keyword=360%20WIFI&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=fc73bcc1df094530aace2beede824819-p_669693165&abt=3)
+	- [3M 口罩](http://search.jd.com/Search?keyword=3M%20%E5%8F%A3%E7%BD%A9&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=9eadf4cdc44e4f7797729faeb87c7ee9-p_669693165&abt=3)
+	- [U 盘](http://search.jd.com/Search?keyword=U%20%E7%9B%98&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=f574cbd30eda477084c7556308b44f66-p_669693165&abt=3)
+	- [保温杯](http://search.jd.com/Search?keyword=%E4%BF%9D%E6%B8%A9%E6%9D%AF&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=c3d5fa4efd8c45b0879cc3a08428e39e-p_669693165&abt=3)
+	- [降噪耳机](http://search.jd.com/Search?keyword=%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=bf3edd298cb64ef391fe146a47f3f90f-p_669693165&abt=3)
+	- [充电宝](http://search.jd.com/Search?keyword=%E5%85%85%E7%94%B5%E5%AE%9D&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=59e78c7e061e4e3691a4959d9330a4c9-p_669693165&abt=3)
+	- [剃须刀](http://search.jd.com/Search?keyword=%E5%89%83%E9%A1%BB%E5%88%80&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=89d5e769ec284136ba320cda69188cfb-p_669693165&abt=3)
+	- [雨伞](http://search.jd.com/Search?keyword=%E9%9B%A8%E4%BC%9E&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=e06575541f1540f3bc78c7e2060f7c32-p_669693165&abt=3)
+	- [眼罩](http://search.jd.com/Search?keyword=%E7%9C%BC%E7%BD%A9&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=1d2f78c06fa7402d9c7f1a93f7afc9f0-p_669693165&abt=3)
 
+## 汽车用品
 
+- [车志酷车载充气泵汽车用打气泵12V小轿车电动便携式轮胎加打气筒](http://search.jd.com/Search?keyword=%E8%BD%A6%E5%BF%97%E9%85%B7%E8%BD%A6%E8%BD%BD%E5%85%85%E6%B0%94%E6%B3%B5%E6%B1%BD%E8%BD%A6%E7%94%A8%E6%89%93%E6%B0%94%E6%B3%B512V%E5%B0%8F%E8%BD%BF%E8%BD%A6%E7%94%B5%E5%8A%A8%E4%BE%BF%E6%90%BA%E5%BC%8F%E8%BD%AE%E8%83%8E%E5%8A%A0%E6%89%93%E6%B0%94%E7%AD%92&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=625319d350e04ef896f0dccf0fa7d7b5-p_669693165&abt=3)
+- [全自动遥控汽车车罩车衣套](http://search.jd.com/Search?keyword=%E5%85%A8%E8%87%AA%E5%8A%A8%E9%81%A5%E6%8E%A7%E6%B1%BD%E8%BD%A6%E8%BD%A6%E7%BD%A9%E8%BD%A6%E8%A1%A3%E5%A5%97&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=64871690f88941ebbc9a520df648086d-p_669693165&abt=3)
+- [汽车腰靠车用腰靠垫靠背腰枕座椅护腰透气四夏季支撑办公记忆棉](http://search.jd.com/Search?keyword=%E6%B1%BD%E8%BD%A6%E8%85%B0%E9%9D%A0%E8%BD%A6%E7%94%A8%E8%85%B0%E9%9D%A0%E5%9E%AB%E9%9D%A0%E8%83%8C%E8%85%B0%E6%9E%95%E5%BA%A7%E6%A4%85%E6%8A%A4%E8%85%B0%E9%80%8F%E6%B0%94%E5%9B%9B%E5%A4%8F%E5%AD%A3%E6%94%AF%E6%92%91%E5%8A%9E%E5%85%AC%E8%AE%B0%E5%BF%86%E6%A3%89&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=2aef3d23a42f4b64a99b57076445f459-p_669693165&abt=3)
+- [米其林胎压表 汽车轮胎气压表 高精度数显胎压计气压计 胎纹测量](http://search.jd.com/Search?keyword=%E7%B1%B3%E5%85%B6%E6%9E%97%E8%83%8E%E5%8E%8B%E8%A1%A8&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=9139a5297f0f4a559b48dacb10c1700d-p_669693165&abt=3)
+- [汽车装饰 暂时停车告示牌留言卡停靠牌临时停车牌 临时电话停车卡](http://search.jd.com/Search?keyword=%E6%B1%BD%E8%BD%A6%E8%A3%85%E9%A5%B0%20%E6%9A%82%E6%97%B6%E5%81%9C%E8%BD%A6%E5%91%8A%E7%A4%BA%E7%89%8C%E7%95%99%E8%A8%80%E5%8D%A1%E5%81%9C%E9%9D%A0%E7%89%8C%E4%B8%B4%E6%97%B6%E5%81%9C%E8%BD%A6%E7%89%8C%20%E4%B8%B4%E6%97%B6%E7%94%B5%E8%AF%9D%E5%81%9C%E8%BD%A6%E5%8D%A1&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=c253d3ff14214da6aa71663e9257cd9c-p_669693165&abt=3)
 
 ## 结束语
 
