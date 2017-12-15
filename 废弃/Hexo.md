@@ -1,14 +1,3 @@
----
-title: 使用 Github 空间搭建 Hexo 技术博客--安装篇（基于 IntelliJ IDEA）
-date: 2016-02-28 17:58:27
-description: "本文将讲解基于 IntelliJ IDEA 如何使用 IDE 搭建 Hexo 博客、写博客！"
-categories: [Hexo,IntelliJ IDEA]
-tags: [Hexo,IntelliJ IDEA,Git,Github,Node.js]
----
-
-
-<!-- more -->
-
 
 ## 部署前介绍 
 
@@ -91,7 +80,8 @@ tags: [Hexo,IntelliJ IDEA,Git,Github,Node.js]
 - 双击运行 **Git-2.7.0.2-64-bit.exe**，接下来一律下一步，不需要多余的选择，假设你安装的目录位置跟我一样：C:\Program Files\Git
 - 打开 Git Bash（路径：C:\Program Files\Git\git-bash.exe），输入：`git --version`
     - 如下图，如果出现：**git version 2.7.0.windows.2**，这表示安装成功
-    - ![验证 git 安装](http://img.youmeek.com/2016/hexo-start-a-1.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-a-1.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-a-1.jpg" alt="验证 git 安装"></a>
 
 
 ### Node.js 安装
@@ -99,7 +89,8 @@ tags: [Hexo,IntelliJ IDEA,Git,Github,Node.js]
 - 双击运行 **node-v5.7.0-x64.msi**，接下来一律下一步，不需要多余的选择。
 - 安装完之后，打开 Git Bash，输入：`npm -v`
     - 如下图，如果出现：**3.6.0**，则表示 Node.js 安装成功。如果你没有显示这个信息，我怀疑你需要重启电脑试试看，因为我在给我弟讲解这一步的时候发现有这个问题。
-    - ![验证 node.js 安装](http://img.youmeek.com/2016/hexo-start-a-2.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-a-2.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-a-2.jpg" alt="验证 node.js 安装"></a>
 
 
 ### Node.js 源设置
@@ -131,15 +122,19 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
 
 - 现在假设我要创建一个名为 hexo 的项目，项目目录就放在：E:\git_work_space 目录下，所以我们在 E:\git_work_space 目录下创建一个 hexo 目录。现在这个项目的全路径是：E:\git_work_space\hexo
 - 打开 Git Bash：
-    - 进入该目录：`cd e:/git_work_space/hexo`
-    - 然后执行：`hexo init`，这个时间也会比较长，也有可能要等几分钟，有显示 WARN 也不用管
-    - 最后执行：`cnpm install`，有显示 WARN 也不用管
-    - 安装完成之后，E:\git_work_space\hexo 目录结构是这样的：
-        - ![安装 hexo 后的目录结构](http://img.youmeek.com/2016/hexo-start-b-1.jpg)
-    - 现在我们启动 hexo 本地服务，看下默认的博客是怎样的，命令：`hexo server`
-    - 现在用浏览器访问：<http://localhost:4000/>，效果如下图
-        - ![默认模板效果](http://img.youmeek.com/2016/hexo-start-b-2.jpg)
-    - 如果要停止 hexo 服务：在 Git Bash 下按 `Ctrl + C` 即可
+- 进入该目录：`cd e:/git_work_space/hexo`
+- 然后执行：`hexo init`，这个时间也会比较长，也有可能要等几分钟，有显示 WARN 也不用管
+- 最后执行：`cnpm install`，有显示 WARN 也不用管
+- 安装完成之后，E:\git_work_space\hexo 目录结构是这样的：
+
+<a href="http://img.youmeek.com/2016/hexo-start-b-1.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-b-1.jpg" alt="安装 hexo 后的目录结构"></a>
+
+- 现在我们启动 hexo 本地服务，看下默认的博客是怎样的，命令：`hexo server`
+- 现在用浏览器访问：<http://localhost:4000/>，效果如下图
+
+<a href="http://img.youmeek.com/2016/hexo-start-b-2.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-b-2.jpg" alt="默认模板效果"></a>
+
+- 如果要停止 hexo 服务：在 Git Bash 下按 `Ctrl + C` 即可
 
 
 ### 选用其他主题
@@ -158,32 +153,40 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
         - `cd e:/git_work_space/hexo/themes/yelee`
         - `git pull origin master`
 - 下载好主题文件之后，我们现在要修改 E:\git_work_space\hexo 目录下的项目配置文件：**\_config.yml**，把对应的主题目录名改下，编辑如下图。
-    - ![修改主题目录](http://img.youmeek.com/2016/hexo-start-b-3.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-b-3.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-b-3.jpg" alt="修改主题目录"></a>
+
 - 更改主题目录名后，我们还要重新生成主题静态内容：
     - 继续在 Git Bash 中输入命令：
         - 重新生成静态博客的所有内容：`hexo generate`
         - 重启 hexo 本地服务：`hexo server`
         - 重新访问：<http://localhost:4000/>，效果如下图
-        - ![新主题效果](http://img.youmeek.com/2016/hexo-start-b-4.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-b-4.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-b-4.jpg" alt="新主题效果"></a>
 
 
 ### 创建 Github pages 并 SSH 授权
 
 - 现在假设你已经有一个 Gtihub 账号，你还需要一个特别的仓库，特别在仓库名就是你的 Github 账号登录名，比如我的用户名是：judasn，那我要创建的仓库名字完整滴填写是：judasn.github.io，具体效果如下图。
-    - ![创建 github pages](http://img.youmeek.com/2016/hexo-start-c-1.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-c-1.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-c-1.jpg" alt="创建 github pages"></a>
+
 - 创建好仓库之后，要本地生成 SSH 秘钥，方便电脑上的 git 软件好提交内容到 Github 上
-    - 在 Git Bash 中，输入：`ssh-keygen -t rsa -C "你的邮箱地址"`，然后回车，回车，再回车，一共 3 次回车，具体含义自己 Google。
-    - 比如我的：`ssh-keygen -t rsa -C "jn3.141592654@gmail.com"`，生成后效果如下图：
-    - ![生成 ssh 密钥](http://img.youmeek.com/2016/hexo-start-c-2.jpg)
-    - 此时，生成密钥后，在你电脑目录：C:\Users\你的计算机用户名\\.ssh 下，会生成两个文件：
-        - 私钥：**id_rsa**
-        - 公钥：**id_rsa.pub**
-        - 如果生成的不是这样的文件，那删除掉这两个生成的，重新执行上面的命令，让它再一次生成。
-    - 现在用记事本打开 id_rsa.pub，复制文件中的所有内容。
-        - 访问：<https://github.com/settings/ssh>，添加新秘钥，效果如下图
-            - Title：自己随便取
-            - Key：把刚刚复制的都粘贴进来
-            - ![添加密钥](http://img.youmeek.com/2016/hexo-start-c-3.jpg)
+- 在 Git Bash 中，输入：`ssh-keygen -t rsa -C "你的邮箱地址"`，然后回车，回车，再回车，一共 3 次回车，具体含义自己 Google。
+- 比如我的：`ssh-keygen -t rsa -C "jn3.141592654@gmail.com"`，生成后效果如下图：
+
+<a href="http://img.youmeek.com/2016/hexo-start-c-2.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-c-2.jpg" alt="生成 ssh 密钥"></a>
+
+- 此时，生成密钥后，在你电脑目录：C:\Users\你的计算机用户名\\.ssh 下，会生成两个文件：
+    - 私钥：**id_rsa**
+    - 公钥：**id_rsa.pub**
+    - 如果生成的不是这样的文件，那删除掉这两个生成的，重新执行上面的命令，让它再一次生成。
+- 现在用记事本打开 id_rsa.pub，复制文件中的所有内容。
+    - 访问：<https://github.com/settings/ssh>，添加新秘钥，效果如下图
+        - Title：自己随便取
+        - Key：把刚刚复制的都粘贴进来
+
+<a href="http://img.youmeek.com/2016/hexo-start-c-3.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-c-3.jpg" alt="添加密钥"></a>
 
 
 ### 把本地的博客内容同步到 Github 上
@@ -286,13 +289,19 @@ deploy:
         - `git config --global user.email "你的 Github 注册邮箱地址"`
         - `git config --global user.name "你的 Github 用户名"`
     - 使用部署命令部署到 Github 上：`hexo deploy`，有弹出下面提示框，请输入：`yes`
-        - ![确认提交](http://img.youmeek.com/2016/hexo-start-d-1.jpg)
-    - 提交成功效果如下：
-        - ![提交成功](http://img.youmeek.com/2016/hexo-start-d-2.jpg)
-    - 访问服务器地址进行检查：<http://judasn.github.io>，效果如下
-        - ![服务器效果](http://img.youmeek.com/2016/hexo-start-d-3.jpg)
-    - 但是，也不排除你 deploy 不了到 Github，报这个错误：`Host key verification failed`（这种情况在迁移到其他电脑的时候很常见），那解决办法如下：
-        - 还是在 Git Bash 界面中，输入如下命令：`ssh -T git@github.com`，根据界面提示，输入：`yes` 回车。之后你可以再试一下是否可以 deploy。
+
+<a href="http://img.youmeek.com/2016/hexo-start-d-1.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-d-1.jpg" alt="确认提交"></a>
+
+- 提交成功效果如下：
+
+<a href="http://img.youmeek.com/2016/hexo-start-d-2.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-d-2.jpg" alt="提交成功"></a>
+
+- 访问服务器地址进行检查：<http://judasn.github.io>，效果如下
+
+<a href="http://img.youmeek.com/2016/hexo-start-d-3.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-d-3.jpg" alt="服务器效果"></a>
+
+- 但是，也不排除你 deploy 不了到 Github，报这个错误：`Host key verification failed`（这种情况在迁移到其他电脑的时候很常见），那解决办法如下：
+    - 还是在 Git Bash 界面中，输入如下命令：`ssh -T git@github.com`，根据界面提示，输入：`yes` 回车。之后你可以再试一下是否可以 deploy。
 - 通过上面几次流程我们也就可以总结：以后，每次发表新文章要部署都按这样的流程来：
     - `hexo clean`
     - `hexo generate`
@@ -302,7 +311,7 @@ deploy:
     - `hexo g == hexo generate`
     - `hexo s == hexo server`
     - `hexo d == hexo deploy`
-
+- 你也可以连着写：` hexo clean && hexo g && hexo d`
 
 ### 绑定域名
 
@@ -314,17 +323,23 @@ deploy:
     - <https://help.github.com/articles/custom-domain-redirects-for-github-pages-sites/>
 - 首先我们要一个 CNAME 文件（文件名叫 CNAME，没有文件后缀的），把该文件放在 E:\git_work_space\hexo\source 目录下，以后一些需要放在根目录的资源文件都可以放这里。如果你找不到这样的文件可以到我的项目上下载：<https://github.com/judasn/judasn.github.io>
     - CNAME 上的内容需要写你具体要绑定的域名信息，比如我是：**code.youmeek.com**，具体你可以参考下图：
-        - ![设置 CNAME 文件](http://img.youmeek.com/2016/hexo-start-e-1.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-e-1.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-e-1.jpg" alt="设置 CNAME 文件"></a>
+
 - 接着我们需要到 DNSPOD 上设置域名解析：<https://www.dnspod.cn/>
-    - ![设置域名解析](http://img.youmeek.com/2016/hexo-start-e-2.jpg)
-    - ![设置域名解析](http://img.youmeek.com/2016/hexo-start-e-3.jpg)
-- 设置好之后，等过几分钟域名解析好之后，我们访问：<http://code.youmeek.com>，效果如下：    
-    - ![域名访问效果](http://img.youmeek.com/2016/hexo-start-e-4.jpg)
-	- 2016-08-19 更新：Github 提示，建议我们使用 CNAME 方式来指向，别用 IP，所以建议你这样配置，还是以我的为例：
-		- 主机记录：code
-		- 记录类型：CNAME
-		- 记录值：judasn.github.io.（后面的这个点别忘记了）
-		- 还有，要记得把 CNAME 那个文件再 deploy 到 Github 哦，不然还是访问不了的。
+
+<a href="http://img.youmeek.com/2016/hexo-start-e-2.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-e-2.jpg" alt="设置域名解析"></a>
+<a href="http://img.youmeek.com/2016/hexo-start-e-3.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-e-3.jpg" alt="设置域名解析"></a>
+
+- 设置好之后，等过几分钟域名解析好之后，我们访问：<http://code.youmeek.com>，效果如下：
+
+<a href="http://img.youmeek.com/2016/hexo-start-e-4.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-e-4.jpg" alt="域名访问效果"></a>
+
+- 2016-08-19 更新：Github 提示，建议我们使用 CNAME 方式来指向，别用 IP，所以建议你这样配置，还是以我的为例：
+	- 主机记录：code
+	- 记录类型：CNAME
+	- 记录值：judasn.github.io.（后面的这个点别忘记了）
+	- 还有，要记得把 CNAME 那个文件再 deploy 到 Github 哦，不然还是访问不了的。
 
 ### 整合 IntelliJ IDEA 提高效率
 
@@ -334,12 +349,18 @@ deploy:
     - 对 JavaScript、CSS、HTML 等常见语言的良好支持，方便你修改你的主题
 - 如果你还不会使用 IntelliJ IDEA 或是 JetBrains 家其他产品，你可以看下我写一整套教程：<http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/>
 - 现在我们用 IntelliJ IDEA 打开我们本地目录：E:\git_work_space\hexo，打开后效果如下图：
-    - ![IntelliJ IDEA 打开项目](http://img.youmeek.com/2016/hexo-start-f-1.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-f-1.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-f-1.jpg" alt="IntelliJ IDEA 打开项目"></a>
+
 - 由于 IntelliJ IDEA 在 Windows 下的默认终端是 `cmd` 不好用，我们现在需要重新修改下 IntelliJ IDEA 的终端工具，把它指向我们习惯的 Git Bash，这样方便操作，如下图 gif 演示。
-    - ![IntelliJ IDEA 下操作 hexo](http://img.youmeek.com/2016/hexo-start-f-2.gif)
-    - 如 gif 演示，我们可以 IntelliJ IDEA 里面安心写文章、做发布等操作。
+
+<a href="http://img.youmeek.com/2016/hexo-start-f-2.gif" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-f-2.gif" alt="IntelliJ IDEA 下操作 hexo"></a>
+
+- 如 gif 演示，我们可以 IntelliJ IDEA 里面安心写文章、做发布等操作。
 - 为了更稳定地使用 IntelliJ IDEA，在不修改主题的情况下，我们还需要这样做：
-    - ![IntelliJ IDEA 下操作 hexo](http://img.youmeek.com/2016/hexo-start-f-3.jpg)
+
+<a href="http://img.youmeek.com/2016/hexo-start-f-3.jpg" class="foobox"><img src="http://img.youmeek.com/2016/hexo-start-f-3.jpg" alt="IntelliJ IDEA 下操作 hexo"></a>
+
 - hexo 新文章内容的开头需要这样定义：
     - categories：表示文章所属分类
     - tags：表示文章所属标签
