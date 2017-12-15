@@ -125,7 +125,7 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
 - 安装 Hexo（注意，现在是 cnpm 开头了，不是 npm 了）：`cnpm install -g hexo-cli`
     - 安装时间不一定很快，有可能需要等 3 ~ 5 分钟。
     - 安装过程中有 WARN 警告也没关系的，不用在意这些 WARN，继续等它安装完成。因为国内的网络问题，有时候安装异常慢花了大半个小时都没效果，那就 Ctrl + C 停掉这次命令，重新再执行一次。
-
+- 如果需要卸载可以执行：`npm uninstall -g hexo-cli`
 
 ### 创建 Hexo 项目
 
