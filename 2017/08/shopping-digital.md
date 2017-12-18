@@ -1,227 +1,151 @@
 ---
-title: YouMeek个人购物指南系列（数码篇）
+title: 2017 年双十一购物指南系列（数码篇）
 date: 2017-08-15 21:29:01
 description: "守护好钱包"
 categories: [生活]
 tags: [生活]
 ---
 
-
-<!-- more -->
-
-
-![2016年双十一购物指南系列（数码篇）](http://img.youmeek.com/2016/20161111-digital.gif "2016年双十一购物指南系列（数码篇）")](http://img.youmeek.com/2016/20161111-digital.gif)
-
-
 ## 数码
 
 - 买数码产品我基本都在京东，基本可以当天到或是隔天到，退换货也方便，其他没啥原因。
+- 由于时间比较敢，后面几天还会不断地完善，包括优惠信息的地址。
 
 ### 手机
 
-- 如果你用 Mac，那你应该用 iPhone，两者有一些软件可以同步的。iOS 系统以前最让我受不了的就是垃圾电话了，iOS 开放了对应接口，所以 360 和腾讯管家都支持识别了，所以目前没啥好反感的。
-- iPhone 7 没用过，iPhone 6S 有用过，但是对苹果的品控还是有信心的。
-- iPhone 7 亮黑色线上基本也很难买到，经常没货。
-- iPhone 基本没啥促销的，只有优惠券：[手机专题活动](https://sale.jd.com/act/nQAd3alKxi4kF.html)，
-- [iPhone 7](http://search.jd.com/Search?keyword=iPhone%207&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=ae7eebc700e945d5911afa43216e7589-p_276666007&amp;abt=3)
-- [iPhone 7 plus](http://search.jd.com/Search?keyword=iPhone%207%20plus&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=ae1dc24c77f14e6fab07ba6cde7fbbac-p_276666007&amp;abt=3)
-- [iPhone 6S](http://search.jd.com/Search?keyword=iPhone%206S&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=ef874a894a9e4795bbb147e1fd6262b6-p_276666007&amp;abt=3#keyword=iPhone%206S&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;bs=1&amp;ev=exbrand_Apple%40&amp;wtype=1&amp;click=1)
-- [iPhone 6S plus](http://search.jd.com/Search?keyword=iPhone%206S%20plus&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=e6f62e8920eb40edb524fdbe1e611d01-p_276666007&amp;abt=3)
-- 其他，Android 市场瞬息万变，我已经不再了解了，没法推荐，但是如果让我现在再去买，我会这样筛选：价格低于 2000。
+- iPhone X 线上基本都没货，所以只能官网订，没啥好说了。
+- iPhone 8 现在的价格算是合适的，所以不考虑 X 就直接 8 吧。没必要买早期版本。
+- [iPhone 7](http://search.jd.com/Search?keyword=iPhone%207&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=c89ade36e48b4374a7852850f39e0dc4-p_669693165&abt=3)
+- [iPhone 7 plus](http://search.jd.com/Search?keyword=iPhone%207%20plus&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=70862429d0b04ce99539d4d5621a465e-p_669693165&abt=3)
+- 不用 Android 很久了，不知道市场怎样。但是如果再让我买应该会买小米。
+
 
 ### 移动硬盘 / U盘
 
-- 不管是移动硬盘还是U盘，基本作为现代人多少要有的
-- 移动硬盘我买的是这个：
-	- [西部数据 My Passport Ultra](http://search.jd.com/Search?keyword=%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%20My%20Passport%20Ultra&amp;enc=utf-8&amp;cu=true&amp;utm_source=union.click.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=3b90e9e0c4c7461aadb7a70accc506d0-p_276666007&amp;abt=3)
-	- 还可以推荐（没用过，但是会考虑）：
-	- [希捷 Expansion](http://search.jd.com/Search?keyword=%E5%B8%8C%E6%8D%B7%20Expansion&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=e1870e9c5b9f4c99a9eab1ec2ab96f7a-p_276666007&amp;abt=3)
-- U 盘我不喜欢太小
-	- [金士顿（Kingston）DT 100G3 32GB](http://search.jd.com/Search?keyword=%E9%87%91%E5%A3%AB%E9%A1%BF%EF%BC%88Kingston%EF%BC%89DT%20100G3%2032GB&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=4a659f2423174349af2ca8a4d9129b06-p_276666007&amp;abt=3)
-	- [闪迪（SanDisk） 酷悠（CZ600） 32GB](http://search.jd.com/Search?keyword=%E9%97%AA%E8%BF%AA%EF%BC%88SanDisk%EF%BC%89%20%E9%85%B7%E6%82%A0%EF%BC%88CZ600%EF%BC%89%2032GB&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=99282ad4b5404013b567c4adc297616f-p_276666007&amp;abt=3)
+- 移动硬盘我觉得 1T 够了，U 盘 32G 对我来讲也够了。重点在于至少也得 USB3.0
+- [西部数据（WD） Elements 新元素系列 2.5英寸 USB3.0](http://search.jd.com/Search?keyword=%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%EF%BC%88WD%EF%BC%89%20Elements%20%E6%96%B0%E5%85%83%E7%B4%A0%E7%B3%BB%E5%88%97%202.5%E8%8B%B1%E5%AF%B8%20USB3.0&enc=utf-8&wq=iPhone%207%20plus&pvid=6e8f70ca0b39469aa2bc76d8bf614108)
+- [金士顿（Kingston）DT 100G3 32GB](http://search.jd.com/Search?keyword=%E9%87%91%E5%A3%AB%E9%A1%BF%EF%BC%88Kingston%EF%BC%89DT%20100G3%2032GB&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=6f5627b7e326461c9eb9f19d5b7798fa-p_669693165&abt=3)
 
 ### 移动电源
 
-- 又一个现代人必备良品╮(￣▽￣)╭
 - 飞机允许的最大值是 20000 毫安，所以要注意。
-- [ROMOSS sense4](http://search.jd.com/Search?keyword=ROMOSS%20sense4&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=d4708e11735c40e6ad82a5267ab830b9-p_276666007&amp;abt=3)
-- [ROMOSS sense6Plus](http://search.jd.com/Search?keyword=ROMOSS%20sense6Plus&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=41ce0c9e08c64f9692ed5048b6c4c8a5-p_276666007&amp;abt=3)
+- [ROMOSS sense4](http://search.jd.com/Search?keyword=ROMOSS%20sense4&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=ae6035e22ec048c5b226d1302a8413c6-p_669693165&abt=3)
+- [ROMOSS sense6Plus](http://search.jd.com/Search?keyword=ROMOSS%20sense6Plus&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=b5178fe4ac294f95a21f69f0638674f0-p_669693165&abt=3)
+
 
 ### 键盘
 
 - 机械键盘
-	- 我目前用的是下面这个：
-	- [Cherry G80-3494 青轴](http://search.jd.com/Search?keyword=Cherry%20G80-3494&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=e7d8248a89154fa6a6b76e36424c61c9-p_276666007&amp;abt=3)
-	- [Cherry MX-BOARD 3.0 G80-3850 茶轴](http://search.jd.com/Search?keyword=Cherry%20MX-BOARD%203.0%20G80-3850&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=ae29f98f4cd646ca8929b86b825ffc7e-p_276666007&amp;abt=3)
-	- [ikbc c104 茶轴](http://search.jd.com/Search?keyword=ikbc%20c104%20%E8%8C%B6%E8%BD%B4&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=46fa252e5828409ea765cb789aeab34b-p_276666007&amp;abt=3)
-	- 还可以推荐（没用过，但是会考虑）：
-	- [Cherry MX Board 6.0 G80-3930 青轴](http://search.jd.com/Search?keyword=Cherry%20MX%20Board%206.0%20G80-3930%20%E9%9D%92%E8%BD%B4&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=08a55b4c49344260ae540671ecc9cd3b-p_276666007&amp;abt=3)
-	- 入门的我觉得 ikbc 还不错。
+	- [ikbc F-87 RGB 幻彩背光机械键盘 87键原厂Cherry轴 黑色 茶轴](http://search.jd.com/Search?keyword=ikbc%20F-87%20RGB%20%E5%B9%BB%E5%BD%A9%E8%83%8C%E5%85%89%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98%2087%E9%94%AE%E5%8E%9F%E5%8E%82Cherry%E8%BD%B4%20%E9%BB%91%E8%89%B2%20%E8%8C%B6%E8%BD%B4&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=1daade4489fe4244883dec7e53feda4d-p_669693165&abt=3)
+	- [斐尔可（FILCO） FKBN87M/EWG2「87圣手二代」机械键盘 奶白色绿键帽 茶轴](http://search.jd.com/Search?keyword=%E6%96%90%E5%B0%94%E5%8F%AF%EF%BC%88FILCO%EF%BC%89%20FKBN87M/EWG2%E3%80%8C87%E5%9C%A3%E6%89%8B%E4%BA%8C%E4%BB%A3%E3%80%8D%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98%20%E5%A5%B6%E7%99%BD%E8%89%B2%E7%BB%BF%E9%94%AE%E5%B8%BD%20%E8%8C%B6%E8%BD%B4&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=c2574cb8adc1455b9b38b2c82eed17d9-p_669693165&abt=3)
 - 移动键盘
-	- 我用的是这款折叠键盘，有时候出门需要打字的话用：
-    - [航世 HB066 折叠蓝牙键盘，手机专享价便宜很多](http://search.jd.com/Search?keyword=%E8%88%AA%E4%B8%96%20HB066%20%E6%8A%98%E5%8F%A0%E8%93%9D%E7%89%99%E9%94%AE%E7%9B%98&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=25e8ec625da64ce0be330ebf4732b103-p_276666007&amp;abt=3)
+	- [航世 HB066 折叠蓝牙键盘，手机专享价便宜很多](http://search.jd.com/Search?keyword=%E8%88%AA%E4%B8%96%20HB066%20%E6%8A%98%E5%8F%A0%E8%93%9D%E7%89%99%E9%94%AE%E7%9B%98&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=63a8e6ba9f554afa994c5bb31ad7d1c0-p_669693165&abt=3)
 
 ### 鼠标 / 鼠标垫
 
-- 有线鼠标
-	- 家里和公司统一都用一个形状的鼠标，不然手玩不过来
-	- [Razer 炼狱蝰蛇 DeathAdder](http://search.jd.com/Search?keyword=Razer%20%E7%82%BC%E7%8B%B1%E8%9D%B0%E8%9B%87%20DeathAdder&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=3478f1fc25dd4c0987cb8bf57aa81848-p_276666007&amp;abt=3)
+- 有线鼠标（不用了）
 - 无线鼠标
-	- 我很少用，好的牌子我觉得贵得不划算，但是也有一个这个，出门方便用的：
-	- [Logitech M275](http://search.jd.com/Search?keyword=Logitech%20M275&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=bd24676cc0114b6b9c9ff3846bc3c85b-p_276666007&amp;abt=3)
-	- 还可以推荐（没用过，但是会考虑）：
-	- [Logitech G602](http://search.jd.com/Search?keyword=Logitech%20G602&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=18bd19edd23241eaa5cf9ec6024fa63c-p_276666007&amp;abt=3)
+	- [Logitech M275](http://search.jd.com/Search?keyword=Logitech%20M275&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=2f74d17fa76b429a9cd30fef2edcd142-p_669693165&abt=3)
+	- [Logitech G602](http://search.jd.com/Search?keyword=Logitech%20G602&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=704b9eb39daa4acca9a4c49428010399-p_669693165&abt=3)
 - 鼠标垫
-	- 鼠标垫就喜欢厚一点，不要太光面
-	- [鼠标垫 5mm](http://search.jd.com/Search?keyword=%E9%BC%A0%E6%A0%87%E5%9E%AB%205mm&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=ec418100a67247618332e8afdeaa8c0c-p_276666007&amp;abt=3)
+    - [鼠标垫 5mm](http://search.jd.com/Search?keyword=%E9%BC%A0%E6%A0%87%E5%9E%AB%205mm&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=00a190c9642a41ed823acfe81ee97572-p_669693165&abt=3)
+
 
 ### 笔记本
 
-- 主要根据你想要的系统来，如果是 macOS 的话：
-	- [Apple MacBook Pro 15.4，16G内存才够用](http://search.jd.com/Search?keyword=Apple%20MacBook%20Pro%2015.4&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=66e1884ec2854cbaabdd4e6fb6bbab80-p_276666007&amp;abt=3)
-	- [Apple MacBook 12英寸笔记本电脑](http://search.jd.com/Search?keyword=Apple%20MacBook%2012%E8%8B%B1%E5%AF%B8%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=1529f770379e4964bd0a25595596fd16-p_276666007&amp;abt=3)
+- 笔记本只建议买 Mac。Windows 非常适合台式机
+- [Apple MacBook Pro 15.4，16G内存才够用](http://search.jd.com/Search?keyword=Apple%20MacBook%20Pro%2015.4&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=0abd2ee366dd40a89d4037fc3bd84279-p_669693165&abt=3)
+
 
 ### PC 主机核心配置
 
-- 新的一年有新的配置升级，所以这里贴一下新的：
-    - [CPU：Intel Core i7-7700K，Skylake 平台，LGA1151 接口](http://search.jd.com/Search?keyword=Intel%20%20i7-7700K&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads-union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=bcc7bc4476ff42cda3f0dfa197ba9bae-p_276666007&amp;abt=3)
-    - [主板：技嘉 Z270X-UD3](http://search.jd.com/Search?keyword=技嘉%20Z270X-UD3&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads-union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=f9c3a06bc407470197eefc142219b23a-p_276666007&amp;abt=3)
-    - [内存：金士顿 Fury DDR4 2400 16G](http://search.jd.com/Search?keyword=金士顿%20Fury%20DDR4%202400%2016G&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads-union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=347ab8053df740228c8d7fb4212058f9-p_276666007&amp;abt=3)
-    - [SSD：英特尔 600P 256G M.2](http://search.jd.com/Search?keyword=英特尔%20600P%20256G%20M.2&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads-union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=34d3d290043b4d32b3f9d3abbe28c14b-p_276666007&amp;abt=3)
-	- 主要目标：
-    - 额外支持黑苹果（台式机 1000% 是支持 Windows），所以我这里直接推荐的是全球最大黑苹果社区推荐的配置：[CustoMac_Budget_ATX，也就是常规 ATX 主板，不是紧凑主板](https://www.tonymacx86.com/buyersguide/october/2016#CustoMac_Budget_ATX)
+- 主要目标：
+    - 额外支持黑苹果（台式机 1000% 是支持 Windows），所以我这里直接推荐的是全球最大黑苹果社区推荐的配置：[CustoMac_Budget_ATX，也就是常规 ATX 主板，也可以是 mATX 类型的主板]()
     - 下面的配置清单是为了中高配用户准备的（作为开发者要对自己狠一点），所以预算会在 8000 以上。
-- CPU：
-    - Intel 是合适的，虽然也有人搞 AMD 的，但是还是别费事。首推的是 Skylake 平台，下面由贵到便宜排序，这些支持都支持下面推荐的主板。
-    - [Intel Core i7-6700K，Skylake 平台，LGA1151 接口](http://search.jd.com/Search?keyword=Intel%20i7%206700K&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=eded7f14232b448a907799017fd12c2a-p_276666007&amp;abt=3)
-    - [Intel Core i7-6700，Skylake 平台，LGA1151 接口](http://search.jd.com/Search?keyword=Intel%20i7%206700&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=894b829aa9d64732af39155de38a95f6-p_276666007&amp;abt=3)
-    - [Intel Core i5-6600K，Skylake 平台，LGA1151 接口](http://search.jd.com/Search?keyword=Intel%20i5%206600k&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=f6eaccf1378e45b2b56b30f4e3bfe8c9-p_276666007&amp;abt=3)
-    - [Intel Core i5-6600，Skylake 平台，LGA1151 接口](http://search.jd.com/Search?keyword=Intel%20i5%206600&amp;enc=utf-8&amp;cu=true&amp;utm_source=union.click.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=3ff46a4a8efa48a08d34f8d95124d7e5-p_276666007&amp;abt=3)
-    - [Intel Core i5-6500，Skylake 平台，LGA1151 接口](http://search.jd.com/Search?keyword=Intel%20i5%206500&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=65bbae09f47d446b8875c051ab84412f-p_276666007&amp;abt=3)
-- 主板：
-    - tonymacx 主推的是：Gigabyte，ASUS，MSI，ASRock，我只推荐 Gigabyte（技嘉）
-    - [Gigabyte GA-Z170X-Gaming 7](http://search.jd.com/Search?keyword=Gigabyte%20Z170X%20Gaming%207&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=636cf20c87c548669c29fd35ff17e4e9-p_276666007&amp;abt=3)
-    - [Gigabyte GA-Z170X-Gaming 5](http://search.jd.com/Search?keyword=Gigabyte%20Z170X%20Gaming%205&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=2bcc75e9a75e4e48900bd78476b7a092-p_276666007&amp;abt=3)
-    - [Gigabyte GA-Z170X-UD5](http://search.jd.com/Search?keyword=Gigabyte%20Z170X%20UD5&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=9a0a780c32b7403287822d6114b0ffe7-p_276666007&amp;abt=3)
-    - [Gigabyte GA-Z170X-UD3](http://search.jd.com/Search?keyword=Gigabyte%20Z170X%20UD3&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=396c9f5a3b264ea2a0ddb0b60e33d449-p_276666007&amp;abt=3)
+- CPU + 主板（mATX）：
+	- Core i7-7700K + 技嘉（GIGABYTE）Z270MX-Gaming 5
+		- [英特尔（Intel） i7 7700K 酷睿四核 盒装CPU处理器](http://search.jd.com/Search?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94%EF%BC%88Intel%EF%BC%89%20i7%207700K%20%E9%85%B7%E7%9D%BF%E5%9B%9B%E6%A0%B8%20%E7%9B%92%E8%A3%85CPU%E5%A4%84%E7%90%86%E5%99%A8%20&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=3e243fa00ccd48eabd4c4f18ee59485b-p_669693165&abt=3)
+		- [技嘉（GIGABYTE）Z270MX-Gaming 5](http://search.jd.com/Search?keyword=%E6%8A%80%E5%98%89%EF%BC%88GIGABYTE%EF%BC%89Z270MX-Gaming%205&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=2ff9c04f051d4a428dd14d165f3ee1d7-p_669693165&abt=3) 
+	- Core i5-7500 + 技嘉（GIGABYTE）H270M-D3H 主板 
+		- [英特尔（Intel） i5 7500 酷睿四核 盒装CPU处理器](http://search.jd.com/Search?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94%EF%BC%88Intel%EF%BC%89%20i5%207500%20%E9%85%B7%E7%9D%BF%E5%9B%9B%E6%A0%B8%20%E7%9B%92%E8%A3%85CPU%E5%A4%84%E7%90%86%E5%99%A8&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=4c68ad9651ba41d7b612ad2312893bbc-p_669693165&abt=3)
+		- [技嘉（GIGABYTE）H270M-D3H 主板](http://search.jd.com/Search?keyword=%E6%8A%80%E5%98%89%EF%BC%88GIGABYTE%EF%BC%89H270M-D3H%20%E4%B8%BB%E6%9D%BF&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=1476c8984def4ae2b51ccb079c4f7543-p_669693165&abt=3)
 - 显卡：
-    - tonymacx 主推的是：Gigabyte（技嘉） 和 EVGA 这两个牌子，其中 Gigabyte 我们比较容易买到。
-    - 一般我们都是选 Nvidia 芯片的，虽然也有人搞 ADM，但是还是别多事。
-    - [Gigabyte GTX 960](http://search.jd.com/Search?keyword=Gigabyte%20GTX%20960&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=a5ec4d41559841c5a072b191ec68bb91-p_276666007&amp;abt=3)
-    - [Gigabyte GTX 950](http://search.jd.com/Search?keyword=Gigabyte%20GTX%20950&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=0f6590aa64fb457d971d6b1389df86a3-p_276666007&amp;abt=3)
-    - [Gigabyte GTX 750 Ti](http://search.jd.com/Search?keyword=Gigabyte%20GTX%20750%20Ti&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=e7c5fdcd09614f5b8bad47264a4667d5-p_276666007&amp;abt=3)
+    - [技嘉(GIGABYTE)GTX 1050Ti G1 GAMING](http://search.jd.com/Search?keyword=%E6%8A%80%E5%98%89(GIGABYTE)GTX%201050Ti%20G1%20GAMING&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=1fcdb63f66b6401f9070823fce6712ab-p_669693165&abt=3)
 - 内存：
-    - 因为前面的主板都是支持 DDR4 的，所以这里挑选也是要选择 DDR4 的，具体支持的 DDR4 频率，那就看你选的主板支持哪些参数。
-    - 8G 的内存在目前市场是不够的，一般都要 16G，如果能上 32G 那就更好了，随便你玩。
-    - tonymacx 主推的是 Crucial（英睿达，美光旗下） 京东也有卖，但是就黑苹果而言，我个人觉得其他内存牌子影响不大，虽然我没有考究过这个观点，如果识别不到不要怪我哦。
-    - [Crucial DDR4 2400 16G](http://search.jd.com/Search?keyword=Crucial%20DDR4%202400%2016G&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=af445d99f4254d888f9354dd7c602a4b-p_276666007&amp;abt=3)
-    - [金士顿 DDR4 2400 16G](http://search.jd.com/Search?keyword=%E9%87%91%E5%A3%AB%E9%A1%BF%20DDR4%202400%2016G&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=cf3cda815fc044e3b6fe051cb7a92ad9-p_276666007&amp;abt=3)
-    - [海盗船 DDR4 2400 16G](http://search.jd.com/Search?keyword=%E6%B5%B7%E7%9B%97%E8%88%B9%20DDR4%202400%2016G&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=f202d9cfd851405f95c31f9a85c4c99b-p_276666007&amp;abt=3)
+    - [金士顿(Kingston)骇客神条 Fury系列 DDR4 2400](http://search.jd.com/Search?keyword=%E9%87%91%E5%A3%AB%E9%A1%BF(Kingston)%E9%AA%87%E5%AE%A2%E7%A5%9E%E6%9D%A1%20Fury%E7%B3%BB%E5%88%97%20DDR4%202400&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=3cc180f12cea4e12af4c335c9249366f-p_669693165&abt=3)
 - 硬盘：
-    - 必须有 SSD，不然都不好跟人说是现在配置的机子了。
-    - tonymacx 推荐的是：Samsung 850 EVO，但是就黑苹果而言，我个人觉得其他 SSD 牌子影响不大，虽然我没有考究过这个观点。
-    - 其实没啥可以选的。
-    - [Samsung 850 PRO](http://search.jd.com/Search?keyword=Samsung%20850%20PRO&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=349d11a43f964812a59f0f4c25ea0e18-p_276666007&amp;abt=3)
-    - [Samsung 850 EVO](http://search.jd.com/Search?keyword=Samsung%20850%20EVO&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=6ee3278feb664bd897237b94fd09f585-p_276666007&amp;abt=3)
-    - [机械硬盘：西部数码-红盘](http://search.jd.com/Search?keyword=%E8%A5%BF%E9%83%A8%E6%95%B0%E7%A0%81%20%E7%BA%A2%E7%9B%98&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=362c84271017435fa52cb73e2c5976fd-p_276666007&amp;abt=3)
-- 额外设备：
-    - 最好额外加个 PCI-E 无线网卡，黑苹果的有线网卡驱动比较费劲，无线的最简单，下面由贵到便宜排序：
-    - [TP-LINK WDN4800](http://search.jd.com/Search?keyword=TP-LINK%20WDN4800&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=92b670e67d49492e96b61b41b795c90d-p_276666007&amp;abt=3)
-    - [TP-LINK WN781N](http://search.jd.com/Search?keyword=TP-LINK%20WN781N&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=17123c435c314f3e8a5381d759c79dbf-p_276666007&amp;abt=3)
+    - 首推 M.2 固态
+    - [三星(SAMSUNG) 960 EVO 250G M.2 NVMe 固态硬盘](http://search.jd.com/Search?keyword=%E4%B8%89%E6%98%9F(SAMSUNG)%20960%20EVO%20250G%20M.2%20NVMe%20%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=d22f299419a2402da63a804d67d28558-p_669693165&abt=3)
+    - [机械硬盘：西部数码-蓝盘](http://search.jd.com/Search?keyword=%E8%A5%BF%E9%83%A8%E6%95%B0%E7%A0%81-%E8%93%9D%E7%9B%98&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=62f78a4f4044456381e29f297c7e8f1a-p_669693165&abt=3)
 - 其他随意
-    - 显示器：[DELL U2515H 25英寸 2K 支持旋转升降](http://search.jd.com/Search?keyword=DELL%20U2515H&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=bf1eb9a6807a428b9e8ca8492bb9e908-p_276666007&amp;abt=3)
-    - 电源：[安钛克 EAG550 PRO](http://search.jd.com/Search?keyword=%E5%AE%89%E9%92%9B%E5%85%8B%20EAG550%20PRO&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=3c96a2e4d5a648d3bad1f245f54d3912-p_276666007&amp;abt=3)
-    - 机箱：[九州风神 公爵 ATX](http://search.jd.com/Search?keyword=%E4%B9%9D%E5%B7%9E%E9%A3%8E%E7%A5%9E%20%E5%85%AC%E7%88%B5%20ATX&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=2377335f43884b998ef3cd0063b66d2f-p_276666007&amp;abt=3)
+    - 显示器：[三星（SAMSUNG） C27H711QEC 27英寸1800R震撼曲率微边框2K高分曲面显示器](http://search.jd.com/Search?keyword=%E4%B8%89%E6%98%9F%EF%BC%88SAMSUNG%EF%BC%89%20C27H711QEC%2027%E8%8B%B1%E5%AF%B81800R%E9%9C%87%E6%92%BC%E6%9B%B2%E7%8E%87%E5%BE%AE%E8%BE%B9%E6%A1%862K%E9%AB%98%E5%88%86%E6%9B%B2%E9%9D%A2%E6%98%BE%E7%A4%BA%E5%99%A8&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=340faacd23d444baa72b97652dec4cc4-p_669693165&abt=3)
+    - 显示器：[戴尔（DELL）U2518DR 25英寸2K分辨率四边微边框旋转升降IPS屏 HDR 爱眼滤蓝光 电脑显示器](http://search.jd.com/Search?keyword=%E6%88%B4%E5%B0%94%EF%BC%88DELL%EF%BC%89U2518DR%2025%E8%8B%B1%E5%AF%B82K%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%9B%E8%BE%B9%E5%BE%AE%E8%BE%B9%E6%A1%86%E6%97%8B%E8%BD%AC%E5%8D%87%E9%99%8DIPS%E5%B1%8F%20HDR%20%E7%88%B1%E7%9C%BC%E6%BB%A4%E8%93%9D%E5%85%89%20%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%99%A8&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=4385c09ff40c46c7ba34ef21eef1577d-p_669693165&abt=3)
+    - 电源：[安钛克（Antec）额定550W VP 550P 电脑电源](http://search.jd.com/Search?keyword=%E5%AE%89%E9%92%9B%E5%85%8B%EF%BC%88Antec%EF%BC%89%E9%A2%9D%E5%AE%9A550W%20VP%20550P%20%E7%94%B5%E8%84%91%E7%94%B5%E6%BA%90&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=a20f4247481e4b7090bc7aa1051a780f-p_669693165&abt=3)
+- 额外设备：
+    - 最好额外加个 PCI-E 无线网卡，黑苹果的有线网卡驱动比较费劲，无线的最简单
+    - [TP-LINK TL-WDN6280 AC1300](http://search.jd.com/Search?keyword=TP-LINK%20TL-WDN6280%20AC1300&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=54d6c6c7d10244ff82b66b19c059cb48-p_669693165&abt=3)
 
 ### 微单/单反
 
 - 微单
-    - 微单市场做得最好的就是 "被破产" 的 sony 了，它的 α7 是目前的微单旗舰，其中 α7 又分为（我都没用过，但是以后要买的话就去考虑这个）：
-    - [SONY ILCE-7R II，侧重照相](http://search.jd.com/Search?keyword=SONY%20ILCE-7R&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=952bff5d5e5a45d0b9b23eafee0bbe96-p_276666007&amp;abt=3)
-    - [SONY ILCE-7S II，侧重视频](http://search.jd.com/Search?keyword=SONY%20ILCE-7S&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=62e355a3800b441987855885040ad936-p_276666007&amp;abt=3)
-    - [SONY ILCE-7 II，综合性相机，也叫做啥都可以干，啥都不比它兄弟突出](http://search.jd.com/Search?keyword=SONY%20ILCE-7&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=ac339655a4224c56af2517e6544bb237-p_276666007&amp;abt=3)
+    - [索尼（SONY） ILCE-7RM2](http://search.jd.com/Search?keyword=%E7%B4%A2%E5%B0%BC%EF%BC%88SONY%EF%BC%89%20ILCE-7RM2&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=aa74d5832b4640fe9015150984129d1c-p_669693165&abt=3)
 - 单反
-	- 全画幅的流行的就是：
-	    - [Canon 5D Mark IV](http://search.jd.com/Search?keyword=Canon%205D%20Mark%20IV&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=5489617863ef490a8676cbeaa70df2f0-p_276666007&amp;abt=3)
-	    - [Canon 5D Mark III](http://search.jd.com/Search?keyword=Canon%205D%20Mark%20III&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=2e516110d7424c6cb7c583d7853d225f-p_276666007&amp;abt=3)
-	- APS-C 画幅：
-	    - [Canon 80D](http://search.jd.com/Search?keyword=Canon%2080D&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=727c302f0f4747a894518627cee4a2f2-p_276666007&amp;abt=3)
-	    - [Canon 70D](http://search.jd.com/Search?keyword=Canon%2070D&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=34502e28d7ce4371807d996aca585390-p_276666007&amp;abt=3)
-- 镜头，我没本事推
+    - 全画幅的流行的就是：
+    - [Canon 5D Mark IV](http://search.jd.com/Search?keyword=Canon%205D%20Mark%20IV&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=05ac205df3304826878cfca8b07fe333-p_669693165&abt=3)
+
 
 ### 蓝牙耳机
 
-- 影音会场优惠券领取：[影音会场](https://sale.jd.com/act/GECX36HVmAlakiYe.html)
-- 我目前用的是下面这两个：
-    - [SONY MDR-EX750BT](http://search.jd.com/Search?keyword=SONY%20MDR-EX750BT&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=328b6adf10ff4a0c82705a393aacd8de-p_276666007&amp;abt=3)
-    - [Beats Studio Wireless](http://search.jd.com/Search?keyword=Beats%20Studio%20Wireless&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=f17ce5d1b437495ab17678f8904ec339-p_276666007&amp;abt=3)
-- 还可以推荐（没用过，但是会考虑）：
-    - [SONY MDR-1ABT](http://search.jd.com/Search?keyword=SONY%20MDR-1ABT&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=a4f0b4580f964cbeb4d3f81e9f323827-p_276666007&amp;abt=3)
-    - [SONY MDR-100ABN](http://search.jd.com/Search?keyword=SONY%20MDR-100ABN&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=88708c2007094421b8bf2345b9e5b680-p_276666007&amp;abt=3)
-    - [Bose QC35](http://search.jd.com/Search?keyword=Bose%20QC35&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=bc5d938535ff4e008c86e391f0b7bb14-p_276666007&amp;abt=3)
+- [索尼(SONY)WI-1000X](http://search.jd.com/Search?keyword=%E7%B4%A2%E5%B0%BC(SONY)WI-1000X&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=8612610df57b4000b9c7118e1a1b08c5-p_669693165&abt=3)
+- [SONY MDR-EX750BT](http://search.jd.com/Search?keyword=SONY%20MDR-EX750BT&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=d635f78cf9b94b8b8f362c938698c346-p_669693165&abt=3)
+    
 
 ### 蓝牙音响
 
-- 影音会场优惠券领取：[影音会场](https://sale.jd.com/act/GECX36HVmAlakiYe.html)
-- 我目前用的是下面这个：
-    - [HiVi M200MKIII](http://search.jd.com/Search?keyword=HiVi%20M200MKIII&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=d3cac3d27367489fb23603dce7bd5fdc-p_276666007&amp;abt=3)
-- 还可以推荐（没用过，但是会考虑）：
-    - [EDIFIER S2000MKII](http://search.jd.com/Search?keyword=EDIFIER%20S2000MKII&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=52886ac3e5e64e12af464224cb75c937-p_276666007&amp;abt=3)
+- [惠威（HiVi）M200MKIII](http://search.jd.com/Search?keyword=%E6%83%A0%E5%A8%81%EF%BC%88HiVi%EF%BC%89M200MKIII&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=cfdff9a7e7db4b0ebd0b78fb75580d20-p_669693165&abt=3)
+- [漫步者（EDIFIER）S2000MKII](http://search.jd.com/Search?keyword=%E6%BC%AB%E6%AD%A5%E8%80%85%EF%BC%88EDIFIER%EF%BC%89S2000MKII&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=a49cc400586e4cd2b1860ca240dae40f-p_669693165&abt=3)
+
 
 ### 平板电脑
 
-- 新闻总说平板的增长慢如牛，我确实是没怎么用这东西，觉得生产力上太弱了，娱乐的话我觉得适合小孩子
-    - [Apple iPad mini 4 WLAN版，也就是不支持上网卡版](http://search.jd.com/Search?keyword=Apple%20iPad%20mini%204%20WLAN&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=6865cdd5398a4f53b3042f5be804c9df-p_276666007&amp;abt=3)
-    - [Apple iPad mini 4 Cellular版，也就是支持上网卡版](http://search.jd.com/Search?keyword=Apple%20iPad%20mini%204%20Cellular&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=75945cac00624c4eae383fe6c0c91ce3-p_276666007&amp;abt=3)
-    - [Apple iPad mini 2 WLAN版，也就是不支持上网卡版](http://search.jd.com/Search?keyword=Apple%20iPad%20mini%202%20WLAN&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=f58b2b7997d04e0c9f88a276071ea5ae-p_276666007&amp;abt=3)
-    - [Apple iPad mini 2 Cellular版，也就是支持上网卡版](http://search.jd.com/Search?keyword=Apple%20iPad%20mini%202%20Cellular&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=5e73598f0a3847129ba16fa2bd4b57db-p_276666007&amp;abt=3)
-- Apple 的产品有几款是有专门的优惠券的，需要用京豆换：[APPLE 活动](https://sale.jd.com/act/kxrtIQs6FcH.html)
+- [Apple iPad Pro 平板电脑 10.5 英寸（256G WLAN版/A10X芯片/Retina屏/Multi-Touch技术 MPF22CH/A）](http://search.jd.com/Search?keyword=Apple%20iPad%20Pro%20%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%2010.5%20%E8%8B%B1%E5%AF%B8&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=5cf02562905049858da8ba867d501e09-p_669693165&abt=3)
 
 ### 播放器
 
-- 我目前用的是下面这个：
-    - [iPod nano](http://search.jd.com/Search?keyword=iPod%20nano&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=e304ac0d6ef34f44add4fbdab8016d6a-p_276666007&amp;abt=3)
-- 还可以推荐（没用过，但是会考虑）：
-    - [SONY NW-ZX100](http://search.jd.com/Search?keyword=SONY%20NW-ZX100&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=7c9b0913b6bc43eba48bd8eb5762501b-p_276666007&amp;abt=3)
+- [索尼（SONY）Hi-Res高解析度无损音乐播放器16GB NW-ZX300A](http://search.jd.com/Search?keyword=%E7%B4%A2%E5%B0%BC%EF%BC%88SONY%EF%BC%89Hi-Res%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A816GB%20NW-ZX300A&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=8ab510ed8b7c492ea4f640c26c928e27-p_669693165&abt=3)
 
 ### 路由器
 
-- 路由器现在的区分最明显就是，带不带硬盘我觉得不可以不用 NAS 了，除非你有 NAS 的其他功能需求。我目前使用的是不带硬盘的，下载东西都是挂着电脑下的。
-    - [小米 大路由器 1T版](http://search.jd.com/Search?keyword=%E5%B0%8F%E7%B1%B3%20%E5%A4%A7%E8%B7%AF%E7%94%B1%E5%99%A8%201T%E7%89%88&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=8658d4774b1d4bbdbdf36fdec9390079-p_276666007&amp;abt=3)
-    - [极路由4](http://search.jd.com/Search?keyword=%E6%9E%81%E8%B7%AF%E7%94%B14&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=77d97fbec3f1486199594352ddbe45a4-p_276666007&amp;abt=3)
-    - [NETGEAR R7000 AC1900](http://search.jd.com/Search?keyword=NETGEAR%20R7000%20AC1900&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=47ec2568490948d9958728f184649bfd-p_276666007&amp;abt=3)
-    - [TP-LINK TL-WDR8400](http://search.jd.com/Search?keyword=TP-LINK%20TL-WDR8400&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=2c1e5bc34c1d41ab8ec99a79b77aff3a-p_276666007&amp;abt=3)
+- [TP-LINK TL-WDR8620 2600M智能11AC双频无线路由器 千兆有线端口 光纤宽带 大户型穿墙](http://search.jd.com/Search?keyword=TP-LINK%20TL-WDR8620%202600M&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=8b201ed97d2d4e1daa56ea2b70ef627f-p_669693165&abt=3)
+
 
 ### NAS
 
-- 还没有用过，但是觉得在未来很有可能会有一个，方便一些等不及的事情
-    - [Synology DS216play](http://search.jd.com/Search?keyword=Synology%20DS216play&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=f742114d6c284f808acf2c38f23f6585-p_276666007&amp;abt=3)
-    - [QNAP TS-212P](http://search.jd.com/Search?keyword=QNAP%20TS-212P&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=10573aa942de49eca10a905271899407-p_276666007&amp;abt=3)
+- [群晖（Synology）DS218+ 2盘位 NAS网络存储服务器](http://search.jd.com/Search?keyword=%E7%BE%A4%E6%99%96%EF%BC%88Synology%EF%BC%89DS218%20%202%E7%9B%98%E4%BD%8D&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=74211f8559854814a5b0d60e6a2d5374-p_669693165&abt=3)
+- [威联通（QNAP）TS-251+ 2G内存 NAS网络存储器 赛扬2.0G四核CPU](http://search.jd.com/Search?keyword=%E5%A8%81%E8%81%94%E9%80%9A%EF%BC%88QNAP%EF%BC%89TS-251%20%20&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=4f75979f964545bf804a9a61b00acfb0-p_669693165&abt=3)
+
+
 
 ### 游戏机
 
-- 游戏机
-    - 这个市场可以选择的牌子不多，我没买过，玩过一段时间的 XBOX，也倾向于 XBOX
-    - 可在商品详细页领劵
-    - [Microsoft Xbox One](http://search.jd.com/Search?keyword=Microsoft%20Xbox%20One&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=70bf9f2c3e0c41d09ae3aefea9eaeca0-p_276666007&amp;abt=3)
-    - [SONY PS4](http://search.jd.com/Search?keyword=SONY%20PS4&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=7bcd796bc2e34b139769a05338795067-p_276666007&amp;abt=3)
-- 掌机
-    - 就小时候玩过 GBA，还玩过其他人的 PSP，现在主流的就是这两个了
-    - [SONY PSV](http://search.jd.com/Search?keyword=SONY%20PSV&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=2722594e33ac45a58c17e65399568e66-p_276666007&amp;abt=3)
-    - [Nintendo 3DS](http://search.jd.com/Search?keyword=Nintendo%203DS&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=137bceb8ff6a4d7b99633fe14c841c78-p_276666007&amp;abt=3)
-- VR
-    - 没玩过...未来 5 年的游戏场景应该就是这种了。
-    - [HTC VIVE](http://search.jd.com/Search?keyword=HTC%20VIVE&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=9a42f10b10844cd789904c9f8c35c9d1-p_276666007&amp;abt=3)
-    - [SONY PSVR](http://search.jd.com/Search?keyword=SONY%20PSVR&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=7264af4bcbe147e49e2355f9c9722d7d-p_276666007&amp;abt=3)
+- 游戏机 + 掌机
+    - [任天堂（Nintendo） 任天堂Switch 游戏机 掌机](http://search.jd.com/Search?keyword=%E4%BB%BB%E5%A4%A9%E5%A0%82%EF%BC%88Nintendo%EF%BC%89%20%E4%BB%BB%E5%A4%A9%E5%A0%82Switch%20%E6%B8%B8%E6%88%8F%E6%9C%BA%20%E6%8E%8C%E6%9C%BA&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=236268038d4440ffab05c7b33cbf5c7f-p_669693165&abt=3)
+
 
 ### 无人机
 
-- 无人机优惠券领取：[新奇专场](https://sale.jd.com/act/Jg8jdznQCwAoETXv.html)
-- 玩不起...但是占有率/知名度的大家都知道大疆
-    - [大疆 Inspire 1](http://search.jd.com/Search?keyword=%E5%A4%A7%E7%96%86%20Inspire%201&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=c9fcefef3e36460db150303d2a0f14d1-p_276666007&amp;abt=3)
-    - [大疆 精灵4](http://search.jd.com/Search?keyword=%E5%A4%A7%E7%96%86%20%E7%B2%BE%E7%81%B54&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=862c3a3708e4419aad7c39020f4ead25-p_276666007&amp;abt=3)
-    - [大疆 精灵3](http://search.jd.com/Search?keyword=%E5%A4%A7%E7%96%86%20%E7%B2%BE%E7%81%B53&amp;enc=utf-8&amp;cu=true&amp;utm_source=ads.union.jd.com&amp;utm_medium=tuiguang&amp;utm_campaign=t_248690136_&amp;utm_term=8e6fa30eefaf431d94c8eaeffe711ec0-p_276666007&amp;abt=3)
+- [大疆 精灵3 SE](http://search.jd.com/Search?keyword=%E5%A4%A7%E7%96%86%20%E7%B2%BE%E7%81%B53%20SE&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=31e4573242db463bb7a2cb6561c912ac-p_669693165&abt=3)
+- [大疆 精灵3](http://search.jd.com/Search?keyword=%E5%A4%A7%E7%96%86%20%E7%B2%BE%E7%81%B53&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=b2af81906d724f0690cbe5f644ed025d-p_669693165&abt=3)
+- [大疆（DJI）“御”Mavic Pro](http://search.jd.com/Search?keyword=%E5%A4%A7%E7%96%86%EF%BC%88DJI%EF%BC%89%E2%80%9C%E5%BE%A1%E2%80%9DMavic%20Pro&enc=utf-8&cu=true&utm_source=ads-union.jd.com&utm_medium=tuiguang&utm_campaign=t_248690136_&utm_term=222204b0d17f4dcebf8c3fe433190fc0-p_669693165&abt=3)
+
+
 
 ## 结束语
 
-- 好累，好累，急着整理这些东西搞得自己好难受，信息量太大了
+- 感叹有钱真好的同时也请勒紧口袋。
+
+--------------------------------------------------
+
+<script type="text/javascript">var jd_union_pid="669693165";var jd_union_euid="";</script><script type="text/javascript" src="//ads.union.jd.com/static/js/union.js"></script>
+
+
