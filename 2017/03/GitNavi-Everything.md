@@ -6,9 +6,6 @@ categories: [GitNavi]
 tags: [GitNavi]
 ---
 
-
-<!-- more -->
-
 ![GitNavi 首页](http://img.youmeek.com/2017/gitnavi-front-1.jpg)
 
 ## GitNavi 总结

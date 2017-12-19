@@ -7,9 +7,6 @@ tags: [学习方法,Maven,Java]
 top: 1000
 ---
 
-
-<!-- more -->
-
 ## 本文 Markdown 源文件地址
 
 - 转载请注明出处：<https://github.com/judasn/hexo-blog/blob/master/2016/02/My-Learning-Way.md>
